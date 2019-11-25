@@ -95,7 +95,7 @@ This proof doesn't have to be official. I perosnally printed a pdf from my netba
 Also, the amount of money available to you, no matter how high, does not influence the decision of TE-services negatively.
 
 * Apply for startup grant [electronically](https://asiointi.mol.fi/omaasiointi/?kieli=fi) (only available in Finnish)
-and you will get a decision within 2 weeks (official estimation).
+and you will get an electronic decision within 2 weeks (official estimation). Official decision letter should arrive by post soon after the decision is served (~1 week).
 
 **Steps** for  application extension:
 
