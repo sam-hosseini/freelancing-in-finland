@@ -9,6 +9,7 @@ Everything you need to know to start freelancing in Finland as a software develo
   * [Solution](#solution)
 * [Preparation](#preparation)
   * [Startup grant (starttiraha)](#startup-grant-starttiraha)
+  * [Quit your job](#quit-your-job)
 * [Foundation](#foundation)
 * [Operation](#operation)
 
@@ -89,6 +90,16 @@ and you will get a decision within 2 weeks (official estimation).
 **Steps** for  application extension:
 
 * I don't know. Do you know? Please send a pull request 💯
+
+### Quit your job
+
+**What is it?** The positive decision to your startup grant is on the condition that you will quit your job and become a full-time entreprenuer.
+
+
+**Steps**:
+* **Terminology**: `employee` and `self-employed` are two different terms and they cannot be used interchangably.
+* As an `employee`, deliver your binding resignation in written form to your employer.
+* After that, and from the first day of your startup grant decision, you are `self-employed`.
 
 ## Foundation
 
