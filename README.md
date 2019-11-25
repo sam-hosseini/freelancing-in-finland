@@ -8,6 +8,7 @@ Everything you need to know to start freelancing in Finland as a software develo
   * [Problem](#problem)
   * [Solution](#solution)
 * [Preparation](#preparation)
+  * [Startup grant (starttiraha)](#startup-grant-starttiraha)
 * [Foundation](#foundation)
 * [Operation](#operation)
 
@@ -50,6 +51,44 @@ This guide will have 3 sections.
 I hope it saves you time 💐
 
 ## Preparation
+
+### Startup grant (starttiraha)
+
+**Source of truth**: [TE-services startup grant page](https://www.te-palvelut.fi/te/en/employers/for_entrepreneurs/services_new_entrepreneurs/startup_grant/index.html)
+
+**What is it?** Startup grant is a program to support you to become an entreprenuer.
+You will receive the monthly payment for 6 months (if you apply once) or 12 months (if you apply for extension as well).
+
+**How much?** ~680€ per month, as personal income. If your income tax is 25%, for example, you will get 510€.
+
+**Steps** for first application:
+
+* You will be disqualified from startup grant if you have already established your company or started full-time entreprenuership.
+
+* You need a business plan and certain financial calculations as an attachment to your application.
+You can use [My Enterprise Finland](https://oma.yrityssuomi.fi/#) and complete the steps for `Business plan` to
+draw up your business plan which includes all necessary financial calculations as well.
+
+* Once you have your business plan ready, as an **optional** step, you can send an email with your business plan attached to the
+[Enterprise Agency in your city](https://www.uusyrityskeskus.fi/yritysneuvonta/uusyrityskeskukset/) and ask them for an appointment with a _Business Advisor_.
+In Helsinki, [_NewCo Helsinki_](https://newcohelsinki.fi/en/) is the Enterprise Agency to go to. Although it is not mandatory to go to this appointment for getting startup grant,
+the _Business Advisor_ has seen hundreds of business plans and can guide you to correct your mistakes in the business plan and therefore increase your chances for a successful application.
+
+* You need an updated Resumé as an attachment to your application.
+
+* You need a [tax debt certificate](https://www.vero.fi/en/About-us/contact-us/efil/information-on-mytax/how-to-request-a-tax-debt-certificate-in-mytax/) as an attachment to your application.
+
+* In your business plan, you have specified how much **own funding** you have available to you.
+You need to provide a proof of your claimed own funding as an attachment to your application.
+This proof doesn't have to be official. I perosnally printed a pdf from my netbank account overview and that was enough for a successful application.
+Also, the amount of money available to you, no matter how high, does not influence the decision of TE-services negatively.
+
+* Apply for startup grant [electronically](https://asiointi.mol.fi/omaasiointi/?kieli=fi) (only available in Finnish)
+and you will get a decision within 2 weeks (official estimation).
+
+**Steps** for  application extension:
+
+* I don't know. Do you know? Please send a pull request 💯
 
 ## Foundation
 
