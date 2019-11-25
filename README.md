@@ -9,6 +9,7 @@ Everything you need to know to start freelancing in Finland as a software develo
   * [Solution](#solution)
 * [Preparation](#preparation)
   * [Immigration permit](#immigration-permit)
+  * [Freelance brokers](#freelance-brokers)
   * [Startup grant (starttiraha)](#startup-grant-starttiraha)
   * [Quit your job](#quit-your-job)
   * [Genral housing allowance (asumistuki)](#genral-housing-allowance-asumistuki)
@@ -64,6 +65,41 @@ I hope it saves you time 💐
 * If you're a Finnish citizen, this is not applicable to you.
 * If you're a EU citizen, I don't know. Do you know? Please send a pull request 💯
 * If you're a non-EU citizen, I don't know. Do you know? Please send a pull request 💯
+
+### Freelance brokers
+
+**What is it?** To find a project that you like, there are companies that can help you with that.
+Most require a meeting before they let you in their network. It's always a relaxed meeting, though, as you will be _partners_ who will help each other.
+
+**How does it work?** They find you a project. They add around 5-20% to your hourly rate. You invoice them. They invoice the end client.
+
+**What happens in the meeting?**
+
+* They ask if you know their company and depending on that, they introduce you accordingly.
+* They ask about your story.
+* They ask if there's an industry that you particularly like/dislike to work in.
+* They ask about your hourly rate.
+
+**What about hourly rate?** In Helsinki, if we put aside particular situations in which the client has become dependent on a single point of failure developer,
+or other extraordinary situations, in an average project with an average client with an average developer, I've heard companies charging their clients between
+90-130€ per hour depending on the strength of their brand, the experience of the developers in the team, and the particular relationship with that client.
+In extraordinary situations, I've heard of 150-200€ per hour.
+
+However, the ranges above are for direct company-to-client sales. If you get connected to a client using an intermediary broker company, the ranges will be cut
+by 5-20%, which would be their cut of the hourly rate. This means that, with one intermediary company, you're looking at 65-105€ per hour in non-extraordinary situations.
+
+**List of brokers**:
+* Fika ☕️ with [Talented](https://talented.fi/for-talents/) and get into their Slack and Hub.
+* Fika ☕️ with [Tentimes](https://www.tentimesagency.com/) and get into their Slack.
+* Fika ☕️ with [Finitec](https://finitec.fi/) and get into their network.
+* Fika ☕️ with [Siili One](https://campaign.siili.com/one) and get into their network.
+
+**List of aggragate sites**:
+* Create a [job search alert](https://www.linkedin.com/jobs/) on Linkedin with:
+  * Your `location`
+  * Your most important `skill` (Python, for example)
+  * Job type as `Contract`
+* Create a profile on [Nordgigs](https://nordgigs.com/) which aggragates freelance projects across Nordic countries and email you on a match with your `skill` tags.
 
 ### Startup grant (starttiraha)
 
