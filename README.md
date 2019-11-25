@@ -8,6 +8,7 @@ Everything you need to know to start freelancing in Finland as a software develo
   * [Problem](#problem)
   * [Solution](#solution)
 * [Preparation](#preparation)
+  * [Immigration permit](#immigration-permit)
   * [Startup grant (starttiraha)](#startup-grant-starttiraha)
   * [Quit your job](#quit-your-job)
 * [Foundation](#foundation)
@@ -52,6 +53,15 @@ This guide will have 3 sections.
 I hope it saves you time 💐
 
 ## Preparation
+
+### Immigration permit
+
+**Source of truth**: [Finnish Immigration Service](https://migri.fi/en/)
+
+**Steps**:
+* If you're a Finnish citizen, this is not applicable to you.
+* If you're a EU citizen, I don't know. Do you know? Please send a pull request 💯
+* If you're a non-EU citizen, I don't know. Do you know? Please send a pull request 💯
 
 ### Startup grant (starttiraha)
 
