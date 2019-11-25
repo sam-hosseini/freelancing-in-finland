@@ -32,7 +32,7 @@ guides are the general population and the amount of details and information in t
 
 ### Solution
 
-A guide whose target audience would be tailored **to the person reading this README.md on Github**
+A guide tailored specifically **to the person reading this README.md on Github**
 
 You are the target audience of this guide if:
 
