@@ -261,8 +261,8 @@ almost anything that happens in the eco-system of your business will cost you so
 | OP     | ✅               | ❌ (1)                              | ?                      |
 | Holvi  | ✅               | ✅                                  | ❌ (2)                  |
 
-1. OP corporate account for limited liability companies have to be opened [by an appointment]
-(https://www.op.fi/corporate-customers/services-for-entrepreneurs/starting-a-business/open-corporate-account)
+1. OP corporate account for limited liability companies have to be
+opened [by an appointment](https://www.op.fi/corporate-customers/services-for-entrepreneurs/starting-a-business/open-corporate-account)
 2. Holvi phone support is for what Holvi considers [urgent](https://support.holvi.com/hc/en-gb/articles/115005238365-Holvi-s-service-and-support),
 which is mainly fraud-related activities, during weekdays. All other inquiries have to be submitted electronically.
 
