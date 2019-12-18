@@ -172,10 +172,10 @@ general housing allowance is ~410€ per month, tax free, for a studio in Helsin
   * are a a natural person from the perspective of law
   * pay taxes on your **income** in the form of _perosnal taxation_, at progressive rates, whenever you receive income
 * For the purpose of answering _what counts as a `self-employed` person's income from Kela's perspective_, your company's income is irrelavent.
-* Your income is relevant. If you have [YEL insurance](#self-employed-persons-pensions-act-yel):
-  * Your YEL insurance `level` is counted as your income, nothing else.
-  * You do not need to apply for general housing allowance review unless you change your YEL insurance `level`.
-* If you don't have YEL insurance:
+* Your income is relevant. If you have [YEL](#self-employed-persons-pensions-act-yel):
+  * Your YEL `income` is counted as your income, nothing else.
+  * You do not need to apply for general housing allowance review unless you change your YEL `income`.
+* If you don't have YEL:
   * All your income (salary, benefits, dividends, etc) counts as your income.
   * You need to apply for general housing allowance review if your income increases by 400€ per month.
 
@@ -191,5 +191,36 @@ general housing allowance is ~410€ per month, tax free, for a studio in Helsin
 ## Foundation
 
 ### Self-Employed Persons’ Pensions Act (YEL)
+
+**Source of truth**: [ETK Finnish Center for Pensions](https://www.etk.fi/en/the-pension-system/pension-security/pension-coverage-and-insurance/self-employed/)
+
+**What is it?** YEL is a social security mandatory insurance for self-employed persons.
+The name is **misleading**, as it does not only relate to your pension but to your entire social security benefits.
+
+**What is YEL `income` and YEL `contribution`?**
+
+* YEL `income`:
+  * Has absolutely nothing to do with your income (salary, benefits, dividends, etc).
+  * Is how much **"*coverage*"** in social security you would like to have.
+  * You have the freedom to choose between ~7,800€ up to ~177,000€ per year.
+* YEL `contribution`:
+  * Is how much you **pay** for your "*coverage*".
+  * Is ~19% of your YEL `income`, which means ~120€ up to ~2800€ per month as a businsss cost.
+
+Minimum YEL                |  Maximum YEL
+:-------------------------:|:-------------------------:
+![](./images/minimum_YEL.png)  |  ![](./images/maximum_YEL.png)
+
+\* Taken from [Varma.fi YEL calculator](https://www.varma.fi/en/entrepreneur/)
+
+**Steps**:
+
+* You have 6 months from starting self-employment to buy YEL.
+* Buy YEL from an YEL insurance provider:
+  * [elo](https://www.elo.fi/?sc_lang=en)
+  * [varma](https://www.varma.fi/en/)
+  * [ilmarinen](https://www.ilmarinen.fi/en/)
+  * [veritas](https://www.veritas.fi/en/)
+* I don't know if any provider is better than the other. Do you know which one is the best? Please send a pull request 💯
 
 ## Operation
