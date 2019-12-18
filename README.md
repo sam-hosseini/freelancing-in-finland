@@ -14,6 +14,7 @@ Everything you need to know to start freelancing in Finland as a software develo
   * [Quit your job](#quit-your-job)
   * [Genral housing allowance (asumistuki)](#genral-housing-allowance-asumistuki)
 * [Foundation](#foundation)
+  * [Establish your company](#establish-your-company)
   * [Self-Employed Persons’ Pensions Act (YEL)](#self-employed-persons-pensions-act-yel)
 * [Operation](#operation)
 
@@ -189,6 +190,59 @@ general housing allowance is ~410€ per month, tax free, for a studio in Helsin
 * You will receive a decision in ~3 weeks (official estimation).
 
 ## Foundation
+
+### Establish your company
+
+**Source of truth**: [Business Information System](https://www.ytj.fi/en/index.html)
+
+**What is it?** You need to register a *limited liability* company (Oy) to be able to offer your freelance services and **protect** your **personal** assets from a legal perspective.
+
+This *limited liability* is such an extremely important concept that I encourage you to watch [Khan Academy video on corporations and limited liability](https://www.khanacademy.org/economics-finance-domain/core-finance/taxes-topic/corporate-taxation/v/corporations-and-limited-liability)
+and make an **informed** decision whether going for a private trader (toiminimi) is **really** the course of action you'd like to take.
+
+**TL;DR of video**: Working under your own name as a private trader gives you **unlimited** liability and all your personal assets like your home, car, and personal savings are up for grabs if worst happens.
+In case of a limited liability company, the liability is *limited* and the company can declare bankrupcy if worst happens, and your perosnal assets are immune from the liability of the company.
+
+
+**How much?** ~280€ for online registration. It's a business cost. Later,
+when your company is registered and accounting and bank account are setup,
+you can claim this ~280€ back from the company as you paid this money from your *personal* bank account even though it was a *business* cost.
+
+**What is the role of Business Information System?**
+
+* What Local Register Office (maistraatti) is to you, Business Information System (ytj) is to your company.
+* This means that in the same manner that you came to life, in the eye of Finnish authorities, by getting a personal ID (henkilötunnus) from Local Register Office,
+your company will come to life by getting a company ID (Y-tunnus) from Business Information System.
+* Similarly, in the same way that you update your personal information like your address after you move apartments in Local Register Office,
+you'll update your company's information in Business Information System if there are changes.
+* Business Information System is also the **single place** in which you can communicate with and join/exit various registeries by Tax Administraion (Vero) and Finnish Patent and Registration Office (PRH).
+  * Tax Administraion maintains:
+    * Prepayment register (Ennakkoperintärekisteri), which allows your company to take care of its own taxes.
+    * VAT register (Arvonlisäverovelvollisuus), which allows your company to report VAT related matters.
+    * Employer register (Työnantajarekisteri), which allows your company to report employee-related matters.
+  * Finnish Patent and Registration Office maintains:
+    * Trade register (Kaupparekisteri), which stores your company's information.
+
+**Steps**:
+
+* Choose a company name.
+  * Seach for your chosen name in [Name Checking Service for Companies](https://nimipalvelu.prh.fi/nipa/en)
+  * If no exact match or very-similar names were found for your chosen name, then probably it will be accepted in the application process.
+  * You will be given 3 fields for company name, so prepare 2 backup names as well in case your primay name cannot be registered.
+* Choose your main line of busines.
+  * Source of truth: [Statistics Finland](https://stat.fi/meta/luokitukset/toimiala/001-2008/index_en.html)
+  * Required by Tax Administraion.
+  * For freelancing, you can choose any from [\[Information and communication > Computer programming, consultancy and related activities\]](https://stat.fi/meta/luokitukset/toimiala/001-2008/62_en.html)
+that you feel is most relavent.
+  * `62010 Computer programming activities` is common as several freelancing agencies like Futurice and Reaktor have chosen that, so you can go with that as well.
+* Decide the registries you'd like your company to be part of:
+  * Trade register ✅, as the company cannot come into life without it.
+  * Prepayment register ✅, as without it, other companies have to withhold taxes on the amounts they pay you.
+  * VAT register ✅, as you can start deducting VAT from things or services you  purchase for your *main line of business*. For example, if you buy a laptop for 2,000€, you'll get ~500€ back (VAT 24%).
+  * Employer register ❌, because you don't need it if you're not employing anyone else. The fact that you're employing yourself is irrelavent as you're considered `self-employed`, not an `employee`.
+You can join later, once and if you start employing others.
+* Establish your company online by filing a *startup notification* at [Business Information System](https://asiointi.ytj.fi/ytjap) (only available in Finnish)
+  * You can also give power of attorney in Business Information System to an accountant so that they can establish the company on your behalf.
 
 ### Self-Employed Persons’ Pensions Act (YEL)
 
