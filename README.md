@@ -15,6 +15,7 @@ Everything you need to know to start freelancing in Finland as a software develo
   * [Genral housing allowance (asumistuki)](#genral-housing-allowance-asumistuki)
 * [Foundation](#foundation)
   * [Establish your company](#establish-your-company)
+  * [Open a business bank account](#open-a-business-bank-account)
   * [Find an accountant](#find-an-accountant)
   * [Self-Employed Persons’ Pensions Act (YEL)](#self-employed-persons-pensions-act-yel)
 * [Operation](#operation)
@@ -244,6 +245,27 @@ that you feel is most relavent.
 You can join later, once and if you start employing others.
 * Establish your company online by filing a *startup notification* at [Business Information System](https://asiointi.ytj.fi/ytjap) (only available in Finnish)
   * You can also give power of attorney in Business Information System to an accountant so that they can establish the company on your behalf.
+
+### Open a business bank account
+
+**What is it?** A business bank account for your company's business activities.
+
+**How much?** ~30€ per month. Base prices might start from ~10€ but in *business* accounts, unlike *perosnal* accounts,
+almost anything that happens in the eco-system of your business will cost you something and will drive the total cost to around ~30€.
+
+**Comparison of services**:
+
+|        | English service | Possibility to open account online | Phone customer service |
+| :----- | --------------- | ---------------------------------- | ---------------------- |
+| Nordea | ✅               | ✅                                  | ✅                      |
+| OP     | ✅               | ❌ (1)                              | ?                      |
+| Holvi  | ✅               | ✅                                  | ❌ (2)                  |
+
+1. OP corporate account for limited liability companies have to be opened [by an appointment]
+(https://www.op.fi/corporate-customers/services-for-entrepreneurs/starting-a-business/open-corporate-account)
+2. Holvi phone support is for what Holvi considers [urgent](https://support.holvi.com/hc/en-gb/articles/115005238365-Holvi-s-service-and-support),
+which is mainly fraud-related activities, during weekdays. All other inquiries have to be submitted electronically.
+
 
 ### Find an accountant
 
