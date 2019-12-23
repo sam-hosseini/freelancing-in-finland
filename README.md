@@ -12,7 +12,7 @@ Everything you need to know to start freelancing in Finland as a software develo
   * [Freelance brokers](#freelance-brokers)
   * [Startup grant (starttiraha)](#startup-grant-starttiraha)
   * [Quit your job](#quit-your-job)
-  * [Genral housing allowance (asumistuki)](#genral-housing-allowance-asumistuki)
+  * [General housing allowance (asumistuki)](#genral-housing-allowance-asumistuki)
 * [Foundation](#foundation)
   * [Establish your company](#establish-your-company)
   * [Open a business bank account](#open-a-business-bank-account)
@@ -97,25 +97,25 @@ by 5-20%, which would be their cut of the hourly rate. This means that, with one
 * Fika ☕️ with [Finitec](https://finitec.fi/) and get into their network.
 * Fika ☕️ with [Siili One](https://campaign.siili.com/one) and get into their network.
 
-**List of aggragate sites**:
-* Create a [job search alert](https://www.linkedin.com/jobs/) on Linkedin with:
+**List of aggregate sites**:
+* Create a [job search alert](https://www.linkedin.com/jobs/) on LinkedIn with:
   * Your `location`
   * Your most important `skill` (Python, for example)
   * Job type as `Contract`
-* Create a profile on [Nordgigs](https://nordgigs.com/) which aggragates freelance projects across Nordic countries and email you on a match with your `skill` tags.
+* Create a profile on [Nordgigs](https://nordgigs.com/) which aggregates freelance projects across Nordic countries and email you on a match with your `skill` tags.
 
 ### Startup grant (starttiraha)
 
 **Source of truth**: [TE-services startup grant page](https://www.te-palvelut.fi/te/en/employers/for_entrepreneurs/services_new_entrepreneurs/startup_grant/index.html)
 
-**What is it?** Startup grant is a program to support you to become an entreprenuer.
+**What is it?** Startup grant is a program to support you to become an entrepreneur.
 You will receive the monthly payment for 6 months (if you apply once) or 12 months (if you apply for extension as well).
 
 **How much?** ~680€ per month, as personal income. If your income tax is 25%, for example, you will get 510€.
 
 **Steps** for first application:
 
-* You will be disqualified from startup grant if you have already established your company or started full-time entreprenuership.
+* You will be disqualified from startup grant if you have already established your company or started full-time entrepreneurship.
 
 * You need a business plan and certain financial calculations as an attachment to your application.
 You can use [My Enterprise Finland](https://oma.yrityssuomi.fi/#) and complete the steps for `Business plan` to
@@ -132,7 +132,7 @@ the _Business Advisor_ has seen hundreds of business plans and can guide you to 
 
 * In your business plan, you have specified how much **own funding** you have available to you.
 You need to provide a proof of your claimed own funding as an attachment to your application.
-This proof doesn't have to be official. I perosnally printed a pdf from my netbank account overview and that was enough for a successful application.
+This proof doesn't have to be official. I personally printed a pdf from my netbank account overview and that was enough for a successful application.
 Also, the amount of money available to you, no matter how high, does not influence the decision of TE-services negatively.
 
 * Apply for startup grant [electronically](https://asiointi.mol.fi/omaasiointi/?kieli=fi) (only available in Finnish)
@@ -144,15 +144,15 @@ and you will get an electronic decision within 2 weeks (official estimation). Of
 
 ### Quit your job
 
-**What is it?** The positive decision to your startup grant is on the condition that you will quit your job and become a full-time entreprenuer.
+**What is it?** The positive decision to your startup grant is on the condition that you will quit your job and become a full-time entrepreneur.
 
 
 **Steps**:
-* **Terminology**: `employee` and `self-employed` are two different terms and they cannot be used interchangably.
+* **Terminology**: `employee` and `self-employed` are two different terms and they cannot be used interchangeably.
 * As an `employee`, deliver your binding resignation in written form to your employer.
 * After that, and from the first day of your startup grant decision, you are `self-employed`.
 
-### Genral housing allowance (asumistuki)
+### General housing allowance (asumistuki)
 
 **Source of truth**: [Kela general housing allowance page](https://www.kela.fi/web/en/general-housing-allowance)
 
@@ -171,10 +171,10 @@ general housing allowance is ~410€ per month, tax free, for a studio in Helsin
   * can **act** like a natural person from the perspective of law
   * pays taxes on its **profits** in the form of _corporate taxation_, 20%, once a year
 * You:
-  * are a `natural person` with a perosnal ID (Henkilötunnus)
+  * are a `natural person` with a personal ID (Henkilötunnus)
   * are a a natural person from the perspective of law
   * pay taxes on your **income** in the form of _perosnal taxation_, at progressive rates, whenever you receive income
-* For the purpose of answering _what counts as a `self-employed` person's income from Kela's perspective_, your company's income is irrelavent.
+* For the purpose of answering _what counts as a `self-employed` person's income from Kela's perspective_, your company's income is irrelevant.
 * Your income is relevant. If you have [YEL](#self-employed-persons-pensions-act-yel):
   * Your YEL `income` is counted as your income, nothing else.
   * You do not need to apply for general housing allowance review unless you change your YEL `income`.
@@ -203,7 +203,7 @@ This *limited liability* is such an extremely important concept that I encourage
 and make an **informed** decision whether going for a private trader (toiminimi) is **really** the course of action you'd like to take.
 
 **TL;DR of video**: Working under your own name as a private trader gives you **unlimited** liability and all your personal assets like your home, car, and personal savings are up for grabs if worst happens.
-In case of a limited liability company, the liability is *limited* and the company can declare bankrupcy if worst happens, and your perosnal assets are immune from the liability of the company.
+In case of a limited liability company, the liability is *limited* and the company can declare bankruptcy if worst happens, and your personal assets are immune from the liability of the company.
 
 
 **How much?** ~280€ for online registration. It's a business cost. Later,
@@ -217,7 +217,7 @@ you can claim this ~280€ back from the company as you paid this money from you
 your company will come to life by getting a company ID (Y-tunnus) from Business Information System.
 * Similarly, in the same way that you update your personal information like your address after you move apartments in Local Register Office,
 you'll update your company's information in Business Information System if there are changes.
-* Business Information System is also the **single place** in which you can communicate with and join/exit various registeries by Tax Administraion (Vero) and Finnish Patent and Registration Office (PRH).
+* Business Information System is also the **single place** in which you can communicate with and join/exit various registries by Tax Administraion (Vero) and Finnish Patent and Registration Office (PRH).
   * Tax Administraion maintains:
     * Prepayment register (Ennakkoperintärekisteri), which allows your company to take care of its own taxes.
     * VAT register (Arvonlisäverovelvollisuus), which allows your company to report VAT related matters.
@@ -228,20 +228,20 @@ you'll update your company's information in Business Information System if there
 **Steps**:
 
 * Choose a company name.
-  * Seach for your chosen name in [Name Checking Service for Companies](https://nimipalvelu.prh.fi/nipa/en)
+  * Search for your chosen name in [Name Checking Service for Companies](https://nimipalvelu.prh.fi/nipa/en)
   * If no exact match or very-similar names were found for your chosen name, then probably it will be accepted in the application process.
-  * You will be given 3 fields for company name, so prepare 2 backup names as well in case your primay name cannot be registered.
-* Choose your main line of busines.
+  * You will be given 3 fields for company name, so prepare 2 backup names as well in case your primary name cannot be registered.
+* Choose your main line of business.
   * Source of truth: [Statistics Finland](https://stat.fi/meta/luokitukset/toimiala/001-2008/index_en.html)
-  * Required by Tax Administraion.
+  * Required by Tax Administration.
   * For freelancing, you can choose any from [\[Information and communication > Computer programming, consultancy and related activities\]](https://stat.fi/meta/luokitukset/toimiala/001-2008/62_en.html)
-that you feel is most relavent.
+that you feel is most relevant.
   * `62010 Computer programming activities` is common as several freelancing agencies like Futurice and Reaktor have chosen that, so you can go with that as well.
 * Decide the registries you'd like your company to be part of:
   * Trade register ✅, as the company cannot come into life without it.
   * Prepayment register ✅, as without it, other companies have to withhold taxes on the amounts they pay you.
   * VAT register ✅, as you can start deducting VAT from things or services you  purchase for your *main line of business*. For example, if you buy a laptop for 2,000€, you'll get ~500€ back (VAT 24%).
-  * Employer register ❌, because you don't need it if you're not employing anyone else. The fact that you're employing yourself is irrelavent as you're considered `self-employed`, not an `employee`.
+  * Employer register ❌, because you don't need it if you're not employing anyone else. The fact that you're employing yourself is irrelevant as you're considered `self-employed`, not an `employee`.
 You can join later, once and if you start employing others.
 * Establish your company online by filing a *startup notification* at [Business Information System](https://asiointi.ytj.fi/ytjap) (only available in Finnish)
   * You can also give power of attorney in Business Information System to an accountant so that they can establish the company on your behalf.
@@ -250,7 +250,7 @@ You can join later, once and if you start employing others.
 
 **What is it?** A business bank account for your company's business activities.
 
-**How much?** ~30€ per month. Base prices might start from ~10€ but in *business* accounts, unlike *perosnal* accounts,
+**How much?** ~30€ per month. Base prices might start from ~10€ but in *business* accounts, unlike *personal* accounts,
 almost anything that happens in the eco-system of your business will cost you something and will drive the total cost to around ~30€.
 
 **Comparison of services**:
@@ -306,7 +306,7 @@ The name is **misleading**, as it does not only relate to your pension but to yo
   * You have the freedom to choose between ~7,800€ up to ~177,000€ per year.
 * YEL `contribution`:
   * Is how much you **pay** for your "*coverage*".
-  * Is ~19% of your YEL `income`, which means ~120€ up to ~2800€ per month as a businsss cost.
+  * Is ~19% of your YEL `income`, which means ~120€ up to ~2800€ per month as a business cost.
 
 Minimum YEL                |  Maximum YEL
 :-------------------------:|:-------------------------:
