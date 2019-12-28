@@ -12,12 +12,13 @@ Everything you need to know to start freelancing in Finland as a software develo
   * [Freelance brokers](#freelance-brokers)
   * [Startup grant (starttiraha)](#startup-grant-starttiraha)
   * [Quit your job](#quit-your-job)
-  * [General housing allowance (asumistuki)](#genral-housing-allowance-asumistuki)
+  * [General housing allowance (asumistuki)](#general-housing-allowance-asumistuki)
 * [Foundation](#foundation)
   * [Establish your company](#establish-your-company)
   * [Open a business bank account](#open-a-business-bank-account)
   * [Find an accountant](#find-an-accountant)
   * [Self-Employed Persons’ Pensions Act (YEL)](#self-employed-persons-pensions-act-yel)
+  * [Consider buying corporate liability insurance](#consider-buying-corporate-liability-insurance)
 * [Operation](#operation)
 
 <!-- vim-markdown-toc -->
@@ -323,5 +324,29 @@ Minimum YEL                |  Maximum YEL
   * [ilmarinen](https://www.ilmarinen.fi/en/)
   * [veritas](https://www.veritas.fi/en/)
 * I don't know if any provider is better than the other. Do you know which one is the best? Please send a pull request 💯
+
+### Consider buying corporate liability insurance
+
+**What is it?** An insurance to cover the potential damages you may cause to your client while freelancing.
+For example, if you drop the production database and it would take 5 hours to recover from that mistake, and
+your client claims 100,000€ in damages for those 5 hours, corporate liability insurance may cover it.
+
+**When is it necessary?** Even though it's not mandatory by law, it may be mandatory by the contract you'll sign with freelance brokers or the client itself.
+
+**How much?** Insurance companies decide the price based on a number of factors including but not limited to your main line of business and your estimated annual revenue.
+I have received offers from ~200€ up to ~500€ per year from different insurance providers.
+
+**Corporate liability insurance providers**:
+* if [corporate liability insurance](https://www.if.fi/yritysasiakkaat/vakuutukset/vastuuvakuutukset)
+  * Insurance offer available in Finnish, Swedish, and English.
+  * Online service available in Finnish, Swedish, and English.
+* OP [corporate liability insurance](https://www.op.fi/corporate-customers/insurance/operational-insurance/liability-insurance)
+  * Insurance offer available in Finnish and Swedish.
+  * Online service available in Finnish and Swedish.
+* Lähitapiola [corporate liability insurance](https://www.lahitapiola.fi/yritys/vakuutukset/omaisuus-ja-toiminta/toiminnan-vakuutukset)
+  * Insurance offer available in ?
+  * Online service available in ?
+
+I don't know if any provider is better than the other. Do you know which one is the best? Please send a pull request 💯
 
 ## Operation
