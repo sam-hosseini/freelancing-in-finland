@@ -232,18 +232,28 @@ you'll update your company's information in Business Information System if there
   * Search for your chosen name in [Name Checking Service for Companies](https://nimipalvelu.prh.fi/nipa/en)
   * If no exact match or very-similar names were found for your chosen name, then probably it will be accepted in the application process.
   * You will be given 3 fields for company name, so prepare 2 backup names as well in case your primary name cannot be registered.
+
 * Choose your main line of business.
   * Source of truth: [Statistics Finland](https://stat.fi/meta/luokitukset/toimiala/001-2008/index_en.html)
   * Required by Tax Administration.
   * For freelancing, you can choose any from [\[Information and communication > Computer programming, consultancy and related activities\]](https://stat.fi/meta/luokitukset/toimiala/001-2008/62_en.html)
 that you feel is most relevant.
   * `62010 Computer programming activities` is common as several freelancing agencies like Futurice and Reaktor have chosen that, so you can go with that as well.
+
+* Get another person's consent to be your *Deputy Member of the Board of Directors*.
+  * According to [Limited Liability Companies Act](https://www.finlex.fi/en/laki/kaannokset/2006/en20060624.pdf) in Chapter 6, Section 8.1:
+  > There  shall  be  between  one  and  five  regular  Members  of  the  Board  of Directors, unless it is otherwise provided in the Articles of Association. If there are  fewer  than  three  Members,  there  shall be  at  least one  Deputy  Member of the Board of Directors.
+
+  * This means that, for your company to be legally compliant, it must have a *Deputy Member of the Board of Directors* when you are going to be the *only* regular member of Board of Directors as the CEO.
+  * Once you get the perosn's consent, get his/her personal ID (henkilötunnus) as you'll need it for establishing the company.
+
 * Decide the registries you'd like your company to be part of:
   * Trade register ✅, as the company cannot come into life without it.
   * Prepayment register ✅, as without it, other companies have to withhold taxes on the amounts they pay you.
   * VAT register ✅, as you can start deducting VAT from things or services you  purchase for your *main line of business*. For example, if you buy a laptop for 2,000€, you'll get ~500€ back (VAT 24%).
   * Employer register ❌, because you don't need it if you're not employing anyone else. The fact that you're employing yourself is irrelevant as you're considered `self-employed`, not an `employee`.
 You can join later, once and if you start employing others.
+
 * Establish your company online by filing a *startup notification* at [Business Information System](https://asiointi.ytj.fi/ytjap) (only available in Finnish)
   * You can also give power of attorney in Business Information System to an accountant so that they can establish the company on your behalf.
 
