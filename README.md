@@ -13,7 +13,7 @@ Everything you need to know to start freelancing in Finland as a software develo
   * [Solution](#solution)
 * [Preparation](#preparation)
   * [Immigration permit](#immigration-permit)
-  * [Freelance brokers](#freelance-brokers)
+  * [Network with freelance brokers and organizations](#network-with-freelance-brokers-and-organizations)
   * [Startup grant (starttiraha)](#startup-grant-starttiraha)
   * [Quit your job](#quit-your-job)
   * [Apply for general housing allowance](#apply-for-general-housing-allowance)
@@ -79,7 +79,7 @@ I hope it saves you time 💐
 * If you're a EU citizen, I don't know. Do you know? Please send a pull request 💯
 * If you're a non-EU citizen, I don't know. Do you know? Please send a pull request 💯
 
-### Freelance brokers
+### Network with freelance brokers and organizations
 
 **What is it?** To find a project that you like, there are companies that can help you with that.
 Most require a meeting before they let you in their network. It's always a relaxed meeting, though, as you will be _partners_ who will help each other.
@@ -106,6 +106,7 @@ by 5-20%, which would be their cut of the hourly rate. This means that, with one
 * Fika ☕️ with [Tentimes](https://www.tentimesagency.com/) and get into their Slack.
 * Fika ☕️ with [Finitec](https://finitec.fi/) and get into their network.
 * Fika ☕️ with [Siili One](https://campaign.siili.com/one) and get into their network.
+* Register a profile with [EWork Group](https://www.eworkgroup.com/en) to see their projects.
 
 **List of aggregate sites**:
 * Create a [job search alert](https://www.linkedin.com/jobs/) on LinkedIn with:
@@ -113,6 +114,15 @@ by 5-20%, which would be their cut of the hourly rate. This means that, with one
   * Your most important `skill` (Python, for example)
   * Job type as `Contract`
 * Create a profile on [Nordgigs](https://nordgigs.com/) which aggregates freelance projects across Nordic countries and email you on a match with your `skill` tags.
+
+**List of organizations you can introduce yourself to**:
+* [Business Finland](https://www.businessfinland.fi/en/for-finnish-customers/contact-us/) is a governmental organization whose main purpose is to help Finnish companies.
+A lot of those companies are startups who need software developers. By introducing yourself and your services to a Business Finland advisor, they may be able to connect you with potential startups.
+* [NewCo Helsinki](https://newcohelsinki.fi/en/startup-services/) is a governmental organization which is focused on helping companies in Helsinki:
+
+  > When problems come up, we are here to help you right away. Please contact us at startup@hel.fi and stop by!
+
+  NewCo Helsinki advisors see many startups in Helsinki who would need software developers. By visiting them and introducing yourself, they might be able to connect you with potential Helsinki startups.
 
 ### Startup grant (starttiraha)
 
