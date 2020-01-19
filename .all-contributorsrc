@@ -9,6 +9,16 @@
   "imageSize": 100,
   "commit": false,
   "commitConvention": "none",
-  "contributors": [],
+  "contributors": [
+    {
+      "login": "andersnylund",
+      "name": "Anders Nylund",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/18005239?v=4",
+      "profile": "https://andersnylund.com",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
   "contributorsPerLine": 7
 }
