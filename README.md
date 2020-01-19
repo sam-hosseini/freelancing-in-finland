@@ -12,7 +12,7 @@ Everything you need to know to start freelancing in Finland as a software develo
   * [Freelance brokers](#freelance-brokers)
   * [Startup grant (starttiraha)](#startup-grant-starttiraha)
   * [Quit your job](#quit-your-job)
-  * [General housing allowance (asumistuki)](#general-housing-allowance-asumistuki)
+  * [Apply for general housing allowance](#apply-for-general-housing-allowance)
 * [Foundation](#foundation)
   * [Establish your company](#establish-your-company)
   * [Open a business bank account](#open-a-business-bank-account)
@@ -155,7 +155,7 @@ and you will get an electronic decision within 2 weeks (official estimation). Of
 * As an `employee`, deliver your binding resignation in written form to your employer.
 * After that, and from the first day of your startup grant decision, you are `self-employed`.
 
-### General housing allowance (asumistuki)
+### Apply for general housing allowance
 
 **Source of truth**: [Kela general housing allowance page](https://www.kela.fi/web/en/general-housing-allowance)
 
@@ -164,7 +164,7 @@ Based on [Suomi.fi](https://www.suomi.fi/company/starting-a-business/entrepreneu
 
 > As an entrepreneur, you are entitled to the general housing allowance under the same conditions as anyone else.
 
-**How much?** Based on the assumption that your only source of **personal** income is startup grant,
+**How much?** Based on the simplified assumption that your only source of **personal** income is startup grant and you don't live with another person in the same household,
 general housing allowance is ~410€ per month, tax free, for a studio in Helsinki. You can use **source of truth** calculator for exact figures.
 
 **What counts as a `self-employed` person's income from Kela's perspective**?
