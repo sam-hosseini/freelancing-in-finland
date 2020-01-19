@@ -26,6 +26,7 @@ Everything you need to know to start freelancing in Finland as a software develo
   * [Consider joining a union](#consider-joining-a-union)
   * [Consider joining an unemployment fund](#consider-joining-an-unemployment-fund)
 * [Operation](#operation)
+  * [Ensure that your obligations are fulfilled continuously](#ensure-that-your-obligations-are-fulfilled-continuously)
   * [References](#references)
 * [Contributors](#contributors)
 
@@ -419,6 +420,29 @@ a job-seeker to be a full-time employee again, among other things.
 * Join [Unemployment Fund for the self-employed](https://syt.fi/).
 
 ## Operation
+
+### Ensure that your obligations are fulfilled continuously
+
+Tax administration office (Vero):
+
+* **Pay your corporate income tax early** using prepayment register, *non-recurrning* obligation: you can pay your corporate income tax before the company financial year ends, if you want.
+That way, you won't have to pay interest if the financial year has ended and you had paid way too little corporate income tax during the financial year.
+* **Send VAT reports**, *recurring* obligation: strictly speaking, as the owner of the company, you are responsible to ensure that VAT reports are done every month, not your accountant.
+Practically, your accountant assumes responsibility for it and will do it herself/himself, but remember that if your accountant fails to do so, you yourself are responsible.
+Therefore, check before the deadlines if the VAT reports have been done.
+* **Consider monthly bookkeeping**, *recurring* acitivity: accountants prefer to do it monthly. There's no legal obligation to do it monthly, however.
+* **Submit financial statement and corporate income tax return**, *recurring* obligation: after the financial year ends, within 4 months you must submit
+a financial statement and corporate income tax return. Your accountant can do this for you.
+
+Business Information System (ytj):
+
+* **File notification of changes to company information**, *non-recurrning* obligation: any changes to company information has to be
+notified to Business Information System. For example, if your company's address changes, file a [notification of change](https://www.ytj.fi/en/index/notifications/notificationsofchanges/limitedliabilitycompanies.html).
+
+TE-services:
+
+* **Apply for startup grant payment**, *recurring* obligation: you must apply for startup grant payment retroactively within 2 months after the month you're applying for.
+For example, if you're applying for the month of March, you have until end of May to apply.
 
 ### References
 
