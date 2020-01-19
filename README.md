@@ -26,6 +26,7 @@ Everything you need to know to start freelancing in Finland as a software develo
   * [Consider joining a union](#consider-joining-a-union)
   * [Consider joining an unemployment fund](#consider-joining-an-unemployment-fund)
 * [Operation](#operation)
+  * [References](#references)
 * [Contributors](#contributors)
 
 <!-- vim-markdown-toc -->
@@ -417,6 +418,16 @@ a job-seeker to be a full-time employee again, among other things.
 * Join [Unemployment Fund for the self-employed](https://syt.fi/).
 
 ## Operation
+
+### References
+
+Guides:
+* [Suomi.fi](https://www.suomi.fi/company/)
+* [Finnish Enterprise Agencies guide to becoming an Entrepreneur in Finland - 2019](https://www.uusyrityskeskus.fi/wp-content/uploads/2019/05/SUK_perustamisopas2019_ENG_VERKKOON.pdf)
+
+Governmental organizations to provide support for you:
+* [NewCo Helsinki](https://newcohelsinki.fi/en/)
+* [International House Helsinki](https://www.ihhelsinki.fi/)
 
 ## Contributors
 
