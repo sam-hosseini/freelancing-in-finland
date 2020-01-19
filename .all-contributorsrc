@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "andersnylund",
+      "name": "Anders Nylund",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/18005239?v=4",
+      "profile": "https://andersnylund.com",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "freelancing-in-finland",
+  "projectOwner": "sam-hosseini",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
