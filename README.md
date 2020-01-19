@@ -1,5 +1,9 @@
 # Freelancing in Finland
 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 Everything you need to know to start freelancing in Finland as a software developer ✨
 
 <!-- vim-markdown-toc GFM -->
@@ -22,6 +26,7 @@ Everything you need to know to start freelancing in Finland as a software develo
   * [Consider joining a union](#consider-joining-a-union)
   * [Consider joining an unemployment fund](#consider-joining-an-unemployment-fund)
 * [Operation](#operation)
+* [Contributors](#contributors)
 
 <!-- vim-markdown-toc -->
 
@@ -412,3 +417,16 @@ a job-seeker to be a full-time employee again, among other things.
 * Join [Unemployment Fund for the self-employed](https://syt.fi/).
 
 ## Operation
+
+## Contributors
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
