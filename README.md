@@ -386,7 +386,7 @@ I don't know if any provider is better than the other. Do you know which one is 
 
 **What is it?** A union is an organization which can offer its members certain services at a much lower price and lobby the interests of its members with relavent authorities.
 
-**How much?** ~200€ per year.
+**How much?** ~165€ per year.
 
 **When is it necessary?** Given the union membership fee, and the 200€ average hourly rate of lawyers in Finland,
 if you have 2-4 questions about running your business per year, the membership fee will pay itself back.
