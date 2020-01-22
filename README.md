@@ -17,8 +17,8 @@ Everything you need to know to start freelancing in Finland as a software develo
   * [Apply for startup grant](#apply-for-startup-grant)
   * [Quit your job](#quit-your-job)
   * [Establish your company](#establish-your-company)
-  * [Apply for general housing allowance](#apply-for-general-housing-allowance)
 * [Foundation - what to do **after** you establish your company](#foundation---what-to-do-after-you-establish-your-company)
+  * [Apply for general housing allowance](#apply-for-general-housing-allowance)
   * [Open a business bank account](#open-a-business-bank-account)
   * [Find an accountant](#find-an-accountant)
   * [Buy social security insurance YEL](#buy-social-security-insurance-yel)
@@ -237,6 +237,8 @@ You can join later, once and if you start employing others.
 * Establish your company online by filing a *startup notification* at [Business Information System](https://asiointi.ytj.fi/ytjap) (only available in Finnish)
   * You can also give power of attorney in Business Information System to an accountant so that they can establish the company on your behalf.
 
+## Foundation - what to do **after** you establish your company
+
 ### Apply for general housing allowance
 
 **Source of truth**: [Kela general housing allowance page](https://www.kela.fi/web/en/general-housing-allowance)
@@ -276,7 +278,6 @@ general housing allowance is ~410€ per month, tax free, for a studio in Helsin
 * If you don't have the attachments ready, you can still attach them to the application for ~10 days after sending the application.
 * You will receive a decision in ~3 weeks (official estimation).
 
-## Foundation - what to do **after** you establish your company
 
 ### Open a business bank account
 
