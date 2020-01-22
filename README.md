@@ -29,6 +29,7 @@ Everything you need to know to start freelancing in Finland as a software develo
   * [Ensure that your obligations are fulfilled continuously](#ensure-that-your-obligations-are-fulfilled-continuously)
   * [References](#references)
 * [Contributors](#contributors)
+* [Now that you're here...](#now-that-youre-here)
 
 <!-- vim-markdown-toc -->
 
@@ -489,3 +490,21 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+## Now that you're here...
+I can tell you that I wrote this guide **with both selfish and selfless reasons**.
+
+* Selfish reasons:
+  * I wanted to increase my visibility in the freelancing network as a Python developer 🐍 and with that, I would have the leverage to charge higher hourly rates 💶
+    * My LinkedIn: [https://www.linkedin.com/in/sam-hosseini-/](https://www.linkedin.com/in/sam-hosseini-/)
+  * Later in my life, I want to launch my own products but because I'm an underdog on Twitter 😁,
+  I was hoping to get more Twitter followers so that my best friends wouldn't be the only ones liking my later-in-life Producthunt launch posts 😅
+
+    * My Twitter: [https://twitter.com/sam\_hosseini\_](https://twitter.com/sam_hosseini_)
+
+* Selfless reasons:
+  * Software developers and the community are extremely generous and having been mostly *taking*, I wanted to give back as well.
+  * From the bottom of my heart, I wanted to help you start your freelance journey and that this guide would save you the headache of
+  having to read so many pages of different guides to do things correctly and in the right order.
+  * I like it that when you have your own company, the profits generated get distributed more proportionally to those involved compared to being an employee,
+  and so I was hoping by providing some exact figures on revenues and costs, I'd inspire you to take a bigger risk and be proportionally compensated for it.
