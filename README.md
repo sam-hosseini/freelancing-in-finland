@@ -131,7 +131,7 @@ A lot of those companies are startups who need software developers. By introduci
 **What is it?** Startup grant is a program to support you to become an entrepreneur.
 You will receive the monthly payment for a total of 6 months (if you apply once) or a total of 12 months (if you apply for extension as well).
 
-**How much?** ~705€ per month, as personal income. If your income tax is 25%, for example, you will get ~525€.
+**How much?** ~700€ per month, as personal income. If your income tax is 25%, for example, you will get ~525€.
 
 **Steps** for first application:
 
@@ -414,19 +414,23 @@ and [Unemployment Fund for the self-employed](https://syt.fi/)
 **What is it?** There are two types of unemployment benefits:
 
 1. **Basic** unemployment allowance, which is paid by Kela and the amount is the same for everyone, ~700€ per month.
-2. **Earnings-related** unemployment allowance, which is paid by *unemployment funds* and the amount for the self-employed people depends on their YEL `income`.
+2. **Earnings-related** unemployment allowance, which is paid by *unemployment funds* and the amount for the self-employed people depends on their `YEL income`.
 
 You can only apply for earnings-related unemployment allowance if you're part of an unemployment fund.
 
 
 
-**How much?** Depends on your YEL `income`. Unemployment law enforces a higher minimum YEL `income` if you wish to be part of an unemployment fund.
-The minimum is ~13,000€ YEL `income`, and with that, membership fee is ~155€ per year.
+**How much?** Depends on your `YEL income`. Unemployment law enforces a higher minimum `YEL income` if you wish to be part of an unemployment fund.
+The minimum is ~13,000€ `YEL income`, and with that, membership fee is ~155€ per year.
 
 **When is it necessary?** If you wish to get earnings-related unemployment allowance in case of unemployment.
 
-Note that receiving any kind of unemployment allowance *requires permanent closure of your company* and registering as
+Note that **receiving any kind of unemployment allowance requires permanent closure of your company** and registering as
 a job-seeker to be a full-time employee again, among other things.
+
+<img src="./images/unemployment_fund.png" width="600" height="900">
+
+\* Taken from [SYT](https://syt.fi/wp-content/uploads/2019/02/2019_SYT_brochure.pdf)
 
 **Steps**:
 * According to [Federation of Unemployment Funds in Finland (TYJ)](https://www.tyj.fi/en/join-a-fund/membership-fees/), there's only one unemployment fund for the self-employed.
