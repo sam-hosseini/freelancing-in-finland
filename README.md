@@ -21,7 +21,7 @@ Everything you need to know to start freelancing in Finland as a software develo
 * [Foundation - what to do **after** you establish your company](#foundation---what-to-do-after-you-establish-your-company)
   * [Open a business bank account](#open-a-business-bank-account)
   * [Find an accountant](#find-an-accountant)
-  * [Self-Employed Persons’ Pensions Act (YEL)](#self-employed-persons-pensions-act-yel)
+  * [Buy social security insurance YEL](#buy-social-security-insurance-yel)
   * [Consider buying corporate liability insurance](#consider-buying-corporate-liability-insurance)
   * [Consider joining a union](#consider-joining-a-union)
   * [Consider joining an unemployment fund](#consider-joining-an-unemployment-fund)
@@ -323,22 +323,22 @@ and if we take a 75€/hour rate, you should expect to pay at least 75-150€ pe
 * Accountant will take it from there.
 
 
-### Self-Employed Persons’ Pensions Act (YEL)
+### Buy social security insurance YEL
 
 **Source of truth**: [ETK Finnish Center for Pensions](https://www.etk.fi/en/the-pension-system/pension-security/pension-coverage-and-insurance/self-employed/)
 
-**What is it?** YEL is a social security mandatory insurance for self-employed persons.
-The name is **misleading**, as it does not only relate to your pension but to your entire social security benefits.
+**What is it?** YEL is a mandatory social security insurance for `self-employed` persons.
+The official name of "Self-Employed Person’s Pensions Act" is **misleading**, as YEL doesn't determine your pension only but your entire social security benefits.
 
-**What is YEL `income` and YEL `contribution`?**
+**What is `YEL income` and `YEL contribution`?**
 
-* YEL `income`:
+* `YEL income`:
   * Has absolutely nothing to do with your income (salary, benefits, dividends, etc).
   * Is how much **"*coverage*"** in social security you would like to have.
-  * You have the freedom to choose between ~7,800€ up to ~177,000€ per year.
-* YEL `contribution`:
+  * You have the freedom to choose between ~8000€ up to ~180,000€ per year.
+* `YEL contribution`:
   * Is how much you **pay** for your "*coverage*".
-  * Is ~19% of your YEL `income`, which means ~120€ up to ~2800€ per month as a business cost.
+  * Is ~19% of your `YEL income`, which means ~125€ up to ~2820€ per month as a business cost.
 
 Minimum YEL                |  Maximum YEL
 :-------------------------:|:-------------------------:
