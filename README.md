@@ -12,7 +12,7 @@ Everything you need to know to start freelancing in Finland as a software develo
   * [What problem will you face without this guide?](#what-problem-will-you-face-without-this-guide)
   * [How can this guide solve the problem?](#how-can-this-guide-solve-the-problem)
 * [Preparation - what to do **before** you establish your company](#preparation---what-to-do-before-you-establish-your-company)
-  * [Immigration permit](#immigration-permit)
+  * [Know how to handle your upcoming new immigration status](#know-how-to-handle-your-upcoming-new-immigration-status)
   * [Network with freelance brokers and organizations](#network-with-freelance-brokers-and-organizations)
   * [Startup grant (starttiraha)](#startup-grant-starttiraha)
   * [Quit your job](#quit-your-job)
@@ -55,21 +55,29 @@ By **narrowing down the target audience** to the person reading this guide on Gi
 
 You are the target audience of this guide if:
 
-* You are already living in Finland
+* You are already living in Finland for more than 3 months
 * You are already working as a software developer
 * You want to work as an independent freelance software developer
 * You want to establish a limited liability company to offer your freelance services through it
 
 ## Preparation - what to do **before** you establish your company
 
-### Immigration permit
+### Know how to handle your upcoming new immigration status
 
 **Source of truth**: [Finnish Immigration Service](https://migri.fi/en/)
 
-**Steps**:
-* If you're a Finnish citizen, this is not applicable to you.
-* If you're a EU citizen, I don't know. Do you know? Please send a pull request 💯
-* If you're a non-EU citizen, I don't know. Do you know? Please send a pull request 💯
+**What is it?** Once you start working as a `self-employed` person, you may need to apply for a different type of residence permit.
+
+**If you're a Finnish citizen**, this is not applicable to you.
+
+**If you're a EU citizen**, as the target audience of this guide is people who are already living in Finland for more than 3 months,
+given that you have already [registered your right of residene](https://migri.fi/en/registration-of-right-of-residence),
+you don't need to apply for another permit.
+
+**If you're a non-EU citizen**, depending on your current permit, you may need to apply for another permit.
+
+* If you have a permanent residence permit, you don't need to apply for another permit.
+* If you have any other type of permit, I don't know. Do you know? Please send a pull request 💯
 
 ### Network with freelance brokers and organizations
 
