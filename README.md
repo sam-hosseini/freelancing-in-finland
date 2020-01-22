@@ -16,9 +16,9 @@ Everything you need to know to start freelancing in Finland as a software develo
   * [Network with freelance brokers and organizations](#network-with-freelance-brokers-and-organizations)
   * [Apply for startup grant](#apply-for-startup-grant)
   * [Quit your job](#quit-your-job)
+  * [Establish your company](#establish-your-company)
   * [Apply for general housing allowance](#apply-for-general-housing-allowance)
 * [Foundation - what to do **after** you establish your company](#foundation---what-to-do-after-you-establish-your-company)
-  * [Establish your company](#establish-your-company)
   * [Open a business bank account](#open-a-business-bank-account)
   * [Find an accountant](#find-an-accountant)
   * [Self-Employed Persons’ Pensions Act (YEL)](#self-employed-persons-pensions-act-yel)
@@ -172,47 +172,6 @@ and you will get an electronic decision within 2 weeks (official estimation). Of
 * As an `employee`, deliver your binding resignation in written form to your employer.
 * After that, and from the first day of your startup grant decision, you are `self-employed`.
 
-### Apply for general housing allowance
-
-**Source of truth**: [Kela general housing allowance page](https://www.kela.fi/web/en/general-housing-allowance)
-
-**What is it?** General housing allowance supports you with housing costs.
-Based on [Suomi.fi](https://www.suomi.fi/company/starting-a-business/entrepreneurs-everyday-life-and-livelyhood/guide/securing-entrepreneurs-livelihood/housing-allowance-and-basic-social-assistance-for-entrepreneurs):
-
-> As an entrepreneur, you are entitled to the general housing allowance under the same conditions as anyone else.
-
-**How much?** Based on the simplified assumption that your only source of **personal** income is startup grant and you don't live with another person in the same household,
-general housing allowance is ~410€ per month, tax free, for a studio in Helsinki. You can use **source of truth** calculator for exact figures.
-
-**What counts as a `self-employed` person's income from Kela's perspective**?
-
-* Your company:
-  * is a `legal entity` with a business ID (Y-tunnus)
-  * can **act** like a natural person from the perspective of law
-  * pays taxes on its **profits** in the form of _corporate taxation_, 20%, once a year
-* You:
-  * are a `natural person` with a personal ID (Henkilötunnus)
-  * are a a natural person from the perspective of law
-  * pay taxes on your **income** in the form of _perosnal taxation_, at progressive rates, whenever you receive income
-* For the purpose of answering _what counts as a `self-employed` person's income from Kela's perspective_, your company's income is irrelevant.
-* Your income is relevant. If you have [YEL](#self-employed-persons-pensions-act-yel):
-  * Your YEL `income` is counted as your income, nothing else.
-  * You do not need to apply for general housing allowance review unless you change your YEL `income`.
-* If you don't have YEL:
-  * All your income (salary, benefits, dividends, etc) counts as your income.
-  * You need to apply for general housing allowance review if your income increases by 400€ per month.
-
-**Steps**:
-
-* Apply for general housing allowance [electronically](https://asiointi.kela.fi/go_app) (only available in Finnish).
-* Mention in application that you have received a positive decision to your startup grant application and you have quit your job.
-* Attach your startup grant official decision letter which has come via post to the application.
-* Attach your employment certificate which mentions the final date of your employment to the application.
-* If you don't have the attachments ready, you can still attach them to the application for ~10 days after sending the application.
-* You will receive a decision in ~3 weeks (official estimation).
-
-## Foundation - what to do **after** you establish your company
-
 ### Establish your company
 
 **Source of truth**: [Business Information System](https://www.ytj.fi/en/index.html)
@@ -275,6 +234,47 @@ You can join later, once and if you start employing others.
 
 * Establish your company online by filing a *startup notification* at [Business Information System](https://asiointi.ytj.fi/ytjap) (only available in Finnish)
   * You can also give power of attorney in Business Information System to an accountant so that they can establish the company on your behalf.
+
+### Apply for general housing allowance
+
+**Source of truth**: [Kela general housing allowance page](https://www.kela.fi/web/en/general-housing-allowance)
+
+**What is it?** General housing allowance supports you with housing costs.
+Based on [Suomi.fi](https://www.suomi.fi/company/starting-a-business/entrepreneurs-everyday-life-and-livelyhood/guide/securing-entrepreneurs-livelihood/housing-allowance-and-basic-social-assistance-for-entrepreneurs):
+
+> As an entrepreneur, you are entitled to the general housing allowance under the same conditions as anyone else.
+
+**How much?** Based on the simplified assumption that your only source of **personal** income is startup grant and you don't live with another person in the same household,
+general housing allowance is ~410€ per month, tax free, for a studio in Helsinki. You can use **source of truth** calculator for exact figures.
+
+**What counts as a `self-employed` person's income from Kela's perspective**?
+
+* Your company:
+  * is a `legal entity` with a business ID (Y-tunnus)
+  * can **act** like a natural person from the perspective of law
+  * pays taxes on its **profits** in the form of _corporate taxation_, 20%, once a year
+* You:
+  * are a `natural person` with a personal ID (Henkilötunnus)
+  * are a a natural person from the perspective of law
+  * pay taxes on your **income** in the form of _perosnal taxation_, at progressive rates, whenever you receive income
+* For the purpose of answering _what counts as a `self-employed` person's income from Kela's perspective_, your company's income is irrelevant.
+* Your income is relevant. If you have [YEL](#self-employed-persons-pensions-act-yel):
+  * Your YEL `income` is counted as your income, nothing else.
+  * You do not need to apply for general housing allowance review unless you change your YEL `income`.
+* If you don't have YEL:
+  * All your income (salary, benefits, dividends, etc) counts as your income.
+  * You need to apply for general housing allowance review if your income increases by 400€ per month.
+
+**Steps**:
+
+* Apply for general housing allowance [electronically](https://asiointi.kela.fi/go_app) (only available in Finnish).
+* Mention in application that you have received a positive decision to your startup grant application and you have quit your job.
+* Attach your startup grant official decision letter which has come via post to the application.
+* Attach your employment certificate which mentions the final date of your employment to the application.
+* If you don't have the attachments ready, you can still attach them to the application for ~10 days after sending the application.
+* You will receive a decision in ~3 weeks (official estimation).
+
+## Foundation - what to do **after** you establish your company
 
 ### Open a business bank account
 
