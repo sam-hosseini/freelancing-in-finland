@@ -259,9 +259,9 @@ general housing allowance is ~410€ per month, tax free, for a studio in Helsin
   * are a a natural person from the perspective of law
   * pay taxes on your **income** in the form of _perosnal taxation_, at progressive rates, whenever you receive income
 * For the purpose of answering _what counts as a `self-employed` person's income from Kela's perspective_, your company's income is irrelevant.
-* Your income is relevant. If you have [YEL](#self-employed-persons-pensions-act-yel):
-  * Your YEL `income` is counted as your income, nothing else.
-  * You do not need to apply for general housing allowance review unless you change your YEL `income`.
+* Your income is relevant. If you have [YEL](#buy-social-security-insurance-yel):
+  * Your `YEL income` is counted as your income, nothing else.
+  * You do not need to apply for general housing allowance review unless you change your `YEL income`.
 * If you don't have YEL:
   * All your income (salary, benefits, dividends, etc) counts as your income.
   * You need to apply for general housing allowance review if your income increases by 400€ per month.
