@@ -14,7 +14,7 @@ Everything you need to know to start freelancing in Finland as a software develo
 * [Preparation - what to do **before** you establish your company](#preparation---what-to-do-before-you-establish-your-company)
   * [Know how to handle your upcoming new immigration status](#know-how-to-handle-your-upcoming-new-immigration-status)
   * [Network with freelance brokers and organizations](#network-with-freelance-brokers-and-organizations)
-  * [Startup grant (starttiraha)](#startup-grant-starttiraha)
+  * [Apply for startup grant](#apply-for-startup-grant)
   * [Quit your job](#quit-your-job)
   * [Apply for general housing allowance](#apply-for-general-housing-allowance)
 * [Foundation - what to do **after** you establish your company](#foundation---what-to-do-after-you-establish-your-company)
@@ -124,14 +124,14 @@ A lot of those companies are startups who need software developers. By introduci
 
   NewCo Helsinki advisors see many startups in Helsinki who would need software developers. By visiting them and introducing yourself, they might be able to connect you with potential Helsinki startups.
 
-### Startup grant (starttiraha)
+### Apply for startup grant
 
 **Source of truth**: [TE-services startup grant page](https://www.te-palvelut.fi/te/en/employers/for_entrepreneurs/services_new_entrepreneurs/startup_grant/index.html)
 
 **What is it?** Startup grant is a program to support you to become an entrepreneur.
-You will receive the monthly payment for 6 months (if you apply once) or 12 months (if you apply for extension as well).
+You will receive the monthly payment for a total of 6 months (if you apply once) or a total of 12 months (if you apply for extension as well).
 
-**How much?** ~680€ per month, as personal income. If your income tax is 25%, for example, you will get 510€.
+**How much?** ~705€ per month, as personal income. If your income tax is 25%, for example, you will get ~525€.
 
 **Steps** for first application:
 
