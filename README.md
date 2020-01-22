@@ -281,8 +281,8 @@ general housing allowance is ~410€ per month, tax free, for a studio in Helsin
 
 **What is it?** A business bank account for your company's business activities.
 
-**How much?** ~30€ per month. Base prices might start from ~10€ but in *business* accounts, unlike *personal* accounts,
-almost anything that happens in the eco-system of your business will cost you something and will drive the total cost to around ~30€.
+**How much?** ~40€ per month. Base prices might start from ~10€ but in *business* accounts, unlike *personal* accounts,
+almost anything that happens in the eco-system of your business will cost you something and will drive the total cost to around ~40€.
 
 **Comparison of services**:
 
@@ -294,8 +294,10 @@ almost anything that happens in the eco-system of your business will cost you so
 
 1. OP corporate account for limited liability companies have to be
 opened [by an appointment](https://www.op.fi/corporate-customers/services-for-entrepreneurs/starting-a-business/open-corporate-account)
+> If you're another bank's customer or have another type of company, please book an appointment for opening an OP corporate account.
 2. Holvi phone support is for what Holvi considers [urgent](https://support.holvi.com/hc/en-gb/articles/115005238365-Holvi-s-service-and-support),
 which is mainly fraud-related activities, during weekdays. All other inquiries have to be submitted electronically.
+> Our phone support is available from Monday - Friday 10-16 Finnish time (GMT +2) for urgent matters only: lost or stolen cards or if you suspect suspicious activities related to your account.
 
 
 ### Find an accountant
