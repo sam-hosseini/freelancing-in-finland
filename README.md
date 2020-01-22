@@ -176,25 +176,26 @@ and you will get an electronic decision within 2 weeks (official estimation). Of
 
 **Source of truth**: [Business Information System](https://www.ytj.fi/en/index.html)
 
-**What is it?** You need to register a *limited liability* company (Oy) to be able to offer your freelance services and **protect** your **personal** assets from a legal perspective.
+**What is it?** You need to establish a *limited liability company* (Oy) to be able to offer your freelance services and **protect your personal assets** from a legal perspective.
 
-This *limited liability* is such an extremely important concept that I encourage you to watch [Khan Academy video on corporations and limited liability](https://www.khanacademy.org/economics-finance-domain/core-finance/taxes-topic/corporate-taxation/v/corporations-and-limited-liability)
+This *limited liability* is such an extremely important concept that I encourage you to watch
+[Khan Academy video on corporations and limited liability](https://www.khanacademy.org/economics-finance-domain/core-finance/taxes-topic/corporate-taxation/v/corporations-and-limited-liability)
 and make an **informed** decision whether going for a private trader (toiminimi) is **really** the course of action you'd like to take.
 
 **TL;DR of video**: Working under your own name as a private trader gives you **unlimited** liability and all your personal assets like your home, car, and personal savings are up for grabs if worst happens.
 In case of a limited liability company, the liability is *limited* and the company can declare bankruptcy if worst happens, and your personal assets are immune from the liability of the company.
 
 
-**How much?** ~280€ for online registration. It's a business cost. Later,
+**How much?** ~275€ for online registration. It's a business cost. Later,
 when your company is registered and accounting and bank account are setup,
-you can claim this ~280€ back from the company as you paid this money from your *personal* bank account even though it was a *business* cost.
+you can claim this ~275€ back from the company as you paid this money from your *personal* bank account even though it was a *business* cost.
 
 **What is the role of Business Information System?**
 
-* What Local Register Office (maistraatti) is to you, Business Information System (ytj) is to your company.
-* This means that in the same manner that you came to life, in the eye of Finnish authorities, by getting a personal ID (henkilötunnus) from Local Register Office,
+* What Finnish Digital Agency (Digi- ja väestötietovirasto) is to you, Business Information System (ytj) is to your company.
+* This means that in the same manner that you came to life, in the eye of Finnish authorities, by getting a personal ID (henkilötunnus) from Finnish Digital Agency,
 your company will come to life by getting a company ID (Y-tunnus) from Business Information System.
-* Similarly, in the same way that you update your personal information like your address after you move apartments in Local Register Office,
+* Similarly, in the same way that you update your personal information like your address after you move apartments in Finnish Digital Agency,
 you'll update your company's information in Business Information System if there are changes.
 * Business Information System is also the **single place** in which you can communicate with and join/exit various registries by Tax Administraion (Vero) and Finnish Patent and Registration Office (PRH).
   * Tax Administraion maintains:
