@@ -8,16 +8,16 @@ Everything you need to know to start freelancing in Finland as a software develo
 
 <!-- vim-markdown-toc GFM -->
 
-* [Background](#background)
-  * [Problem](#problem)
-  * [Solution](#solution)
-* [Preparation](#preparation)
+* [Introduction](#introduction)
+  * [What problem will you face without this guide?](#what-problem-will-you-face-without-this-guide)
+  * [How can this guide solve the problem?](#how-can-this-guide-solve-the-problem)
+* [Preparation - what to do **before** you establish your company](#preparation---what-to-do-before-you-establish-your-company)
   * [Immigration permit](#immigration-permit)
   * [Network with freelance brokers and organizations](#network-with-freelance-brokers-and-organizations)
   * [Startup grant (starttiraha)](#startup-grant-starttiraha)
   * [Quit your job](#quit-your-job)
   * [Apply for general housing allowance](#apply-for-general-housing-allowance)
-* [Foundation](#foundation)
+* [Foundation - what to do **after** you establish your company](#foundation---what-to-do-after-you-establish-your-company)
   * [Establish your company](#establish-your-company)
   * [Open a business bank account](#open-a-business-bank-account)
   * [Find an accountant](#find-an-accountant)
@@ -25,50 +25,42 @@ Everything you need to know to start freelancing in Finland as a software develo
   * [Consider buying corporate liability insurance](#consider-buying-corporate-liability-insurance)
   * [Consider joining a union](#consider-joining-a-union)
   * [Consider joining an unemployment fund](#consider-joining-an-unemployment-fund)
-* [Operation](#operation)
+* [Operation - what to do to **run** your company](#operation---what-to-do-to-run-your-company)
   * [Ensure that your obligations are fulfilled continuously](#ensure-that-your-obligations-are-fulfilled-continuously)
   * [References](#references)
 * [Contributors](#contributors)
 
 <!-- vim-markdown-toc -->
 
-## Background
+## Introduction
 
-### Problem
+### What problem will you face without this guide?
 
-When I started freelancing in Finland as a software developer, I had to spend more than **~200 hours** to figure out how everything works.
+**Losing an estimated 200 hours** figuring out how to do everything by your own. I know this because that's how much I had to spend myself.
 
-I had questions like:
+In Finland, there are many extensive guides by authorities which have precise information about everything you need to know.
+The problem is, however, that the **target audience of those guides are the general population** and out of every 100 pages, maybe 10 pages are relevant to your situation.
 
-* What are the things you need to do _before_ you establish your company?
+For myself, I had questions like:
+
+* How to get freelance projects without any network of my own?
+* What you need to do _before_ you establish your company to be eligible for government grants?
 * When you setup your company, what are your recurring _obligations_?
-* What kind of benefits can you offer yourself as a freelancer and how?
-* and many more...
 
-There are guides from Tax administration, Finnish Enterprise Agencies and other places to answer those questions.
-However, it was painfully time consuming to extract the information I needed from those guides as the **target audience** of such
-guides are the general population and the amount of details and information in them is overwhelming.
+Figuring those questions out was tiring and very time consuming.
 
-### Solution
+### How can this guide solve the problem?
 
-A guide tailored specifically **to the person reading this README.md on Github**
+By **narrowing down the target audience** to the person reading this guide on Github, you wouldn't lose the time I lost.
 
 You are the target audience of this guide if:
 
-* You live in Finland
+* You are already living in Finland
 * You are already working as a software developer
 * You want to work as an independent freelance software developer
-* You want to establish a limited liability company to offer your services through it
+* You want to establish a limited liability company to offer your freelance services through it
 
-This guide will have 3 sections.
-
-* **Preparation**: What you need to do __before__ you establish your company
-* **Foundation**: What you need to do __after__ you establish your company
-* **Operation**: What you need to do to __run__ your company
-
-I hope it saves you time 💐
-
-## Preparation
+## Preparation - what to do **before** you establish your company
 
 ### Immigration permit
 
@@ -211,7 +203,7 @@ general housing allowance is ~410€ per month, tax free, for a studio in Helsin
 * If you don't have the attachments ready, you can still attach them to the application for ~10 days after sending the application.
 * You will receive a decision in ~3 weeks (official estimation).
 
-## Foundation
+## Foundation - what to do **after** you establish your company
 
 ### Establish your company
 
@@ -429,7 +421,7 @@ a job-seeker to be a full-time employee again, among other things.
 * According to [Federation of Unemployment Funds in Finland (TYJ)](https://www.tyj.fi/en/join-a-fund/membership-fees/), there's only one unemployment fund for the self-employed.
 * Join [Unemployment Fund for the self-employed](https://syt.fi/).
 
-## Operation
+## Operation - what to do to **run** your company
 
 ### Ensure that your obligations are fulfilled continuously
 
