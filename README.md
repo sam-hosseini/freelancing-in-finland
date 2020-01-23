@@ -14,6 +14,7 @@ Everything you need to know to start freelancing in Finland as a software develo
 * [Preparation - what to do **before** you establish your company](#preparation---what-to-do-before-you-establish-your-company)
   * [Know how to handle your upcoming new immigration status](#know-how-to-handle-your-upcoming-new-immigration-status)
   * [Network with freelance brokers and organizations](#network-with-freelance-brokers-and-organizations)
+  * [Wait until you find a project you like](#wait-until-you-find-a-project-you-like)
   * [Apply for startup grant](#apply-for-startup-grant)
   * [Quit your job](#quit-your-job)
   * [Establish your company](#establish-your-company)
@@ -124,6 +125,20 @@ A lot of those companies are startups who need software developers. By introduci
   > When problems come up, we are here to help you right away. Please contact us at startup@hel.fi and stop by!
 
   NewCo Helsinki advisors see many startups in Helsinki who would need software developers. By visiting them and introducing yourself, they might be able to connect you with potential Helsinki startups.
+
+### Wait until you find a project you like
+**What is it?** Finding a freelance project is like finding a job. A lot has to be in order for you to find the right project.
+
+It took me ~6 months from the time I got into the networks to find my first project that I liked. I've heard of couple of weeks from my peers too. It really varies, patience is necessary.
+
+**Steps**:
+* Once you find the right project, check the terms and conditions of the contract and run it by a lawyer if you have that available to you either through a union or elsewhere.
+* If you're planning to [apply for startup grant](#apply-for-startup-grant), before you sign any contract, ask them to give you two weeks so that you can apply for startup grant and receive a decision.
+Even though the official estimation is 2 weeks, decision comes much faster in reality (2-4 working days). Once you receive the decision, you can proceed.
+* As you don't have a company yet, and you need to accept the contract, you can sign it **as a temporary solution** under your own name.
+* The contract will be between a `natural person` (you) and a `legal entity` (the client's company or the freelance broker's company).
+* You will sign a new contract once you establish your company. It will be between a `legal entity` (your company) and another `legal entity` (the client's company or the freelance broker's company).
+* Your company would be selling freelance services by sending its representative (you).
 
 ### Apply for startup grant
 
