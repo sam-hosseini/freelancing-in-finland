@@ -552,6 +552,8 @@ Therefore, check before the deadlines if the VAT reports have been done.
 * **Consider monthly bookkeeping**, *recurring* acitivity: accountants prefer to do it monthly. There's no legal obligation to do it monthly, however.
 * **Submit financial statement and corporate income tax return**, *recurring* obligation: after the financial year ends, within 4 months you must submit
 a financial statement and corporate income tax return. Your accountant can do this for you.
+* **Share the receipts with your accounttant**, *recurring* obligation: Primarily because Tax Administration must know what the purchase was for and whether it was
+related to your *main line of business*, although it would also allow you to get the VAT back on eligible purchases.
 
 Business Information System (ytj):
 
