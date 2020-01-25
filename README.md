@@ -546,16 +546,18 @@ I don't know if there are other health insurance providers or which one is bette
 
 **Source of truth**: [Tax Administraion](https://www.vero.fi/en/detailed-guidance/decisions/47380/in-kind-benefits-fringe-benefits-2020/)
 
-**What is it?** You can offer yourself all the benefits `employees` have access to as a `self-employed` person.
+**What is it?** You can offer yourself all the benefits `employees` have access to as a `self-employed` person. Up to the tax-free limits, it'll be only a business cost.
 
-|                              | Tax free amount | [Edenred card service commission](https://edenred.fi/en/employer/price-list/#card) | [Smartum card service commission](https://www.smartum.fi/en/hinnasto-smartum-saldo-ja-setelit/) |
+|                              | Tax-free limit | [Edenred card service commission](https://edenred.fi/en/employer/price-list/#card) | [Smartum card service commission](https://www.smartum.fi/en/hinnasto-smartum-saldo-ja-setelit/) |
 | ---------------------------- | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Lunch benefit 🥗              | ~50€ per month  | 2.6% of the balance loaded                                   | 1.5% of the balance loaded                                   |
 | Sport and cultural benefit 🎭 | 400€ per year   | 5.2% of the balance loaded                                   | 5% of the balance loaded                                     |
 | Commuting benefit 🚌          | 300€ per year   | 4% of the balance loaded                                     | 5% of the balance loaded                                     |
 | Massage benefit 🌊            | 400€ per year   | Doesn't have it                                              | 5% of the balance loaded                                     |
 
-You can also pay your personal phone bill from company if you offer it as a 20€-phone-benefit every month to yourself.
+You can also pay your phone bill from company if you offer it as a 20€-phone-benefit every month to yourself.
+Phone bills are business cost when you only and only use it for business and not in your personal life. If you'd like to use a single subscription for both personal and business,
+you must offer it as a 20€-phone-benefit.
 
 **Can you offer yourself only benefits?** Yes you can, but you must take a big enough salary to cover the `income tax` of the benefits you're offering yourself.
 
@@ -564,7 +566,7 @@ For example, let's say in March, you paid your phone bill from company and there
 10% of 20€-phone-benefit is 2€. This means that you must take a big enough salary in March to cover this 2€ tax that you have to pay.
 Therefore, in March, your salary must be 2.22€. When you deduct your 10% tax from 2.22€ salary, 2€ is left, which will cover the 2€ tax that you have to pay for 20€-phone-benefit.
 
-**Should you offer yourself benefits above the tax-free limit?** You can but it will make no difference in case of a `self-employed` person.
+**Should you offer yourself benefits above the tax-free limit?** You can but it will be similar to taking salary in case of a `self-employed` person.
 
 As seen in [understanding your new personal taxation situation](#understand-your-new-personal-taxation-situation), the `self-employed` only pay `income tax` on their income and nothing else.
 So if you offer yourself 1000€ salary and your tax rate is 20%, you get 800€. If you offer yourself 1000€ as benefit, you will also get 800€.
