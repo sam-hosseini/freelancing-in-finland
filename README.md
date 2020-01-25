@@ -610,6 +610,7 @@ For example, if you're applying for the month of March, you have until end of Ma
 Guides:
 * [Suomi.fi](https://www.suomi.fi/company/)
 * [Finnish Enterprise Agencies guide to becoming an Entrepreneur in Finland - 2019](https://www.uusyrityskeskus.fi/wp-content/uploads/2019/05/SUK_perustamisopas2019_ENG_VERKKOON.pdf)
+* [Capital taxation of individuals in Finland - 2015](https://www.porssisaatio.fi/wp-content/uploads/2015/08/vero_opas_2015_eng_final_web.pdf)
 
 Governmental organizations to provide support for you:
 * [NewCo Helsinki](https://newcohelsinki.fi/en/)
