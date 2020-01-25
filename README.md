@@ -593,6 +593,8 @@ if you go ahead and use it all within that calendar year, you must report it and
     * You must ensure that your EU company's VAT is valid by [checking it in VIES](http://ec.europa.eu/taxation_customs/vies/?locale=en)
     * You must mention the VAT rate and exactly how much VAT is to be accounted for by the EU company for VAT purposes and the fact that this responsibility is left for the EU company.
     * You must mention the exact **`reverse-charge mechanism`** words in your invoice.
+    * *`reverse-charge mechanism`* works in the other way around too. In some checkout pages, the seller asks for your VAT ID to remove the VAT amount from your purchase invoice.
+ Without this mechanism, the seller could not do that.
 
 **If you're invoicing a non-EU company**:
 * I don't know. Do you know? Please send a pull request 💯
