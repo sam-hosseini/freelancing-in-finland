@@ -29,6 +29,7 @@ Everything you need to know to start freelancing in Finland as a software develo
     * [Consider joining an unemployment fund](#consider-joining-an-unemployment-fund)
     * [Consider buying health insurance](#consider-buying-health-insurance)
 * [Operation - what to do to **run** your company](#operation---what-to-do-to-run-your-company)
+    * [Offer yourself benefits that you like](#offer-yourself-benefits-that-you-like)
     * [Ensure that your obligations are fulfilled continuously](#ensure-that-your-obligations-are-fulfilled-continuously)
     * [References](#references)
 * [Contributors](#contributors)
@@ -252,6 +253,7 @@ that you feel is most relevant.
 You can join later, once and if you start employing others.
 
 * Establish your company online by filing a *startup notification* at [Business Information System](https://asiointi.ytj.fi/ytjap) (only available in Finnish)
+
   * You can also give power of attorney in Business Information System to an accountant so that they can establish the company on your behalf.
 
 ## Foundation - what to do **after** you establish your company
@@ -539,6 +541,37 @@ I don't know if there are other health insurance providers or which one is bette
 * Be ready to answer basic questions about your business like your estimated annual revenue, your `YEL income`, main line of business and many more.
 
 ## Operation - what to do to **run** your company
+
+### Offer yourself benefits that you like
+
+**Source of truth**: [Tax Administraion](https://www.vero.fi/en/detailed-guidance/decisions/47380/in-kind-benefits-fringe-benefits-2020/)
+
+**What is it?** You can offer yourself all the benefits `employees` have access to as a `self-employed` person.
+
+|                              | Tax free amount | [Edenred card service commission](https://edenred.fi/en/employer/price-list/#card) | [Smartum card service commission](https://www.smartum.fi/en/hinnasto-smartum-saldo-ja-setelit/) |
+| ---------------------------- | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Lunch benefit 🥗              | ~50€ per month  | 2.6% of the balance loaded                                   | 1.5% of the balance loaded                                   |
+| Sport and cultural benefit 🎭 | 400€ per year   | 5.2% of the balance loaded                                   | 5% of the balance loaded                                     |
+| Commuting benefit 🚌          | 300€ per year   | 4% of the balance loaded                                     | 5% of the balance loaded                                     |
+| Massage benefit 🌊            | 400€ per year   | Doesn't have it                                              | 5% of the balance loaded                                     |
+
+You can also pay your personal phone bill from company if you offer it as a 20€-phone-benefit every month to yourself.
+
+**Can you offer yourself only benefits?** Yes you can, but you must take a big enough salary to cover the `income tax` of the benefits you're offering yourself.
+
+For example, let's say in March, you paid your phone bill from company and therefore you must offer yourself a 20€-phone-benefit. You want no additional salary and your tax rate is 10%.
+
+10% of 20€-phone-benefit is 2€. This means that you must take a big enough salary in March to cover this 2€ tax that you have to pay.
+Therefore, in March, your salary must be 2.22€. When you deduct your 10% tax from 2.22€ salary, 2€ is left, which will cover the 2€ tax that you have to pay for 20€-phone-benefit.
+
+**Should you offer yourself benefits above the tax-free limit?** You can but it will make no difference in case of a `self-employed` person.
+
+As seen in [understanding your new personal taxation situation](#understand-your-new-personal-taxation-situation), the `self-employed` only pay `income tax` on their income and nothing else.
+So if you offer yourself 1000€ salary and your tax rate is 20%, you get 800€. If you offer yourself 1000€ as benefit, you will also get 800€.
+
+**Who ensures that you do not go above the tax-free limit?** Your company, the `legal entity`, must ensure that its owner, you as the `natural person`, is not offered benefits above the tax-free
+limits, because if you are offered, it must be reported and taxed. This is important, because you as the representative of the company can order even 10,000€ of Sport and cultural benefit, but
+if you go ahead and use it all within that calendar year, you must report it and pay tax on the 9600€ part.
 
 ### Ensure that your obligations are fulfilled continuously
 
