@@ -30,6 +30,7 @@ Everything you need to know to start freelancing in Finland as a software develo
     * [Consider buying health insurance](#consider-buying-health-insurance)
 * [Operation - what to do to **run** your company](#operation---what-to-do-to-run-your-company)
     * [Offer yourself benefits that you like](#offer-yourself-benefits-that-you-like)
+    * [Send your invoices carefully](#send-your-invoices-carefully)
     * [Ensure that your obligations are fulfilled continuously](#ensure-that-your-obligations-are-fulfilled-continuously)
     * [References](#references)
 * [Contributors](#contributors)
@@ -579,6 +580,22 @@ So if you offer yourself 1000€ salary and your tax rate is 20%, you get 800€
 **Who ensures that you do not go above the tax-free limit?** Your company, the `legal entity`, must ensure that its owner, you as the `natural person`, is not offered benefits above the tax-free
 limits, because if you are offered, it must be reported and taxed. This is important, because you as the representative of the company can order even 10,000€ of Sport and cultural benefit, but
 if you go ahead and use it all within that calendar year, you must report it and pay tax on the 9600€ part.
+
+### Send your invoices carefully
+
+**If you're invoicing a Finnish company**:
+* You must add 24% VAT to the total amount you're charging them for your services.
+
+**If you're invoicing a EU company**:
+* You must add 24% VAT to the total amount you're charging them for your services.
+* You can, however, use [**reverse-charge mechanism**](https://quaderno.io/blog/how-does-the-reverse-charge-mechanism-work/) and not add VAT. To do it:
+    * You must state the EU company's VAT ID in your invoice.
+    * You must ensure that your EU company's VAT is valid by [checking it in VIES](http://ec.europa.eu/taxation_customs/vies/?locale=en)
+    * You must mention the VAT rate and exactly how much VAT is to be accounted for by the EU company for VAT purposes and the fact that this responsibility is left for the EU company.
+    * You must mention the exact **`reverse-charge mechanism`** words in your invoice.
+
+**If you're invoicing a non-EU company**:
+* I don't know. Do you know? Please send a pull request 💯
 
 ### Ensure that your obligations are fulfilled continuously
 
