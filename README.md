@@ -662,11 +662,13 @@ I can tell you that I wrote this guide **with both selfish and selfless reasons*
 
 * Selfish reasons:
   * I wanted to increase my visibility in the freelancing network as a Python developer 🐍 and with that, I would have the leverage to charge higher hourly rates 💶
-    * My LinkedIn: [https://www.linkedin.com/in/sam-hosseini-/](https://www.linkedin.com/in/sam-hosseini-/)
+
+  * <a href="https://www.linkedin.com/in/sam-hosseini-/"><img src="https://img.shields.io/badge/Linkedin-Connect-blue?style=for-the-badge&logo=linkedin" alt="connect on Linkedin"></a>
+
   * Later in my life, I want to launch my own products but because I'm an underdog on Twitter 😁,
   I was hoping to get more Twitter followers so that my best friends wouldn't be the only ones liking my later-in-life Producthunt launch posts 😅
 
-    * My Twitter: [https://twitter.com/sam\_hosseini\_](https://twitter.com/sam_hosseini_)
+  * <a href="https://twitter.com/sam_hosseini_"><img src="https://img.shields.io/twitter/follow/sam_hosseini_?style=for-the-badge&logo=twitter" alt="follow on Twitter"></a>
 
 * Selfless reasons:
   * Software developers and the community are extremely generous and having been mostly *taking*, I wanted to give back as well.
