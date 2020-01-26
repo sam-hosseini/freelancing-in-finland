@@ -4,7 +4,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-Everything you need to know to start freelancing in Finland as a software developer ✨
+The ultimate resource for transitioning to freelancing for software developers 👩‍💻🇫🇮
 
 <!-- vim-markdown-toc GFM -->
 
