@@ -414,7 +414,7 @@ From the `employer`'s perspective:
 
 The `employer` will pay all taxes above which is ~479€ to Tax Administration.
 
-**How is the payslip for a `self-employed`?** Imagine a basic example, in which a `self-employed` person receives 1,000€ salary, and her/his tax card says their tax is 20%.
+**How is the payslip for a `self-employed`?** Imagine a basic example, in which a `self-employed` person receives 1,000€ salary from their own company, and her/his tax card says their tax is 20%.
 
 From the `self-employed`'s perspective:
 
