@@ -484,7 +484,7 @@ and [Unemployment Fund for the self-employed](https://syt.fi/)
 **What is it?** There are two types of unemployment benefits:
 
 1. **Basic** unemployment allowance, which is paid by Kela and the amount is the same for everyone, ~700€ per month.
-2. **Earnings-related** unemployment allowance, which is paid by *unemployment funds* and the amount for the self-employed people depends on their `YEL income`.
+2. **Earnings-related** unemployment allowance, which is paid by *unemployment funds* and the amount for the `self-employed` people depends on their `YEL income`.
 
 You can only apply for earnings-related unemployment allowance if you're part of an unemployment fund.
 
@@ -503,7 +503,7 @@ a job-seeker to be a full-time employee again, among other things.
 \* Taken from [SYT](https://syt.fi/wp-content/uploads/2019/02/2019_SYT_brochure.pdf)
 
 **Steps**:
-* According to [Federation of Unemployment Funds in Finland (TYJ)](https://www.tyj.fi/en/join-a-fund/membership-fees/), there's only one unemployment fund for the self-employed.
+* According to [Federation of Unemployment Funds in Finland (TYJ)](https://www.tyj.fi/en/join-a-fund/membership-fees/), there's only one unemployment fund for the `self-employed`.
 * Join [Unemployment Fund for the self-employed](https://syt.fi/).
 
 ### Consider buying health insurance
