@@ -77,7 +77,7 @@ You are the target audience of this guide if:
 **If you're a Finnish citizen**, this is not applicable to you.
 
 **If you're a EU citizen**, as the target audience of this guide is people who are already living in Finland for more than 3 months,
-given that you have already [registered your right of residene](https://migri.fi/en/registration-of-right-of-residence),
+given that you have already [registered your right of residence](https://migri.fi/en/registration-of-right-of-residence),
 you don't need to apply for another permit.
 
 **If you're a non-EU citizen**, depending on your current permit, you may need to apply for another permit.
@@ -217,8 +217,8 @@ you can claim this ~275€ back from the company as you paid this money from you
 your company will come to life by getting a company ID (Y-tunnus) from Business Information System.
 * Similarly, in the same way that you update your personal information like your address after you move apartments in Finnish Digital Agency,
 you'll update your company's information in Business Information System if there are changes.
-* Business Information System is also the **single place** in which you can communicate with and join/exit various registries by Tax Administraion (Vero) and Finnish Patent and Registration Office (PRH).
-  * Tax Administraion maintains:
+* Business Information System is also the **single place** in which you can communicate with and join/exit various registries by Tax Administration (Vero) and Finnish Patent and Registration Office (PRH).
+  * Tax Administration maintains:
     * Prepayment register (Ennakkoperintärekisteri), which allows your company to take care of its own taxes.
     * VAT register (Arvonlisäverovelvollisuus), which allows your company to report VAT related matters.
     * Employer register (Työnantajarekisteri), which allows your company to report employee-related matters.
@@ -244,7 +244,7 @@ that you feel is most relevant.
   > There  shall  be  between  one  and  five  regular  Members  of  the  Board  of Directors, unless it is otherwise provided in the Articles of Association. If there are  fewer  than  three  Members,  there  shall be  at  least one  Deputy  Member of the Board of Directors.
 
   * This means that, for your company to be legally compliant, it must have a *Deputy Member of the Board of Directors* when you are going to be the *only* regular member of Board of Directors as the CEO.
-  * Once you get the perosn's consent, get his/her personal ID (henkilötunnus) as you'll need it for establishing the company.
+  * Once you get the person's consent, get his/her personal ID (henkilötunnus) as you'll need it for establishing the company.
 
 * Decide the registries you'd like your company to be part of:
   * Trade register ✅, as the company cannot come into life without it.
@@ -280,7 +280,7 @@ general housing allowance is ~410€ per month, tax free, for a studio in Helsin
 * You:
   * are a `natural person` with a personal ID (Henkilötunnus)
   * are a a natural person from the perspective of law
-  * pay taxes on your **income** in the form of _perosnal taxation_, at progressive rates, whenever you receive income
+  * pay taxes on your **income** in the form of _personal taxation_, at progressive rates, whenever you receive income
 * For the purpose of answering _what counts as a `self-employed` person's income from Kela's perspective_, your company's income is irrelevant.
 * Your income is relevant. If you have [YEL](#buy-social-security-insurance-yel):
   * Your `YEL income` is counted as your income, nothing else.
@@ -387,7 +387,7 @@ Minimum YEL                |  Maximum YEL
 
 ### Understand your new personal taxation situation
 
-**Source of truth**: [Tax Administraion](https://www.vero.fi/en/individuals/)
+**Source of truth**: [Tax Administration](https://www.vero.fi/en/individuals/)
 
 **What is it?** As a `self-employed` person, your payslip is going to be different than what you used to have as
 an `employee` and practically speaking, you only pay `income tax` and nothing else.
@@ -409,7 +409,7 @@ From the `employer`'s perspective:
 4. The employer has to pay 0.07% of 1,000€ as `Group life insurance contribution` => 0,7€
 5. The employer has to pay 1.34% of 1,000€ as `Employers’ health insurance contribution` => 13,4€
 
-The `employer` will pay all taxes above which is ~479€ to Tax Administraion.
+The `employer` will pay all taxes above which is ~479€ to Tax Administration.
 
 **How is the payslip for a `self-employed`?** Imagine a basic example, in which a `self-employed` person receives 1,000€ salary, and her/his tax card says their tax is 20%.
 
@@ -422,7 +422,7 @@ From the company's perspective:
 
 1. The company has to pay 1.34% of 1,000€ as `Employers’ health insurance contribution` => 13,4€
 
-The company will pay all taxes above which is ~213€ to Tax Administraion.
+The company will pay all taxes above which is ~213€ to Tax Administration.
 
 **What's the practical conclusion?** Because `Employers’ health insurance contribution` is such a small percentage, in the rest of this guide, I will intentionally assume
 that the `self-employed` people only pay `income tax` and nothing else.
@@ -454,7 +454,7 @@ I don't know if any provider is better than the other. Do you know which one is 
 
 ### Consider joining a union
 
-**What is it?** A union is an organization which can offer its members certain services at a much lower price and lobby the interests of its members with relavent authorities.
+**What is it?** A union is an organization which can offer its members certain services at a much lower price and lobby the interests of its members with relevant authorities.
 
 **How much?** ~165€ per year.
 
@@ -550,7 +550,7 @@ I don't know if there are other health insurance providers or which one is bette
 
 ### Offer yourself benefits that you like
 
-**Source of truth**: [Tax Administraion](https://www.vero.fi/en/detailed-guidance/decisions/47380/in-kind-benefits-fringe-benefits-2020/)
+**Source of truth**: [Tax Administration](https://www.vero.fi/en/detailed-guidance/decisions/47380/in-kind-benefits-fringe-benefits-2020/)
 
 **What is it?** You can offer yourself all the benefits `employees` have access to as a `self-employed` person. Up to the tax-free limits, it'll be only a business cost.
 
@@ -603,20 +603,20 @@ if you go ahead and use it all within that calendar year, you must report it and
 
 Tax administration office (Vero):
 
-* **Pay your corporate income tax early** using prepayment register, *non-recurrning* obligation: you can pay your corporate income tax before the company financial year ends, if you want.
+* **Pay your corporate income tax early** using prepayment register, *non-recurring* obligation: you can pay your corporate income tax before the company financial year ends, if you want.
 That way, you won't have to pay interest if the financial year has ended and you had paid way too little corporate income tax during the financial year.
 * **Send VAT reports**, *recurring* obligation: strictly speaking, as the owner of the company, you are responsible to ensure that VAT reports are done every month, not your accountant.
 Practically, your accountant assumes responsibility for it and will do it herself/himself, but remember that if your accountant fails to do so, you yourself are responsible.
 Therefore, check before the deadlines if the VAT reports have been done.
-* **Consider monthly bookkeeping**, *recurring* acitivity: accountants prefer to do it monthly. There's no legal obligation to do it monthly, however.
+* **Consider monthly bookkeeping**, *recurring* activity: accountants prefer to do it monthly. There's no legal obligation to do it monthly, however.
 * **Submit financial statement and corporate income tax return**, *recurring* obligation: after the financial year ends, within 4 months you must submit
 a financial statement and corporate income tax return. Your accountant can do this for you.
-* **Share the receipts with your accounttant**, *recurring* obligation: Primarily because Tax Administration must know what the purchase was for and whether it was
+* **Share the receipts with your accountant**, *recurring* obligation: Primarily because Tax Administration must know what the purchase was for and whether it was
 related to your *main line of business*, although it would also allow you to get the VAT back on eligible purchases.
 
 Business Information System (ytj):
 
-* **File notification of changes to company information**, *non-recurrning* obligation: any changes to company information has to be
+* **File notification of changes to company information**, *non-recurring* obligation: any changes to company information has to be
 notified to Business Information System. For example, if your company's address changes, file a [notification of change](https://www.ytj.fi/en/index/notifications/notificationsofchanges/limitedliabilitycompanies.html).
 
 TE-services:
