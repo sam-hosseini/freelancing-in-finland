@@ -244,7 +244,7 @@ that you feel is most relevant.
 
 * Get another person's consent to be your *Deputy Member of the Board of Directors*.
   * According to [Limited Liability Companies Act](https://www.finlex.fi/en/laki/kaannokset/2006/en20060624.pdf) in Chapter 6, Section 8.1:
-  > There  shall  be  between  one  and  five  regular  Members  of  the  Board  of Directors, unless it is otherwise provided in the Articles of Association. If there are  fewer  than  three  Members,  there  shall be  at  least one  Deputy  Member of the Board of Directors.
+    > There  shall  be  between  one  and  five  regular  Members  of  the  Board  of Directors, unless it is otherwise provided in the Articles of Association. If there are  fewer  than  three  Members,  there  shall be  at  least one  Deputy  Member of the Board of Directors.
 
   * This means that, for your company to be legally compliant, it must have a *Deputy Member of the Board of Directors* when you are going to be the *only* regular member of Board of Directors as the CEO.
   * Once you get the person's consent, get his/her personal ID (henkilötunnus) as you'll need it for establishing the company.
