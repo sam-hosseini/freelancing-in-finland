@@ -224,7 +224,7 @@ you'll update your company's information in Business Information System if there
   * Tax Administration maintains:
     * Prepayment register (Ennakkoperintärekisteri), which allows your company to take care of its own taxes.
     * VAT register (Arvonlisäverovelvollisuus), which allows your company to report VAT related matters.
-    * Employer register (Työnantajarekisteri), which allows your company to report employee-related matters.
+    * Employer register (Työnantajarekisteri), which allows your company to report `employee`-related matters.
   * Finnish Patent and Registration Office maintains:
     * Trade register (Kaupparekisteri), which stores your company's information.
 
@@ -499,7 +499,7 @@ The minimum is ~13,000€ `YEL income`, and with that, membership fee is ~155€
 **When is it necessary?** If you wish to get earnings-related unemployment allowance in case of unemployment.
 
 Note that **receiving any kind of unemployment allowance requires permanent closure of your company** and registering as
-a job-seeker to be a full-time employee again, among other things.
+a job-seeker to be a full-time `employee` again, among other things.
 
 <img src="./images/unemployment_fund.png" width="600" height="900">
 
