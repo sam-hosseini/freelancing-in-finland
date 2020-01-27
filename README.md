@@ -67,6 +67,9 @@ You are the target audience of this guide if:
 * You want to work as an independent freelance software developer
 * You want to establish a limited liability company to offer your freelance services through it
 
+This guide is under [MIT license](https://github.com/sam-hosseini/freelancing-in-finland/blob/master/LICENSE) which means **use it at your own risk**,
+I'm not a lawyer and no statement here should be thought of as legal advice.
+
 ## Preparation - what to do **before** you establish your company
 
 ### Know how to handle your upcoming new immigration status
