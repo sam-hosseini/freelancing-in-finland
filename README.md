@@ -601,7 +601,7 @@ if you go ahead and use it all within that calendar year, you must report it and
  Without this mechanism, the seller could not do that.
 
 **If you're invoicing a non-EU company**:
-* I don't know. Do you know? Please send a pull request 💯
+* You do not need to add VAT.
 
 ### Ensure that your obligations are fulfilled continuously
 
