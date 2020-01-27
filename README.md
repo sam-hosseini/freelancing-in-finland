@@ -562,8 +562,8 @@ I don't know if there are other health insurance providers or which one is bette
 | ---------------------------- | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Lunch benefit 🥗              | ~50€ per month  | 2.6% of the balance loaded                                   | 1.5% of the balance loaded                                   |
 | Sport and cultural benefit 🎭 | 400€ per year   | 5.2% of the balance loaded                                   | 5% of the balance loaded                                     |
-| Commuting benefit 🚌          | 300€ per year   | 4% of the balance loaded                                     | 5% of the balance loaded                                     |
-| Massage benefit 🌊            | 400€ per year   | Doesn't have it                                              | 5% of the balance loaded                                     |
+| Commuting benefit 🚌          | (0 to 300€) and (751€ to 3500€) per year | 4% of the balance loaded                                     | 5% of the balance loaded                                     |
+| Massage benefit 🌊            | ♾ as long as it's used to maintain your ability to work with what Tax Administration considers a **legit** massage | Doesn't have it                                              | 5% of the balance loaded                                     |
 
 You can also pay your phone bill from company if you offer it as a 20€-phone-benefit every month to yourself.
 Phone bills are business cost when you only and only use it for business and not in your personal life. If you'd like to use a single subscription for both personal and business,
