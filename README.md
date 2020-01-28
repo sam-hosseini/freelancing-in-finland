@@ -566,14 +566,14 @@ I don't know if there are other health insurance providers or which one is bette
 | Lunch benefit 🥗              | ~50€ per month  | 2.6% of the balance loaded                                   | 1.5% of the balance loaded                                   |
 | Sport and cultural benefit 🎭 | 400€ per year   | 5.2% of the balance loaded                                   | 5% of the balance loaded                                     |
 | Commuting benefit 🚌          | (0 to 300€) and (751€ to 3500€) per year | 4% of the balance loaded                                     | 5% of the balance loaded                                     |
-| Massage benefit 🌊            | ♾ as long as it's used to maintain your ability to work with what Tax Administration considers a **legit** massage | Doesn't have it                                              | 5% of the balance loaded                                     |
 
-You can also pay your phone bill from company if you offer it as a 20€-phone-benefit every month to yourself.
+* Phone benefit: you can pay your phone bill from company if you offer it as a 20€-phone-benefit every month to yourself.
 Phone bills are business cost when you only and only use it for business and not in your personal life. If you'd like to use a single subscription for both personal and business,
 you must offer it as a 20€-phone-benefit.
-
-In addition your company can provide you an internet subscription for your home office. The subscription is not taxed if it is for work use. You can use it for personal use as well, 
+* Internet subscription: your company can provide you an internet subscription for your home office. The subscription is not taxed if it is for work use. You can use it for personal use as well,
 but entertainment services should not be attached to the subscription, or the benefit will be taxable.
+* **Massage benefit not recommended** for the target audience of this guide: there's a possibility that the Tax Administration would consider massage benefit in a one-person company [**a disguised dividend
+to the owner**](https://github.com/sam-hosseini/freelancing-in-finland/issues/3#issuecomment-579164717).
 
 **Can you offer yourself only benefits?** Yes you can, but you must take a big enough salary to cover the `income tax` of the benefits you're offering yourself.
 
