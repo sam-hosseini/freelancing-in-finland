@@ -18,7 +18,17 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "v-hal",
+      "name": "Ville Halminen",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1327481?v=4",
+      "profile": "https://halminen.dev",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
-  "contributorsPerLine": 7
+  "contributorsPerLine": 7,
+  "skipCi": true
 }
