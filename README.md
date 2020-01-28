@@ -1,7 +1,7 @@
 # Freelancing in Finland
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
 <a href="#freelancing-in-finland"><img src="https://img.shields.io/badge/30%20min%20read-gray?style=flat-square&logo=medium" alt="follow on Twitter"></a>
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
@@ -566,14 +566,14 @@ I don't know if there are other health insurance providers or which one is bette
 | Lunch benefit 🥗              | You can pay 10.70€ for each workday in the month (usually [~21](https://edenred.fi/en/employer/working-day-calendar/)). 75% of this value is taxed as your personal income so you can deduct ~50€ per month. It's better to have lunch with another freelancer or a client as [business meeting.](#business-meetings)  | 2.6% of the balance loaded                                   | 1.5% of the balance loaded                                   |
 | Sport and cultural benefit 🎭 | 400€ per year   | 5.2% of the balance loaded                                   | 5% of the balance loaded                                     |
 | Commuting benefit 🚌          | (0 to 300€) and (751€ to 3500€) per year | 4% of the balance loaded                                     | 5% of the balance loaded                                     |
-| Massage benefit 🌊            | ♾ as long as it's used to maintain your ability to work with what Tax Administration considers a **legit** massage | Doesn't have it                                              | 5% of the balance loaded                                     |
 
-You can also pay your phone bill from company if you offer it as a 20€-phone-benefit every month to yourself.
+* Phone benefit: you can pay your phone bill from company if you offer it as a 20€-phone-benefit every month to yourself.
 Phone bills are business cost when you only and only use it for business and not in your personal life. If you'd like to use a single subscription for both personal and business,
 you must offer it as a 20€-phone-benefit.
-
-In addition your company can provide you an internet subscription for your home office. The subscription is not taxed if it is for work use. You can use it for personal use as well, 
+* Internet subscription: your company can provide you an internet subscription for your home office. The subscription is not taxed if it is for work use. You can use it for personal use as well,
 but entertainment services should not be attached to the subscription, or the benefit will be taxable.
+* **Massage benefit not recommended** for the target audience of this guide: there's a possibility that the Tax Administration would consider massage benefit in a one-person company [**a disguised dividend
+to the owner**](https://github.com/sam-hosseini/freelancing-in-finland/issues/3#issuecomment-579164717).
 
 **Can you offer yourself only benefits?** Yes you can, but you must take a big enough salary to cover the `income tax` of the benefits you're offering yourself.
 
@@ -667,6 +667,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://andersnylund.com"><img src="https://avatars0.githubusercontent.com/u/18005239?v=4" width="100px;" alt=""/><br /><sub><b>Anders Nylund</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=andersnylund" title="Documentation">📖</a></td>
     <td align="center"><a href="https://halminen.dev"><img src="https://avatars1.githubusercontent.com/u/1327481?v=4" width="100px;" alt=""/><br /><sub><b>Ville Halminen</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=v-hal" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://keybase.io/onnimonni"><img src="https://avatars1.githubusercontent.com/u/5691777?v=4" width="100px;" alt=""/><br /><sub><b>Onni Hakala</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=onnimonni" title="Documentation">📖</a></td>
   </tr>
 </table>
 
