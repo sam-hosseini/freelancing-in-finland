@@ -572,6 +572,9 @@ You can also pay your phone bill from company if you offer it as a 20€-phone-b
 Phone bills are business cost when you only and only use it for business and not in your personal life. If you'd like to use a single subscription for both personal and business,
 you must offer it as a 20€-phone-benefit.
 
+In addition your company can provide you an internet subscription for your home office. The subscription is not taxed if it is for work use. You can use it for personal use as well, 
+but entertainment services should not be attached to the subscription, or the benefit will be taxable.
+
 **Can you offer yourself only benefits?** Yes you can, but you must take a big enough salary to cover the `income tax` of the benefits you're offering yourself.
 
 For example, let's say in March, you paid your phone bill from company and therefore you must offer yourself a 20€-phone-benefit. You want no additional salary and your tax rate is 10%.
