@@ -563,7 +563,7 @@ I don't know if there are other health insurance providers or which one is bette
 
 |                              | Tax-free limit | [Edenred card service commission](https://edenred.fi/en/employer/price-list/#card) | [Smartum card service commission](https://www.smartum.fi/en/hinnasto-smartum-saldo-ja-setelit/) |
 | ---------------------------- | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Lunch benefit 🥗              | ~50€ per month  | 2.6% of the balance loaded                                   | 1.5% of the balance loaded                                   |
+| Lunch benefit 🥗              | You can pay 10.70€ for each workday in the month (usually [~21](https://edenred.fi/en/employer/working-day-calendar/)). 75% of this value is taxed as your personal income so you can deduct ~50€ per month. It's better to have lunch with another freelancer or a client as [business meeting.](#business-meetings)  | 2.6% of the balance loaded                                   | 1.5% of the balance loaded                                   |
 | Sport and cultural benefit 🎭 | 400€ per year   | 5.2% of the balance loaded                                   | 5% of the balance loaded                                     |
 | Commuting benefit 🚌          | (0 to 300€) and (751€ to 3500€) per year | 4% of the balance loaded                                     | 5% of the balance loaded                                     |
 | Massage benefit 🌊            | ♾ as long as it's used to maintain your ability to work with what Tax Administration considers a **legit** massage | Doesn't have it                                              | 5% of the balance loaded                                     |
@@ -590,6 +590,17 @@ So if you offer yourself 1000€ salary and your tax rate is 20%, you get 800€
 **Who ensures that you do not go above the tax-free limit?** Your company, the `legal entity`, must ensure that its owner, you as the `natural person`, is not offered benefits above the tax-free
 limits, because if you are offered, it must be reported and taxed. This is important, because you as the representative of the company can order even 10,000€ of Sport and cultural benefit, but
 if you go ahead and use it all within that calendar year, you must report it and pay tax on the 9600€ part.
+
+### Business meetings
+**Source of truth**: [talousverkko.fi (in finnish)](https://www.talousverkko.fi/mita-selitteita-kulukuitissa-pitaa-olla/) & [vero.fi (in finnish)](https://www.vero.fi/syventavat-vero-ohjeet/ohje-hakusivu/48743/edustusmenot-verotuksessa/)
+
+As owner of your company you can spend money when you arrange a meeting with your clients or colleagues. This is called hospitality and you should practise this as much as you can. Do not brag about your tax-deductabilities because no one will like you but consider this as an opportunity to show that you care about the people you work with.
+
+If you have a lunch or beer with someone you work with it's called a business meeting and you can pay for both parties and tax deduct 100% of the costs. If you have lunch with someone you don't work currently with it's considered as representation expense but you can still reduct 50% of the cost.
+
+Remember to save the receipt and write down who you met and what you talked about so you can prove later it was a business meeting.
+
+It's a good way to network with people and if you have a friend who is also freelancing you can save much more money with this compared to the lunch benefit by taking turns who pays the bill. Just remember that this meeting needs to be related to your work or business and only use this in fair amounts (10-15€/person).
 
 ### Send your invoices carefully
 
