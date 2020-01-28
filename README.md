@@ -261,7 +261,9 @@ that you feel is most relevant.
 You can join later, once and if you start employing others.
 
 * Establish your company online by filing a *startup notification* at [Business Information System](https://asiointi.ytj.fi/ytjap) (only available in Finnish)
-
+  * Do not add your email, phone number, or any other information in the public information section of the *startup notification* application.
+This would prevent scammers calling you and selling you a "service", in which you might say "Ok, yes, that's fine" to get rid of them, and they'd start sending you invoices which you have to jump over dozens of
+obstacles to remove yourself from the so called "service" they offered you. They can do that because in Finland, verbal agreement is as binding as writing, which the scammers take advantage of inappropriately.
   * You can also give power of attorney in Business Information System to an accountant so that they can establish the company on your behalf.
 
 ## Foundation - what to do **after** you establish your company
