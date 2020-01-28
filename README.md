@@ -112,7 +112,7 @@ However, the ranges above are for direct company-to-client sales. If you get con
 by 5-20%, which would be their cut of the hourly rate. This means that, with one intermediary company, you're looking at 65-105€ per hour in non-extraordinary situations.
 
 **List of brokers**:
-* Fika ☕️ with [Talented](https://talented.fi/for-talents/) and get into their Slack and Hub.
+* Fika ☕️ with [Talented](https://talented.fi/en/consultant/) and get into their Slack and Hub.
 * Fika ☕️ with [Tentimes](https://www.tentimesagency.com/) and get into their Slack.
 * Fika ☕️ with [Finitec](https://finitec.fi/) and get into their network.
 * Fika ☕️ with [Siili One](https://campaign.siili.com/one) and get into their network.
