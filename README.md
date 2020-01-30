@@ -1,7 +1,8 @@
 # Freelancing in Finland
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors)
+<a href="#freelancing-in-finland"><img src="https://img.shields.io/badge/30%20min%20read-gray?style=flat-square&logo=medium" alt="follow on Twitter"></a>
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 The ultimate resource for transitioning to freelancing for software developers 👩‍💻🇫🇮
