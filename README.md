@@ -102,13 +102,10 @@ Most require a meeting before they let you in their network. It's always a relax
 * They ask about your story.
 * They ask if there's an industry that you particularly like/dislike to work in.
 * They ask about your hourly rate.
-
-**In the meeting, what things to ask from a broker company?**
-
-* What are their principles and priorities for the possible partnership with you?
-* Do they offer any other services than finding the project?
-* What is their terms of payment? (How many days until you get your money)
-* What are the restrictions and responsibilities set by the broker if you take a project from them? (NDA's, non-compete terms)
+* You can ask about their principles and priorities for the possible partnership with you.
+* You can ask if they offer any other services than finding a project.
+* You can ask about their *terms of payment*, i.e. how many days until they pay your sales invoice.
+* You can ask if there are any restrictions in place if you take a project from them in the form of NDAs or non-competition.
 
 **What about hourly rate?** In Helsinki, if we put aside particular situations in which the client has become dependent on a single point of failure developer,
 or other extraordinary situations, in an average project with an average client with an average developer, I've heard companies charging their clients between
@@ -119,7 +116,7 @@ However, the ranges above are for direct company-to-client sales. If you get con
 by 5-20%, which would be their cut of the hourly rate. This means that, with one intermediary company, you're looking at 65-105€ per hour in non-extraordinary situations.
 
 **List of brokers**:
-* Apply a membership in [Talented](https://talented.fi/en/consultant/) Community to get access into their projects, events and community
+* Apply for [Talented](https://talented.fi/en/consultant/) membership to get into their projects, events and Slack community.
 * Fika ☕️ with [Tentimes](https://www.tentimesagency.com/) and get into their Slack.
 * Fika ☕️ with [Finitec](https://finitec.fi/) and get into their network.
 * Fika ☕️ with [Siili One](https://campaign.siili.com/one) and get into their network.
