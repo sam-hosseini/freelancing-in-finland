@@ -103,6 +103,13 @@ Most require a meeting before they let you in their network. It's always a relax
 * They ask if there's an industry that you particularly like/dislike to work in.
 * They ask about your hourly rate.
 
+**In the meeting, what things to ask from a broker company?**
+
+* What are their principles and priorities for the possible partnership with you?
+* Do they offer any other services than finding the project?
+* What is their terms of payment? (How many days until you get your money)
+* What are the restrictions and responsibilities set by the broker if you take a project from them? (NDA's, non-compete terms)
+
 **What about hourly rate?** In Helsinki, if we put aside particular situations in which the client has become dependent on a single point of failure developer,
 or other extraordinary situations, in an average project with an average client with an average developer, I've heard companies charging their clients between
 90-130€ per hour depending on the strength of their brand, the experience of the developers in the team, and the particular relationship with that client.
@@ -112,7 +119,7 @@ However, the ranges above are for direct company-to-client sales. If you get con
 by 5-20%, which would be their cut of the hourly rate. This means that, with one intermediary company, you're looking at 65-105€ per hour in non-extraordinary situations.
 
 **List of brokers**:
-* Fika ☕️ with [Talented](https://talented.fi/en/consultant/) and get into their Slack and Hub.
+* Apply a membership in [Talented](https://talented.fi/en/consultant/) Community to get access into their projects, events and community
 * Fika ☕️ with [Tentimes](https://www.tentimesagency.com/) and get into their Slack.
 * Fika ☕️ with [Finitec](https://finitec.fi/) and get into their network.
 * Fika ☕️ with [Siili One](https://campaign.siili.com/one) and get into their network.
