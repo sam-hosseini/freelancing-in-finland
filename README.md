@@ -349,6 +349,7 @@ and if we take a 75€/hour rate, you should expect to pay at least 75-150€ pe
 **List of accountants who offer English services as well**:
 * [eAccounting Finland](https://www.eaccounting.fi/en/) -> Jonne Anttila
 * [Tili Sydwest](https://www.tilisydwest.fi/en/)
+* [KT Kirjanpito](https://www.ktkirjanpito.fi) Outi & Viivu speak English and specialize in micro businesses
 * I don't know any other. Do you know? Please send a pull request 💯
 
 **Steps**:
