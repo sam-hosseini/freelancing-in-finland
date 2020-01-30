@@ -1,7 +1,7 @@
 # Freelancing in Finland
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors)
 <a href="#freelancing-in-finland"><img src="https://img.shields.io/badge/30%20min%20read-gray?style=flat-square&logo=medium" alt="follow on Twitter"></a>
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
@@ -661,6 +661,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://halminen.dev"><img src="https://avatars1.githubusercontent.com/u/1327481?v=4" width="100px;" alt=""/><br /><sub><b>Ville Halminen</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=v-hal" title="Documentation">📖</a></td>
     <td align="center"><a href="https://keybase.io/onnimonni"><img src="https://avatars1.githubusercontent.com/u/5691777?v=4" width="100px;" alt=""/><br /><sub><b>Onni Hakala</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=onnimonni" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/vandelay"><img src="https://avatars1.githubusercontent.com/u/47499?v=4" width="100px;" alt=""/><br /><sub><b>Dom Padden</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=vandelay" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://www.ardcoras.fi/"><img src="https://avatars2.githubusercontent.com/u/202163?v=4" width="100px;" alt=""/><br /><sub><b>Jyri-Petteri Paloposki</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=ZeiP" title="Documentation">📖</a></td>
   </tr>
 </table>
 
