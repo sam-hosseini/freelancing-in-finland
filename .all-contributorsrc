@@ -54,6 +54,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "tuomasj",
+      "name": "Tuomas Jomppanen",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/24655?v=4",
+      "profile": "http://tuomas.io",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
