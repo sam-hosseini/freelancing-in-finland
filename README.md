@@ -186,9 +186,17 @@ Also, the amount of money available to you, no matter how high, does not influen
 * Apply for startup grant [electronically](https://asiointi.mol.fi/omaasiointi/?kieli=fi) (only available in Finnish)
 and you will get an electronic decision within 2 weeks (official estimation). Official decision letter should arrive by post soon after the decision is served (~1 week).
 
-**Steps** for  application extension:
+**Steps** for application extension:
 
-* I don't know. Do you know? Please send a pull request 💯
+* You need to apply for an extension during the ongoing grant period. TE-services advises that the application should be submitted one month before the initial period ends, at the latest.
+
+* The extension can be granted for six months and the amount is the same as during the initial grant period.
+
+* As part of the application, TE-services requires a short analysis of how the business has started, including an income statement verified by an accountant. They also require a short description of why the extension is required.
+
+* TE-services will take into consideration whether the business has started more or less according to the original business plan, and whether the already acquired income is enough to support the entrepreneur. An external specialist might also be consulted to make the final decision.
+
+* Apply for the extension [electronically](https://asiointi.mol.fi/omaasiointi/?kieli=fi) (only available in Finnish).
 
 ### Quit your job
 
