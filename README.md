@@ -188,13 +188,18 @@ and you will get an electronic decision within 2 weeks (official estimation). Of
 
 **Steps** for application extension:
 
-* You need to apply for an extension during the ongoing grant period. TE-services advises that the application should be submitted one month before the initial period ends, at the latest.
+* Apply **at least one month** before the previous grant expires.
 
-* The extension can be granted for six months and the amount is the same as during the initial grant period.
+* You need an *income statement* verified by an accountant as an attachment to your application.
 
-* As part of the application, TE-services requires a short analysis of how the business has started, including an income statement verified by an accountant. They also require a short description of why the extension is required.
+* You need a short analysis of how the business has started.
 
-* TE-services will take into consideration whether the business has started more or less according to the original business plan, and whether the already acquired income is enough to support the entrepreneur. An external specialist might also be consulted to make the final decision.
+* You need a short description of why the extension is being applied for.
+
+* To determine whether to award the grant:
+
+    * TE-services will consider whether the business has started more or less according to the original business plan.
+    * TE-services will consider whether the already acquired income is enough to support the entreprenuer.
 
 * Apply for the extension [electronically](https://asiointi.mol.fi/omaasiointi/?kieli=fi) (only available in Finnish).
 
