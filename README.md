@@ -393,12 +393,12 @@ The official name of "Self-Employed Person’s Pensions Act" is **misleading**, 
 **What is `YEL income` and `YEL contribution`?**
 
 * `YEL income`:
-  * Has absolutely nothing to do with your income (salary, benefits, dividends, etc).
-  * Is how much **"*coverage*"** in social security you would like to have.
+  * Has absolutely nothing to do with your real world income (salary, benefits, dividends, etc).
+  * Is how much ***coverage*** in social security you would like to have.
   * You have the freedom to choose between ~8000€ up to ~180,000€ per year.
 * `YEL contribution`:
-  * Is how much you **pay** for your "*coverage*".
-  * Is ~19% of your `YEL income`, which means ~125€ up to ~2820€ per month as a business cost.
+  * Is how much you **pay** for your ***coverage***.
+  * Is ~19% of your `YEL income`, which means you pay ~125€ up to ~2820€ per month as a business cost.
 
 Minimum YEL                |  Maximum YEL
 :-------------------------:|:-------------------------:
