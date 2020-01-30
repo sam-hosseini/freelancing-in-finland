@@ -199,7 +199,7 @@ and you will get an electronic decision within 2 weeks (official estimation). Of
 * To determine whether to award the grant:
 
     * TE-services will consider whether the business has started more or less according to the original business plan.
-    * TE-services will consider whether the already acquired income is enough to support the entreprenuer.
+    * TE-services will consider whether the already acquired income is enough to support the entrepreneur.
 
 * Apply for the extension [electronically](https://asiointi.mol.fi/omaasiointi/?kieli=fi) (only available in Finnish).
 
