@@ -2,7 +2,7 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors)
-<a href="#freelancing-in-finland"><img src="https://img.shields.io/badge/30%20min%20read-gray?style=flat-square&logo=medium" alt="follow on Twitter"></a>
+<a href="#freelancing-in-finland"><img src="https://img.shields.io/badge/30%20min%20read-gray?style=flat-square&logo=medium" alt="medium reading estimation"></a>
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 The ultimate resource for transitioning to freelancing for software developers 👩‍💻🇫🇮
@@ -588,7 +588,7 @@ I don't know if there are other health insurance providers or which one is bette
 
 |                              | Tax-free limit | [Edenred card service commission](https://edenred.fi/en/employer/price-list/#card) | [Smartum card service commission](https://www.smartum.fi/en/hinnasto-smartum-saldo-ja-setelit/) | [ePassi service commission](https://www.epassi.fi/en/employer/start-using-epassi) |
 | ---------------------------- | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------- |
-| Lunch benefit 🥗              | ~50€ per month  | 2.6% of the balance loaded                                   | 1.5% of the balance loaded                                   | 1.5% of the balance loaded | 
+| Lunch benefit 🥗              | ~50€ per month  | 2.6% of the balance loaded                                   | 1.5% of the balance loaded                                   | 1.5% of the balance loaded |
 | Sport and cultural benefit 🎭 | 400€ per year   | 5.2% of the balance loaded                                   | 5% of the balance loaded                                     | 4% of the balance loaded |
 | Commuting benefit 🚌          | (0 to 300€) and (751€ to 3500€) per year | 4% of the balance loaded                                     | 5% of the balance loaded | 3% of the balance loaded |
 
