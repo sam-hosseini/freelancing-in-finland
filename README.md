@@ -122,6 +122,7 @@ by 5-20%, which would be their cut of the hourly rate. This means that, with one
 * Fika ☕️ with [Finitec](https://finitec.fi/) and get into their network.
 * Fika ☕️ with [Siili One](https://campaign.siili.com/one) and get into their network.
 * Register a profile with [EWork Group](https://supplier.eworkgroup.com/) to be able to apply to their projects.
+* Drop [Toughbyte](https://www.toughbyte.com/) a line.
 
 **List of aggregate sites**:
 * Create a [job search alert](https://www.linkedin.com/jobs/) on LinkedIn with:
