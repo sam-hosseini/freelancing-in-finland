@@ -339,9 +339,9 @@ a few transactions a month.
 |                      | English service  | Possibility to open account online  | Phone customer service |
 | :-----               | ---------------  | ----------------------------------  | ---------------------- |
 | Nordea               | ✅               | ✅                                  | ✅                      |
-| OP                   | ✅               | ❌ (1)                              | ?                      |
-| Holvi                | ✅               | ✅                                  | ❌ (2)                  |
-| Revolut for Business | ✅               | ✅                                  | ❌ (3)                  |
+| OP                   | ✅               | No (1)                              | ?                      |
+| Holvi                | ✅               | ✅                                  | No (2)                  |
+| Revolut for Business | ✅               | ✅                                  | No (3)                  |
 
 1. OP corporate account for limited liability companies have to be
 opened [by an appointment](https://www.op.fi/corporate-customers/services-for-entrepreneurs/starting-a-business/open-corporate-account)
