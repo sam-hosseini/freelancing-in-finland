@@ -72,6 +72,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "fson",
+      "name": "Ville Immonen",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/497214?v=4",
+      "profile": "https://twitter.com/VilleImmonen",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
