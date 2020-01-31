@@ -81,6 +81,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "olegp",
+      "name": "Oleg Podsechin",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/141192?v=4",
+      "profile": "http://twitter.com/olegpodsechin",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
