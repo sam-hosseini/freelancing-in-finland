@@ -32,6 +32,7 @@ The ultimate resource for transitioning to freelancing for software developers ð
 * [Operation - what to do to **run** your company](#operation---what-to-do-to-run-your-company)
     * [Offer yourself benefits that you like](#offer-yourself-benefits-that-you-like)
     * [Send your invoices carefully](#send-your-invoices-carefully)
+    * [Take out money from your company in the most tax optimal way](#take-out-money-from-your-company-in-the-most-tax-optimal-way)
     * [Ensure that your obligations are fulfilled continuously](#ensure-that-your-obligations-are-fulfilled-continuously)
     * [References](#references)
 * [Contributors](#contributors)
@@ -632,6 +633,19 @@ if you go ahead and use it all within that calendar year, you must report it and
 
 **If you're invoicing a non-EU company**:
 * You do not need to add VAT.
+
+### Take out money from your company in the most tax optimal way
+
+**What is it?** Taking money from the company in the most tax optimal way is **a million-dollar question**.
+Only a team of competent accountants and competent lawyers specializing in coporate tax law could answer that question.
+This guide could not be reasonably expected to be of much help to answer that question, as the circumstances for every company are specific.
+However, an overview of fundamentals can be illustrated.
+
+**What are the fundamentals in taxation of income in a limited liability company?**
+![](./images/limited_liability_taxation.png)
+
+\* Taken from [Finnish Enterprise Agencies guide to becoming an Entrepreneur in Finland - 2019](https://www.uusyrityskeskus.fi/wp-content/uploads/2019/05/SUK_perustamisopas2019_ENG_VERKKOON.pdf)
+
 
 ### Ensure that your obligations are fulfilled continuously
 
