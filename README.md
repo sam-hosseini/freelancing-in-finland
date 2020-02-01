@@ -717,6 +717,8 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 I can tell you that I wrote this guide **with both selfish and selfless reasons**.
 
 * Selfish reasons:
+  * **I wanted to make money**. I don't know how exactly to monetize this guide or other things that could come out of it 😄, so if you wanna help me out,
+[leave a comment on this issue in Github](https://github.com/sam-hosseini/freelancing-in-finland/issues/26) 🙌
   * I wanted to increase my visibility in the freelancing network as a Python developer 🐍 and with that, I would have the leverage to charge higher hourly rates 💶 =>
    <a href="https://www.linkedin.com/in/sam-hosseini-/"><img src="https://img.shields.io/badge/Send a message-blue?style=flat-square&logo=linkedin" alt="connect on Linkedin"></a>
 
