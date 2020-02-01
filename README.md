@@ -306,7 +306,7 @@ general housing allowance is ~410€ per month, tax free, for a studio in Helsin
   * pays taxes on its **profits** in the form of _corporate taxation_, 20%, once a year
 * You:
   * are a `natural person` with a personal ID (Henkilötunnus)
-  * are a a natural person from the perspective of law
+  * are a natural person from the perspective of law
   * pay taxes on your **income** in the form of _personal taxation_, at progressive rates, whenever you receive income
 * For the purpose of answering _what counts as a `self-employed` person's income from Kela's perspective_, your company's income is irrelevant.
 * Your income is relevant. If you have [YEL](#buy-social-security-insurance-yel):
