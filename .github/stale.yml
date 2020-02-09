@@ -4,7 +4,7 @@ daysUntilStale: 10
 daysUntilClose: 4
 limitPerRun: 30
 
-staleLabel: wontfix
+staleLabel: inactive
 onlyLabels: []
 exemptLabels:
   - pinned
