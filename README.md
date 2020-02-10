@@ -1,8 +1,7 @@
 # Freelancing in Finland
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors)
-<a href="#freelancing-in-finland"><img src="https://img.shields.io/badge/30%20min%20read-gray?style=flat-square&logo=medium" alt="medium reading estimation"></a>
+[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 The ultimate resource for transitioning to freelancing for software developers 👩‍💻🇫🇮
@@ -706,6 +705,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://twitter.com/VilleImmonen"><img src="https://avatars3.githubusercontent.com/u/497214?v=4" width="100px;" alt=""/><br /><sub><b>Ville Immonen</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=fson" title="Documentation">📖</a></td>
     <td align="center"><a href="http://twitter.com/olegpodsechin"><img src="https://avatars3.githubusercontent.com/u/141192?v=4" width="100px;" alt=""/><br /><sub><b>Oleg Podsechin</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=olegp" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://linkedin.com/in/aleksefo"><img src="https://avatars0.githubusercontent.com/u/18084119?v=4" width="100px;" alt=""/><br /><sub><b>Alex Fomushkin</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=Aleksefo" title="Documentation">📖</a></td>
   </tr>
 </table>
 
