@@ -88,7 +88,8 @@ you don't need to apply for another permit.
 **If you're a non-EU citizen**, depending on your current permit, you may need to apply for another permit.
 
 * If you have a permanent residence permit, you don't need to apply for another permit.
-* If you have any other type of permit, I don't know. Do you know? Please send a pull request 💯
+* If you have A, B or P permit, you can establish your limited liability company without applying for a new residence permit. This is because, under the Aliens Act, an entrepreneur who operates such companies is considered an employee.
+* If you wish to become a registered private entrepreneur or establish a general or limited partnership, you can do so without any additional permits if you hold a valid A permit for your current employment.
 
 ### Network with freelance brokers and organizations
 
