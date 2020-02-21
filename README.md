@@ -412,7 +412,7 @@ Minimum YEL                |  Maximum YEL
 
 **Steps**:
 
-* You have 6 months from starting self-employment to buy YEL.
+* You have 6 months from starting self-employment to buy YEL. Note, that you'll have to pay YEL contributions for previous months retroactively anyway.
 * Buy YEL from an YEL insurance provider:
   * [elo](https://www.elo.fi/?sc_lang=en)
   * [varma](https://www.varma.fi/en/)
