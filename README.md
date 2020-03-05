@@ -130,6 +130,7 @@ by 5-20%, which would be their cut of the hourly rate. This means that, with one
   * Your most important `skill` (Python, for example)
   * Job type as `Contract`
 * Create a profile on [Nordgigs](https://nordgigs.com/) which aggregates freelance projects across Nordic countries and email you on a match with your `skill` tags.
+* Check [the Hub](https://thehub.io/jobs?positionTypes=5b8e46b3853f039706b6ea75&countryCode=FI) for freelance job types.
 
 **List of organizations you can introduce yourself to**:
 * [Business Finland](https://www.businessfinland.fi/en/for-finnish-customers/contact-us/) is a governmental organization whose main purpose is to help Finnish companies.
