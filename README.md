@@ -123,6 +123,7 @@ by 5-20%, which would be their cut of the hourly rate. This means that, with one
 * Fika ☕️ with [Siili One](https://campaign.siili.com/one) and get into their network.
 * Register a profile with [EWork Group](https://supplier.eworkgroup.com/) to be able to apply to their projects.
 * Drop [Toughbyte](https://www.toughbyte.com/) a line.
+* Look into [Harnham](https://www.harnham.com/jobs?q=&options=&page=1) `contract` positions in `nordics`.
 
 **List of aggregate sites**:
 * Create a [job search alert](https://www.linkedin.com/jobs/) on LinkedIn with:
