@@ -192,20 +192,25 @@ and you will get an electronic decision within 2 weeks (official estimation). Of
 
 **Steps** for application extension:
 
-* Apply **at least one month** before the previous grant expires.
+* Apply **five months** after the starting date of previous grant but also **before it expires**.
 
-* You need an *income statement* verified by an accountant as an attachment to your application.
+* You need a short explanation of how the business has started.
 
-* You need a short analysis of how the business has started.
+* You need a short explanation of why the extension is being applied for.
 
-* You need a short description of why the extension is being applied for.
+* You need a summary report of your business actions during the startup grant period and plans for the near future.
 
-* To determine whether to award the grant:
+* You need an *income statement*, self-made or verified by an accountant, of a 5-month-period, as an attachment to your application.
+
+* You need a *balance sheet*, self-made or verified by an accountant, of a 5-month-period, as an attachment to your application.
+
+* To determine whether to award the grant extension:
 
     * TE-services will consider whether the business has started more or less according to the original business plan.
     * TE-services will consider whether the already acquired income is enough to support the entrepreneur.
 
-* Apply for the extension [electronically](https://asiointi.mol.fi/omaasiointi/?kieli=fi) (only available in Finnish).
+* Apply for the grant extension [electronically](https://asiointi.mol.fi/omaasiointi/?kieli=fi) (only available in Finnish)
+and you will get an electronic decision within 2-4 weeks. Official decision letter should arrive by post soon after the decision is served (~1 week).
 
 ### Quit your job
 
