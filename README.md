@@ -185,7 +185,10 @@ the _Business Advisor_ has seen hundreds of business plans and can guide you to 
 * In your business plan, you have specified how much **own funding** you have available to you.
 You need to provide a proof of your claimed own funding as an attachment to your application.
 This proof doesn't have to be official. I personally printed a pdf from my netbank account overview and that was enough for a successful application.
-Also, the amount of money available to you, no matter how high, does not influence the decision of TE-services negatively.
+
+* The amount of **own funding** available to you, no matter how high, does not influence the decision of TE-services negatively.
+In addition, when applying for startup grant payments later once startup grant is granted, the salary you've taken from your own company does not affect the
+payment application negatively either.
 
 * Apply for startup grant [electronically](https://asiointi.mol.fi/omaasiointi/?kieli=fi) (only available in Finnish)
 and you will get an electronic decision within 2 weeks (official estimation). Official decision letter should arrive by post soon after the decision is served (~1 week).
