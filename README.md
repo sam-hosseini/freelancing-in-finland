@@ -689,7 +689,7 @@ However, an overview of fundamentals can be illustrated.
 **What are the fundamentals in taxation of income in a limited liability company?**
 ![](./images/limited_liability_taxation.png)
 
-\* Taken from [Finnish Enterprise Agencies guide to becoming an Entrepreneur in Finland - 2019](https://www.uusyrityskeskus.fi/wp-content/uploads/2019/05/SUK_perustamisopas2019_ENG_VERKKOON.pdf)
+\* Taken from page 86 of [Finnish Enterprise Agencies guide to becoming an Entrepreneur in Finland - 2020](https://www.uusyrityskeskus.fi/wp-content/uploads/2020/04/SUK_GUIDE_2020_eng_verkkoon_linkit-1.pdf)
 
 
 ### Ensure that your obligations are fulfilled continuously
