@@ -164,7 +164,9 @@ Even though the official estimation is 2 weeks, decision comes much faster in re
 **What is it?** Startup grant is a program to support you to become an entrepreneur.
 You will receive the monthly payment for a total of 6 months (if you apply once) or a total of 12 months (if you apply for extension as well).
 
-**How much?** ~700€ per month, as personal income. If your income tax is 25%, for example, you will get ~525€.
+**How much?** ~705€ per month, as personal income. If your income tax is 10%, for example, you will get ~635€.
+You must deliver a [revised tax card for social benefits](https://www.vero.fi/en/individuals/tax-cards-and-tax-returns/tax_card/tax_card_for_social_benefit/) to TE-services for them to use
+your real income tax percentage, otherwise they withhold 25% income tax by default and you'll get ~530€.
 
 **Steps** for first application:
 
