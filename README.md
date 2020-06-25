@@ -399,6 +399,7 @@ and if we take a 75€/hour rate, you should expect to pay at least 75-150€ pe
 
 **Steps**:
 
+* Investigate to find a reliable accountant for your company. Your accountant assumes responsibility for obligations which are ultimately **yours**, so this is an important step.
 * Contact your accountant in mind:
   * Explain that your business is about IT freelancing
   * Tell if you have a client already, or expecting one soon
