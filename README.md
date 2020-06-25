@@ -707,12 +707,19 @@ Tax administration office (Vero):
 
 * **Pay your corporate income tax early** using prepayment register, *non-recurring* obligation: you can pay your corporate income tax before the company financial year ends, if you want.
 That way, you won't have to pay interest if the financial year has ended and you had paid way too little corporate income tax during the financial year.
+
 * **Send VAT reports**, *recurring* obligation: strictly speaking, as the owner of the company, you are responsible to ensure that VAT reports are done every month, not your accountant.
 Practically, your accountant assumes responsibility for it and will do it herself/himself, but remember that if your accountant fails to do so, you yourself are responsible.
 Therefore, check before the deadlines if the VAT reports have been done.
+
+* **Send EU VAT Recapitulative Statement reports**, *recurring* obligation: if you're invoicing a EU company, you need to [report its details](https://www.vero.fi/en/businesses-and-corporations/about-corporate-taxes/vat/international-commerce/intra-community-trade/eu-vat-recapitulative-statement/).
+This obligation is similar to *VAT reports* in the sense that it's fully your responsibility that this report is done correctly and on time, even though your accountant will do this for you.
+
 * **Consider monthly bookkeeping**, *recurring* activity: accountants prefer to do it monthly. There's no legal obligation to do it monthly, however.
+
 * **Submit financial statement and corporate income tax return**, *recurring* obligation: after the financial year ends, within 4 months you must submit
 a financial statement and corporate income tax return. Your accountant can do this for you.
+
 * **Share the receipts with your accountant**, *recurring* obligation: Primarily because Tax Administration must know what the purchase was for and whether it was
 related to your *main line of business*, although it would also allow you to get the VAT back on eligible purchases.
 
