@@ -465,12 +465,12 @@ From the `employee`'s perspective:
 
 From the `employer`'s perspective:
 
-1. The employer has to pay 16.95% of 1,000€ as `Employee's pension insurance contribution` => 169,5€
+1. The employer has to pay 18.15% of 1,000€ as `Employee's pension insurance contribution` => 181,5€
 2. The employer has to pay 0.45% of 1,000€ as `Employer’s unemployment insurance contribution` => 4,5€
 3. The employer has to pay 0.70% of 1,000€ as `Occupational accident and disease insurance contribution` => 7€
 4. The employer has to pay 0.07% of 1,000€ as `Group life insurance contribution` => 0,7€
 5. The employer has to pay 1.34% of 1,000€ as `Employers’ health insurance contribution` => 13,4€
-6. The employer pays ~195€ to Tax Administration and other insurance providers.
+6. The employer pays ~207€ to Tax Administration and other insurance providers.
 
 **How is the payslip for a `self-employed`?** Imagine a basic example, in which a `self-employed` person receives 1,000€ salary from their own company, and her/his tax card says their tax is 20%.
 
