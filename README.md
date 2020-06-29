@@ -716,6 +716,8 @@ Therefore, check before the deadlines if the VAT reports have been done.
 * **Send EU VAT Recapitulative Statement reports**, *recurring* obligation: if you're invoicing a EU company, you need to [report its details](https://www.vero.fi/en/businesses-and-corporations/about-corporate-taxes/vat/international-commerce/intra-community-trade/eu-vat-recapitulative-statement/).
 This obligation is similar to *VAT reports* in the sense that it's fully your responsibility that this report is done correctly and on time, even though your accountant will do this for you.
 
+* **Send payroll reports**, *recurring* obligation: if you're taking out salary, *Employer Contribution report* and *Income Register report* must be done. Your accountant can do this for you.
+
 * **Perform monthly bookkeeping**, *recurring* activity: even though there's no legal obligation to perform bookkeeping every month, accountants insist it is necessary and I trust their judgement
 on this. If in a typical softwar project we regularly do backlog grooming so that the backlog wouldn't become a mess, it is understandable for me why accountants would want to resolve all transactions
 every month when it's fresh in everyone's mind.
