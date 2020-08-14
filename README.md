@@ -706,8 +706,8 @@ However, an overview of fundamentals can be illustrated.
 
 Tax administration office (Vero):
 
-* **Pay your corporate income tax early** using prepayment register, *non-recurring* obligation: you can pay your corporate income tax *before* the company financial year ends, if you want.
-That way, you won't have to pay interest if the financial year has ended and you had paid way too little corporate income tax during the financial year.
+* **Pay your corporate income tax early** using prepayment register, *non-recurring* obligation: you can pay your corporate income tax *before* the company fiscal year ends, if you want.
+That way, you won't have to pay interest if the fiscal year has ended and you had paid way too little corporate income tax during the fiscal year.
 
 * **Send VAT reports**, *recurring* obligation: strictly speaking, as the owner of the company, you are responsible to ensure that VAT reports are done every month, not your accountant.
 Practically, your accountant assumes responsibility for it and will do it herself/himself, but remember that if your accountant fails to do so, you yourself are responsible.
@@ -722,7 +722,7 @@ This obligation is similar to *VAT reports* in the sense that it's fully your re
 on this. If in a typical softwar project we regularly do backlog grooming so that the backlog wouldn't become a mess, it is understandable for me why accountants would want to resolve all transactions
 every month when it's fresh in everyone's mind.
 
-* **Submit financial statement and corporate income tax return**, *recurring* obligation: after the financial year ends, within 4 months you must submit
+* **Submit financial statement and corporate income tax return**, *recurring* obligation: after the fiscal year ends, within 4 months you must submit
 a financial statement and corporate income tax return. Your accountant can do this for you.
 
 * **Share the receipts with your accountant**, *recurring* obligation: Primarily because Tax Administration must know what the purchase was for and whether it was
