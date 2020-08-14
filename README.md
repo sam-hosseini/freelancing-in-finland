@@ -673,6 +673,10 @@ if you go ahead and use it all within that calendar year, you must report it and
 
 ### Send your invoices carefully
 
+**In general**:
+
+* When invoicing individuals, at the very minimum you should include their full name and address in the invoice.
+
 **If you're invoicing a company or an individual residing outside EU**:
 * You do not need to add VAT to your invoice for your freelance services.
 
