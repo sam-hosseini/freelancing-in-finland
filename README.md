@@ -283,6 +283,7 @@ that you feel is most relevant.
     > There  shall  be  between  one  and  five  regular  Members  of  the  Board  of Directors, unless it is otherwise provided in the Articles of Association. If there are  fewer  than  three  Members,  there  shall be  at  least one  Deputy  Member of the Board of Directors.
 
   * This means that, for your company to be legally compliant, it must have a *Deputy Member of the Board of Directors* when you are going to be the *only* regular member of Board of Directors as the CEO.
+  * *Deputy Member of the Board of Directors* would be held liable only [for decisions they make in board meetings](https://www.yrittajat.fi/uutiset/610877-saitko-kutsun-osakeyhtion-hallituksen-varajaseneksi-sinullakin-saattaa-olla#528cbe2f). In practice, unless you die or you are permanently unable to act as the CEO, *Deputy Member of the Board of Directors* won't have to make any decision so you can communicate this fact to them to help them with their decision making.
   * Once you get the person's consent, get his/her personal ID (henkilötunnus) as you'll need it for establishing the company.
 
 * Decide the registries you'd like your company to be part of:
