@@ -118,13 +118,13 @@ However, the ranges above are for direct company-to-client sales. If you get con
 by 5-20%, which would be their cut of the hourly rate. This means that, with one intermediary company, you're looking at 65-105€ per hour in non-extraordinary situations.
 
 **List of brokers**:
-* Apply for [Talented](https://talented.fi/en/consultant/) membership to get into their projects, events and Slack community.
-* Fika ☕️ with [Tentimes](https://www.tentimesagency.com/) and get into their Slack.
+* Apply for [Talented](https://talented.fi/en/independent-contractor/) membership to get into their projects, events and Slack community.
+* Fika ☕️ with [Thriv](https://www.tentimesagency.com/) and get into their Slack.
 * Fika ☕️ with [Finitec](https://finitec.fi/) and get into their network.
 * Fika ☕️ with [Siili One](https://campaign.siili.com/one) and get into their network.
-* Register a profile with [EWork Group](https://supplier.eworkgroup.com/) to be able to apply to their projects.
+* Register a profile with [Verama](https://verama.com/) to be able to apply to their projects.
 * Drop [Toughbyte](https://www.toughbyte.com/) a line.
-* Look into [Harnham](https://www.harnham.com/jobs?q=&options=&page=1) `contract` positions in `nordics`.
+* Look into [Harnham](https://www.harnham.com/jobs?options=1122,261&page=1) `contract` positions in `nordics`.
 
 **List of aggregate sites**:
 * Create a [job search alert](https://www.linkedin.com/jobs/) on LinkedIn with:
