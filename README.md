@@ -536,6 +536,7 @@ among other points.
 * [Suomen Yrittäjät - Finnish Entrepreneurs](https://www.yrittajat.fi/en)
 * [Kauppakamari - Finland chamber of commerce](https://kauppakamari.fi/en/)
   * [Helsinki chamber of commerce](https://helsinki.chamber.fi/en/)
+* [Insinööriliitto - Union of Professional Engineers in Finland](https://www.ilry.fi)
 
 I don't know if there are other unions or which one is better than the other. Do you know which one is the best? Please send a pull request 💯
 
