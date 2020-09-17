@@ -1,7 +1,7 @@
 # Configuration for probot-stale - https://github.com/probot/stale
 
-daysUntilStale: 10
-daysUntilClose: 4
+daysUntilStale: 5
+daysUntilClose: 2
 limitPerRun: 30
 
 staleLabel: inactive
