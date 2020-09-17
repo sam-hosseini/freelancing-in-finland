@@ -122,6 +122,7 @@ by 5-20%, which would be their cut of the hourly rate. This means that, with one
 * Fika ☕️ with [Thriv](https://www.tentimesagency.com/) and get into their Slack.
 * Fika ☕️ with [Finitec](https://finitec.fi/) and get into their network.
 * Fika ☕️ with [Siili One](https://campaign.siili.com/one) and get into their network.
+* Fika ☕️ with [HiQ](https://hiq.fi/en/subcontracting/) and get into their network.
 * Register a profile with [Verama](https://verama.com/) to be able to apply to their projects.
 * Drop [Toughbyte](https://www.toughbyte.com/) a line.
 * Look into [Harnham](https://www.harnham.com/jobs?options=1122,261&page=1) `contract` positions in `nordics`.
