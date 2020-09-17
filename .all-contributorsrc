@@ -108,6 +108,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "aituri",
+      "name": "aituri",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/66198364?v=4",
+      "profile": "http://aituri.ai",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
