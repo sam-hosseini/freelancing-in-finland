@@ -713,6 +713,7 @@ However, an overview of fundamentals can be illustrated.
 Tax administration office (Vero):
 
 * **Pay your corporate income tax early** using prepayment register, *non-recurring* obligation: you can pay your corporate income tax *before* the company fiscal year ends, if you want.
+It doesn't have to be too early, you can pay it even 1 day before the fiscal year ends.
 That way, you won't have to pay interest if the fiscal year has ended and you had paid way too little corporate income tax during the fiscal year.
 
 * **Send VAT reports**, *recurring* obligation: strictly speaking, as the owner of the company, you are responsible to ensure that VAT reports are done every month, not your accountant.
