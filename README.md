@@ -640,6 +640,7 @@ you see that the market price is ~500€ nowadays, that's a *fair market value*.
     * What is being sold and their *fair market value* price
     * Signature, place, and date
 * Send an invoice to your company with all attachments above.
+* Your company won't get any VAT refunds from the items it buys from you. This is because you, as the *natural person*, are not registered in VAT-register. It doesn't matter if you mention the price of the laptop for example includes 24% VAT; in your company's accounting, it'll be VAT 0% anyway.
 
 ## Operation - what to do to **run** your company
 
