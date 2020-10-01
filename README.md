@@ -625,7 +625,13 @@ you see that the market price is ~500€ nowadays, that's a *fair market value*.
 
 **Steps**:
 
-* List all *work-related* items you'd like to sell to your company.
+* List all *work-related* items you'd like to sell to your company. Here are some items you might have had before you started your company:
+    * Laptop
+    * Phone
+    * Desk
+    * Chair
+    * Printer
+    * Offline storage devices
 * Take a picture of the item and its receipt if you still have it to prove the item actually exists as an attachment to the invoice you'll be sending to your company.
 * Take a picture of a 2nd hand store advertisement for an item similar to yours to prove that you were in the ballpark of their *fair market value* as an attachment to the invoice you'll be sending to your company.
 * Create a contract which includes the followings as an attachment to the invoice you'll be sending to your company:
@@ -656,7 +662,6 @@ you must offer it as a 20€-phone-benefit.
 but entertainment services should not be attached to the subscription, or the benefit will be taxable.
 * Vehicles: your company can own a car, bikes, etc. that you can use for commuting to your client office and work-related trips. Naturally, as your company owns these vehicles, all their repairs and maintenance are *business costs* which you can pay from your company and like every other *business cost*, get a refund for its VAT later.
 If you need to use these vehicles for non-work-related trips, ask your accountant whether it's a taxable benefit for you and act accordingly.
-* All kinds of equipment should be acquired to your company if they can be seen as tools for doing your work.  That means phones, laptops, printers, video beamers, storage media, paper, pens, envelopes, cameras...  Usually using it on free-time is not a taxed benefit.
 * **Massage benefit not recommended** for the target audience of this guide: there's a possibility that the Tax Administration would consider massage benefit in a one-person company [**a disguised dividend
 to the owner**](https://github.com/sam-hosseini/freelancing-in-finland/issues/3#issuecomment-579164717).
 
