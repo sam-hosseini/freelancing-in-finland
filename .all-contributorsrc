@@ -117,6 +117,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "pkalliok",
+      "name": "Panu Kalliokoski",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/2952067?v=4",
+      "profile": "https://github.com/pkalliok",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
