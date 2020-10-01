@@ -654,6 +654,8 @@ Phone bills are business cost when you only and only use it for business and not
 you must offer it as a 20€-phone-benefit.
 * Internet subscription: your company can provide you an internet subscription for your home office. The subscription is not taxed if it is for work use. You can use it for personal use as well,
 but entertainment services should not be attached to the subscription, or the benefit will be taxable.
+* Vehicles you need for commuting and work-related tasks: for instance, your company can own a car, bikes, etc. that the employees (i.e. you) can use.  Sometimes using it on free-time is a taxed benefit, sometimes it's a free benefit.  Bonus: the repairs and maintenance of these vehicles is also a company expense and instead of paying income tax on it, you get its VAT deduced.
+* All kinds of equipment should be acquired to your company if they can be seen as tools for doing your work.  That means phones, laptops, printers, video beamers, storage media, paper, pens, envelopes, cameras...  Usually using it on free-time is not a taxed benefit.
 * **Massage benefit not recommended** for the target audience of this guide: there's a possibility that the Tax Administration would consider massage benefit in a one-person company [**a disguised dividend
 to the owner**](https://github.com/sam-hosseini/freelancing-in-finland/issues/3#issuecomment-579164717).
 
