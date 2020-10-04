@@ -273,9 +273,9 @@ you'll update your company's information in Business Information System if there
   * You will be given 3 fields for company name, so prepare 2 backup names as well in case your primary name cannot be registered.
 
 * Choose your main line of business.
-  * Source of truth: [Statistics Finland](https://stat.fi/meta/luokitukset/toimiala/001-2008/index_en.html)
+  * Source of truth: [Statistics Finland](https://stat.fi/en/luokitukset/toimiala/toimiala_1_20080101/)
   * Required by Tax Administration.
-  * For freelancing, you can choose any from [\[Information and communication > Computer programming, consultancy and related activities\]](https://stat.fi/meta/luokitukset/toimiala/001-2008/62_en.html)
+  * For freelancing, you can choose any from [\[Information and communication > Computer programming, consultancy and related activities\]](https://stat.fi/en/luokitukset/toimiala/toimiala_1_20080101/?code=62&name=Computer%20programming,%20consultancy%20and%20related%20activities)
 that you feel is most relevant.
   * `62010 Computer programming activities` is common as several freelancing agencies like Futurice and Reaktor have chosen that, so you can go with that as well.
 
