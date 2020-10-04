@@ -119,7 +119,7 @@ by 5-20%, which would be their cut of the hourly rate. This means that, with one
 
 **List of brokers**:
 * Apply for [Talented](https://talented.fi/en/independent-contractor/) membership to get into their projects, events and Slack community.
-* Fika ☕️ with [Thriv](https://www.tentimesagency.com/) and get into their Slack.
+* Fika ☕️ with [Thriv](https://www.thriv.dev/) and get into their Slack.
 * Fika ☕️ with [Finitec](https://finitec.fi/) and get into their network.
 * Fika ☕️ with [Siili One](https://campaign.siili.com/one) and get into their network.
 * Fika ☕️ with [HiQ](https://hiq.fi/en/subcontracting/) and get into their network.
