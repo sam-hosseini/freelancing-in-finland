@@ -300,6 +300,13 @@ This would prevent scammers calling you and selling you a "service", in which yo
 obstacles to remove yourself from the so called "service" they offered you. They can do that because in Finland, verbal agreement is as binding as writing, which the scammers take advantage of inappropriately.
   * You can also give power of attorney in Business Information System to an accountant so that they can establish the company on your behalf.
 
+* Remember that the *legal purpose* of your company is to generate profits.
+  * This is based on [Limited Liability Companies Act](https://www.finlex.fi/en/laki/kaannokset/2006/en20060624.pdf):
+    > Section 5 - Purpose
+
+    > **The purpose of a company is to generate profits for the shareholders**, unless otherwise provided in the Articles of Association.
+  * That is why, for example, you cannot give a loan with 0% interest from your company to other `natural persons` or `legal entities`, as that wouldn't generate profits for your company.
+
 ## Foundation - what to do **after** you establish your company
 
 ### Apply for general housing allowance
