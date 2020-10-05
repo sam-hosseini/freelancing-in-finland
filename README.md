@@ -279,6 +279,14 @@ you'll update your company's information in Business Information System if there
 that you feel is most relevant.
   * `62010 Computer programming activities` is common as several freelancing agencies like Futurice and Reaktor have chosen that, so you can go with that as well.
 
+* Choose your company's fiscal year ending.
+  * Fiscal year is the 12-month period in which your company operates.
+  * *First* fiscal year is always an exception and it can be less than 12 months or up to a maximum of 18 months.
+  * Fiscal year can be the same as `calendar` year and finish at the end of December.
+  * Fiscal year can also end at other times, like end of September, March, etc.
+  * A lot of companies have their fiscal year the same as `calendar` year and this makes accounting offices really busy during the turn of the year.
+To avoid this busy season, you can choose a fiscal year that ends well before (September) or after (April) the turn of the year.
+
 * Get another person's consent to be your *Deputy Member of the Board of Directors*.
   * According to [Limited Liability Companies Act](https://www.finlex.fi/en/laki/kaannokset/2006/en20060624.pdf) in Chapter 6, Section 8.1:
     > There  shall  be  between  one  and  five  regular  Members  of  the  Board  of Directors, unless it is otherwise provided in the Articles of Association. If there are  fewer  than  three  Members,  there  shall be  at  least one  Deputy  Member of the Board of Directors.
