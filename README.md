@@ -519,6 +519,9 @@ your client claims 100,000€ in damages for those 5 hours, corporate liability 
 
 **When is it necessary?** Even though it's not mandatory by law, it may be mandatory by the contract you'll sign with freelance brokers or the client itself.
 
+Some components of a corporate liability insurance, like *legal expenses insurance*, require you to have signed the corporate liability insurance **before** signing your project contract
+in order for the insurance cover to be valid. If that is the case and you have already signed the project contract, discuss with the insurance agent to find a solution to the problem.
+
 **How much?** Insurance companies decide the price based on a number of factors including but not limited to your main line of business and your estimated annual revenue.
 I have received offers from ~200€ up to ~500€ per year from different insurance providers.
 
