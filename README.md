@@ -427,10 +427,15 @@ and if we take a 75€/hour rate, you should expect to pay at least 75-150€ pe
 
 ### Buy social security insurance YEL
 
-**Source of truth**: [ETK Finnish Center for Pensions](https://www.etk.fi/en/the-pension-system/pension-security/pension-coverage-and-insurance/self-employed/)
+**Source of truth**: [ETK Finnish Center for Pensions](https://www.etk.fi/en/finnish-pension-system/pension-security/pension-coverage-and-insurance/self-employed/)
 
 **What is it?** YEL is a mandatory social security insurance for `self-employed` persons.
-The official name of "Self-Employed Person’s Pensions Act" is **misleading**, as YEL doesn't determine your pension only but your entire social security benefits.
+**YEL official name is very misleading** (*Self-Employed Person’s Pensions Act*), because **YEL determines your entire social security benefits**, <ins>not</ins> just your pension.
+
+For example, if you get sick, your *daily sickness allowance* is calculated based on your YEL. The more you pay for YEL, the more *daily sickness allowance* you get.
+
+Similarly, when you want to [buy a health insurance](https://github.com/sam-hosseini/freelancing-in-finland#consider-buying-health-insurance), no insurance company
+will sell you one without YEL. Because *YEL is the foundation* and a private health insurance <ins>builds on top</ins> of YEL.
 
 **What is `YEL income` and `YEL contribution`?**
 
