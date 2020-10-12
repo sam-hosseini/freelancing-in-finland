@@ -420,7 +420,8 @@ and if we take a 75€/hour rate, you should expect to pay at least 75-150€ pe
 * Contact your accountant in mind:
   * Explain that your business is about IT freelancing
   * Tell if you have a client already, or expecting one soon
-  * Mention your estimated amount of business activity and purchases
+  * Mention your estimated amount of monthly business activity and purchase receipts that they have to process.
+    * If you don't know, for the target audience of this guide, ~15 receipts per month is a rough estimation.
   * Mention your bank account provider
 * Accountant will take it from there.
 
