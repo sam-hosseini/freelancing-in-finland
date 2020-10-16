@@ -171,7 +171,10 @@ your real income tax percentage, otherwise they withhold 25% income tax by defau
 
 **Steps** for first application:
 
-* You will be disqualified from startup grant if you have already established your company or started full-time entrepreneurship.
+* You will be disqualified from startup grant if you have already established your company and started full-time entrepreneurship.
+  * While the easiest solution is to to apply before forming a company. You can also apply to **transition to full-time entrepreneurship** by proving that:
+     a) you have been doing something else full time up until and while applying for startup grant => having a full time job is sufficient proof. But you must apply before quitting your job
+     b) your business doesn't yet generate too much income as to render your application "unneccessary" from the viewpoint of TE-services
 
 * You need a business plan and certain financial calculations as an attachment to your application.
 You can use [My Enterprise Finland](https://oma.yrityssuomi.fi/#) and complete the steps for `Business plan` to
