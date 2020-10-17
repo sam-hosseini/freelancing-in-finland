@@ -314,6 +314,9 @@ obstacles to remove yourself from the so called "service" they offered you. They
 
     > **The purpose of a company is to generate profits for the shareholders**, unless otherwise provided in the Articles of Association.
   * That is why, for example, you cannot give a loan with 0% interest from your company to other `natural persons` or `legal entities`, as that wouldn't generate profits for your company.
+  
+* Once the company is formed you must add a notification of beneficiary owners. In your case this will be the owner (you) of the company. You do this by going to [Business Information System](https://asiointi.ytj.fi/ytjap) (only available in Finnish) again, clicking "Tosiasialliset edunsaajat (omistajat) >>". Which is the bottom right of the four boxes in the middle of the page once you log in. For more info see [PRH - Notification of beneficial owners
+](https://www.prh.fi/en/kaupparekisteri/beneficial_owner_details.html)
 
 ## Foundation - what to do **after** you establish your company
 
