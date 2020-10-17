@@ -1,8 +1,7 @@
 # Freelancing in Finland
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors)
-<a href="#freelancing-in-finland"><img src="https://img.shields.io/badge/30%20min%20read-gray?style=flat-square&logo=medium" alt="medium reading estimation"></a>
+[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 The ultimate resource for transitioning to freelancing for software developers 👩‍💻🇫🇮
@@ -817,6 +816,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://www.eaccounting.fi/en/"><img src="https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/master/images/eAccounting_Finland_Oy.png" width="100px;" alt=""/><br /><sub><b>Jonne Anttila - eAccounting Finland Oy</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=" title="Documentation">📖</a></td>
     <td align="center"><a href="http://aituri.ai"><img src="https://avatars3.githubusercontent.com/u/66198364?v=4" width="100px;" alt=""/><br /><sub><b>aituri</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=aituri" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/pkalliok"><img src="https://avatars3.githubusercontent.com/u/2952067?v=4" width="100px;" alt=""/><br /><sub><b>Panu Kalliokoski</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=pkalliok" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Trosterud"><img src="https://avatars2.githubusercontent.com/u/20249331?v=4" width="100px;" alt=""/><br /><sub><b>Sindre</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=Trosterud" title="Documentation">📖</a></td>
   </tr>
 </table>
 
