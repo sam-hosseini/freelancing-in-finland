@@ -308,15 +308,16 @@ This would prevent scammers calling you and selling you a "service", in which yo
 obstacles to remove yourself from the so called "service" they offered you. They can do that because in Finland, verbal agreement is as binding as writing, which the scammers take advantage of inappropriately.
   * You can also give power of attorney in Business Information System to an accountant so that they can establish the company on your behalf.
 
+* Once your company is established, you must file a *notification* of beneficial owners in [Business Information System](https://asiointi.ytj.fi/ytjap)
+    * The only [*beneficial owner*](https://www.prh.fi/en/kaupparekisteri/beneficial_owner_details.html) will be you (natural person) since you're the only owner of the company.
+    * You can do this by clicking on "Tosiasialliset edunsaajat (omistajat)" in Business Information System once you login and following the instructions.
+
 * Remember that the *legal purpose* of your company is to generate profits.
   * This is based on [Limited Liability Companies Act](https://www.finlex.fi/en/laki/kaannokset/2006/en20060624.pdf):
     > Section 5 - Purpose
 
     > **The purpose of a company is to generate profits for the shareholders**, unless otherwise provided in the Articles of Association.
   * That is why, for example, you cannot give a loan with 0% interest from your company to other `natural persons` or `legal entities`, as that wouldn't generate profits for your company.
-  
-* Once the company is formed you must add a notification of beneficiary owners. In your case this will be the owner (you) of the company. You do this by going to [Business Information System](https://asiointi.ytj.fi/ytjap) (only available in Finnish) again, clicking "Tosiasialliset edunsaajat (omistajat) >>". Which is the bottom right of the four boxes in the middle of the page once you log in. For more info see [PRH - Notification of beneficial owners
-](https://www.prh.fi/en/kaupparekisteri/beneficial_owner_details.html)
 
 ## Foundation - what to do **after** you establish your company
 
