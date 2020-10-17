@@ -126,6 +126,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "Trosterud",
+      "name": "Sindre",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/20249331?v=4",
+      "profile": "https://github.com/Trosterud",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
