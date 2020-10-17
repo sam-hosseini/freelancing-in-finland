@@ -171,7 +171,7 @@ your real income tax percentage, otherwise they withhold 25% income tax by defau
 
 **Steps** for first application:
 
-* You will be disqualified from startup grant if you have already established your company or started full-time entrepreneurship.
+* You will be disqualified from startup grant if you have established your company *and* started full-time entrepreneurship already.
 
 * You need a business plan and certain financial calculations as an attachment to your application.
 You can use [My Enterprise Finland](https://oma.yrityssuomi.fi/#) and complete the steps for `Business plan` to
