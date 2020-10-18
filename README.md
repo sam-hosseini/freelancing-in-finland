@@ -786,7 +786,7 @@ For example, if you're applying for the month of March, you have until end of Ma
 ### References
 
 Calculators:
-* [Salary vs Dividend ratio optimizer (in Finnish)](https://osinkoavaipalkkaa.fi/)
+* [Salary vs Dividend ratio optimizer](https://osinkoavaipalkkaa.fi/)
 
 Guides:
 * [Suomi.fi](https://www.suomi.fi/company/)
