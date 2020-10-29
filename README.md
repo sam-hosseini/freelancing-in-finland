@@ -569,8 +569,7 @@ I don't know if there are other unions or which one is better than the other. Do
 
 ### Consider joining an unemployment fund
 
-**Source of truth**: [Kela unemployment page](https://www.kela.fi/web/en/unemployment)
-and [Unemployment Fund for the self-employed](https://syt.fi/)
+**Source of truth**: [Kela unemployment page](https://www.kela.fi/web/en/unemployment), [Unemployment Fund for the self-employed](https://syt.fi/) and [TEK](https://www.tek.fi/en/membership-services/entrepreneurs-services)
 
 **What is it?** There are two types of unemployment benefits:
 
@@ -587,7 +586,7 @@ The minimum is ~13,000€ `YEL income`, and with that, membership fee is ~155€
 **When is it necessary?** If you wish to get earnings-related unemployment allowance in case of unemployment.
 
 Note that **receiving any kind of unemployment allowance requires permanent closure of your company** and registering as
-a job-seeker to be a full-time `employee` again, among other things.
+a job-seeker to be a full-time `employee` again, among other things. Additionally, note that belonging to an unemployment fund for employees (e.g. [KOKO](https://kokokassa.fi/en/)) is not resulting in unemployment allowance.
 
 <img src="./images/unemployment_fund.png" width="600" height="900">
 
