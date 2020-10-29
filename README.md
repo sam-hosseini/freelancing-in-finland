@@ -160,7 +160,7 @@ Even though the official estimation is 2 weeks, decision comes much faster in re
 
 ### Apply for startup grant
 
-**Source of truth**: [TE-services startup grant page](https://www.te-palvelut.fi/te/en/employers/for_entrepreneurs/services_new_entrepreneurs/startup_grant/index.html)
+**Source of truth**: [TE-services startup grant page](https://www.te-palvelut.fi/te/en/employers/for_entrepreneurs/services_new_entrepreneurs/startup_grant/index.html) and [YTK](https://en.ytk.fi/instructions-and-support/information-bank/entrepreneurship-and-working-through-an-invoicing-company/what-is-considered-the-start-date-of-working-as-an-entrepreneur-)
 
 **What is it?** Startup grant is a program to support you to become an entrepreneur.
 You will receive the monthly payment for a total of 6 months (if you apply once) or a total of 12 months (if you apply for extension as well).
@@ -171,7 +171,7 @@ your real income tax percentage, otherwise they withhold 25% income tax by defau
 
 **Steps** for first application:
 
-* You will be disqualified from startup grant if you have established your company *and* started full-time entrepreneurship already.
+* You will be disqualified from startup grant if you have established your company *and* started full-time entrepreneurship already. If the company joins the Prepayment register, VAT register or the employer register, the business will be considered as started and therefore your startup grant will be disqualified. However, this means that you can create the company and get the company ID before you apply for the startup grant, and having an company ID helps setting up other things.
 
 * You need a business plan and certain financial calculations as an attachment to your application.
 You can use [My Enterprise Finland](https://oma.yrityssuomi.fi/#) and complete the steps for `Business plan` to
