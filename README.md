@@ -160,7 +160,7 @@ Even though the official estimation is 2 weeks, decision comes much faster in re
 
 ### Apply for startup grant
 
-**Source of truth**: [TE-services startup grant page](https://www.te-palvelut.fi/te/en/employers/for_entrepreneurs/services_new_entrepreneurs/startup_grant/index.html) and [YTK](https://en.ytk.fi/instructions-and-support/information-bank/entrepreneurship-and-working-through-an-invoicing-company/what-is-considered-the-start-date-of-working-as-an-entrepreneur-)
+**Source of truth**: [TE-services startup grant page](https://www.te-palvelut.fi/te/en/employers/for_entrepreneurs/services_new_entrepreneurs/startup_grant/index.html)
 
 **What is it?** Startup grant is a program to support you to become an entrepreneur.
 You will receive the monthly payment for a total of 6 months (if you apply once) or a total of 12 months (if you apply for extension as well).
