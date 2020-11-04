@@ -171,7 +171,11 @@ your real income tax percentage, otherwise they withhold 25% income tax by defau
 
 **Steps** for first application:
 
-* You will be disqualified from startup grant if you have established your company *and* started full-time entrepreneurship already. If the company joins the Prepayment register, VAT register or the employer register, the business will be considered as started and therefore your startup grant will be disqualified. However, this means that you can create the company and get the company ID before you apply for the startup grant, and having an company ID helps setting up other things.
+* You will be disqualified from startup grant if you have established your company *and* started full-time entrepreneurship already.
+    * What TE-services considers **establishment of company** is different from what we discuss in [establish your company](#establish-your-company) section.
+    * TE-services considers your company as established if your company has joined any of the registeries maintained by Tax Administration (Prepayment, VAT, Employer).
+    * This means that if you only join Trade register to get the unique Business ID when establishing your company, TE-services won't consider your company as established.
+    * You can do this if you're in a hurry to setup things that depend on Business ID like opening a business bank account, applying for insurance offers, etc and you can't wait for startup grant decision to come first.
 
 * You need a business plan and certain financial calculations as an attachment to your application.
 You can use [My Enterprise Finland](https://oma.yrityssuomi.fi/#) and complete the steps for `Business plan` to
