@@ -699,8 +699,8 @@ you must offer it as a 20€-phone-benefit.
 but entertainment services should not be attached to the subscription, or the benefit will be taxable.
 * Vehicles: your company can own a car, bikes, etc. that you can use for commuting to your client office and work-related trips. Naturally, as your company owns these vehicles, all their repairs and maintenance are *business costs* which you can pay from your company and like every other *business cost*, get a refund for its VAT later.
 If you need to use these vehicles for non-work-related trips, ask your accountant whether it's a taxable benefit for you and act accordingly.
-* **Massage benefit not recommended** for the target audience of this guide: there's a possibility that the Tax Administration would consider massage benefit in a one-person company [**a disguised dividend
-to the owner**](https://github.com/sam-hosseini/freelancing-in-finland/issues/3#issuecomment-579164717).
+* Massage benefit: if you offer yourself a *reasonable* amount of massage benefit (~50€/month for example) and that reasonable amount is *proportionate* to the amount of salary your pay yourself, you should be able to offer yourself massage benefit without a problem. However, just like all-things-tax-related, it's the Tax Administration officer who decides what's *reasonable* and what's *proportionate*.
+Therefore, practice caution with this particular benefit.
 
 **Can you offer yourself only benefits?** Yes you can, but you must take a big enough salary to cover the `income tax` of the benefits you're offering yourself.
 
