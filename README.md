@@ -323,6 +323,8 @@ obstacles to remove yourself from the so called "service" they offered you. They
     > **The purpose of a company is to generate profits for the shareholders**, unless otherwise provided in the Articles of Association.
   * That is why, for example, you cannot give a loan with 0% interest from your company to other `natural persons` or `legal entities`, as that wouldn't generate profits for your company.
 
+* Note that starting a company in the same field of business as your current employer [might be considered as competing activity](https://www.tek.fi/en/services/legal-consulting/legal-data-bank/competing-activities-and-non-competition-agreements). If you want to start your company while still employed, you can get a written permission for that from your current employer to be sure of avoiding trouble. Additionally, note that establishing your company and [starting business](https://en.ytk.fi/instructions-and-support/information-bank/entrepreneurship-and-working-through-an-invoicing-company/what-is-considered-the-start-date-of-working-as-an-entrepreneur-) is two different things.
+
 ## Foundation - what to do **after** you establish your company
 
 ### Apply for general housing allowance
