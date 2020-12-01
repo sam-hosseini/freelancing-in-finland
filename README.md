@@ -40,7 +40,6 @@ The ultimate resource for transitioning to freelancing for software developers �
 * [Now that you're here...](#now-that-youre-here)
 
 <!-- vim-markdown-toc -->
-
 ## Introduction
 
 ### What problem will you face without this guide?
@@ -368,7 +367,6 @@ general housing allowance is ~410€ per month, tax free, for a studio in Helsin
 * If you don't have the attachments ready, you can still attach them to the application for ~10 days after sending the application.
 * You will receive a decision in ~3 weeks (official estimation).
 
-
 ### Open a business bank account
 
 **What is it?** A business account for your company's business activities.
@@ -436,7 +434,6 @@ and if we take a 75€/hour rate, you should expect to pay at least 75-150€ pe
     * If you don't know, for the target audience of this guide, ~15 receipts per month is a rough estimation.
   * Mention your bank account provider
 * Accountant will take it from there.
-
 
 ### Buy social security insurance YEL
 
@@ -522,7 +519,6 @@ From the company's perspective:
 
 **What's the practical conclusion?** Because `Employers’ health insurance contribution` is such a small percentage, in the rest of this guide, I will intentionally assume
 that the `self-employed` people only pay `income tax` and nothing else.
-
 
 ### Consider buying corporate liability insurance
 
@@ -752,7 +748,6 @@ However, an overview of fundamentals can be illustrated.
 
 \* Taken from page 86 of [Finnish Enterprise Agencies guide to becoming an Entrepreneur in Finland - 2020](https://www.uusyrityskeskus.fi/wp-content/uploads/2020/04/SUK_GUIDE_2020_eng_verkkoon_linkit-1.pdf)
 
-
 ### Ensure that your obligations are fulfilled continuously
 
 Tax administration office (Vero):
@@ -841,6 +836,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 ## Now that you're here...
+
 I can tell you that I wrote this guide **with both selfish and selfless reasons**.
 
 * Selfish reasons:
