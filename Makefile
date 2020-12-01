@@ -14,7 +14,7 @@ generate-readme: create-venv
 
 generate-table-of-contents: create-node-modules
 	@$(MAKE) generate-readme
-	@node_modules/.bin/markdown-toc README.md --bullets '*' --no-firsth1 > "content/01 - header/02 - table-of-contents.md"
+	@node_modules/.bin/markdown-toc README.md --bullets '*' --no-firsth1 > "content/01-header/02-table-of-contents.md"
 	@$(MAKE) generate-readme
 
 generate-contributors-list: create-node-modules
