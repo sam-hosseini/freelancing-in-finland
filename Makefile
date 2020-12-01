@@ -7,7 +7,7 @@ create-venv:
 	@if [ ! -d "venv" ]; then virtualenv venv; source venv/bin/activate; pip install -r requirements.txt; fi
 
 generate-table-of-contents: create-node-modules
-	@node_modules/.bin/markdown-toc README.md --bullets '*' -i
+	@node_modules/.bin/markdown-toc README.md --bullets '*' > "content/01 - header/02 - table-of-contents.md"
 
 generate-contributors-list: create-node-modules
 	@node_modules/.bin/all-contributors generate
