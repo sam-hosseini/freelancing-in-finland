@@ -4,8 +4,7 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
-    "README.md",
-    "content/06-footer/01-contributors.md"
+    "README.md"
   ],
   "imageSize": 100,
   "commit": false,

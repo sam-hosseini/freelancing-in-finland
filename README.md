@@ -4,6 +4,8 @@
 
 The ultimate resource for transitioning to freelancing for software developers 👩‍💻🇫🇮
 
+<!-- toc -->
+
 * [Introduction](#introduction)
   * [What problem will you face without this guide?](#what-problem-will-you-face-without-this-guide)
   * [How can this guide solve the problem?](#how-can-this-guide-solve-the-problem)
@@ -33,6 +35,8 @@ The ultimate resource for transitioning to freelancing for software developers �
   * [References](#references)
 * [Contributors](#contributors)
 * [Now that you're here...](#now-that-youre-here)
+
+<!-- tocstop -->
 
 ---
 
