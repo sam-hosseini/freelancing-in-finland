@@ -1,6 +1,6 @@
 ---
 name: ISSUE_TEMPLATE
-about: ''
+about: 'This is here to ensure that CONTRIBUTING.md is taken into account'
 title: ''
 labels: ''
 assignees: ''
