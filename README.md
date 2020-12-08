@@ -129,7 +129,7 @@ by 5-20%, which would be their cut of the hourly rate. This means that, with one
 * Apply for [Talented](https://talented.fi/en/independent-contractor/) membership to get into their projects, events and Slack community.
 * Fika ☕️ with [Thriv](https://www.thriv.dev/) and get into their Slack.
 * Fika ☕️ with [Finitec](https://finitec.fi/) and get into their network.
-* Fika ☕️ with [Siili One](https://campaign.siili.com/one) and get into their network.
+* Fika ☕️ with [Siili One](https://one.siili.com) and get into their network.
 * Fika ☕️ with [HiQ](https://hiq.fi/en/subcontracting/) and get into their network.
 * Register a profile with [Verama](https://verama.com/) to be able to apply to their projects.
 * Drop [Toughbyte](https://www.toughbyte.com/) a line.
@@ -144,7 +144,7 @@ by 5-20%, which would be their cut of the hourly rate. This means that, with one
 * Check [the Hub](https://thehub.io/jobs?positionTypes=5b8e46b3853f039706b6ea75&countryCode=FI) for freelance job types.
 
 **List of organizations you can introduce yourself to**:
-* [Business Finland](https://www.businessfinland.fi/en/for-finnish-customers/contact-us/) is a governmental organization whose main purpose is to help Finnish companies.
+* [Business Finland](https://www.businessfinland.fi/en/for-finnish-customers/contact/customer-service) is a governmental organization whose main purpose is to help Finnish companies.
 A lot of those companies are startups who need software developers. By introducing yourself and your services to a Business Finland advisor, they may be able to connect you with potential startups.
 * [NewCo Helsinki](https://newcohelsinki.fi/en/startup-services/) is a governmental organization which is focused on helping companies in Helsinki:
 
@@ -174,7 +174,7 @@ Even though the official estimation is 2 weeks, decision comes much faster in re
 You will receive the monthly payment for a total of 6 months (if you apply once) or a total of 12 months (if you apply for extension as well).
 
 **How much?** ~705€ per month, as personal income. If your income tax is 10%, for example, you will get ~635€.
-You must deliver a [revised tax card for social benefits](https://www.vero.fi/en/individuals/tax-cards-and-tax-returns/tax_card/tax_card_for_social_benefit/) to TE-services for them to use
+You must deliver a [revised tax card for social benefits](https://www.vero.fi/en/individuals/tax-cards-and-tax-returns/tax_card/benefits/how-to-order-a-tax-card-only-for-benefits-in-mytax/) to TE-services for them to use
 your real income tax percentage, otherwise they withhold 25% income tax by default and you'll get ~530€.
 
 **Steps** for first application:
@@ -476,7 +476,7 @@ Minimum YEL                |  Maximum YEL
 [maximum YEL image]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/master/images/maximum_YEL.png
 [maximum YEL link]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/master/images/maximum_YEL.png
 
-\* Taken from [Varma.fi YEL calculator](https://www.varma.fi/en/entrepreneur/)
+\* Taken from [Varma.fi YEL calculator](https://www.varma.fi/en/entrepreneur/entrepreneurs-calculator/)
 
 **Steps**:
 
@@ -495,7 +495,7 @@ Minimum YEL                |  Maximum YEL
 
 ### Understand your new personal taxation situation
 
-**Source of truth**: [Tax Administration](https://www.vero.fi/en/individuals/)
+**Source of truth**: [Tax Administration](https://www.vero.fi/en/)
 
 **What is it?** As a `self-employed` person, your payslip is going to be different than what you used to have as
 an `employee` and practically speaking, you only pay `income tax` and nothing else.
@@ -589,7 +589,7 @@ I don't know if there are other unions or which one is better than the other. Do
 ### Consider joining an unemployment fund
 
 **Source of truth**: [Kela unemployment page](https://www.kela.fi/web/en/unemployment)
-and [Unemployment Fund for the self-employed](https://syt.fi/)
+and [Unemployment Fund for the self-employed](https://yrittajakassa.fi)
 
 **What is it?** There are two types of unemployment benefits:
 
@@ -613,11 +613,11 @@ a job-seeker to be a full-time `employee` again, among other things.
 [unemployment fund paths image]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/master/images/unemployment_fund.png
 [unemployment fund paths link]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/master/images/unemployment_fund.png
 
-\* Taken from [SYT](https://syt.fi/wp-content/uploads/2019/02/2019_SYT_brochure.pdf)
+\* Taken from an old brochure of Unemployment Fund for the self-employed
 
 **Steps**:
 * According to [Federation of Unemployment Funds in Finland (TYJ)](https://www.tyj.fi/en/join-a-fund/membership-fees/), there's only one unemployment fund for the `self-employed`.
-* Join [Unemployment Fund for the self-employed](https://syt.fi/).
+* Join [Unemployment Fund for the self-employed](https://yrittajakassa.fi).
 
 ### Consider buying health insurance
 
@@ -700,7 +700,7 @@ you see that the market price is ~500€ nowadays, that's a *fair market value*.
 
 **What is it?** You can offer yourself all the benefits `employees` have access to as a `self-employed` person. Up to the tax-free limits, it'll be only a business cost.
 
-|                              | Tax-free limit | [Edenred card service commission](https://edenred.fi/en/employer/price-list/#card) | [Smartum card service commission](https://www.smartum.fi/en/hinnasto-smartum-saldo-ja-setelit/) | [ePassi service commission](https://www.epassi.fi/en/employer/start-using-epassi) |
+|                              | Tax-free limit | [Edenred card service commission](https://edenred.fi/en/employer/price-list/#card) | [Smartum card service commission](https://www.smartum.fi/en/smartum-service#costs) | [ePassi service commission](https://www.epassi.fi/en/employer/start-using-epassi) |
 | ---------------------------- | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------- |
 | Lunch benefit 🥗              | ~50€ per month  | 2.6% of the balance loaded                                   | 1.5% of the balance loaded                                   | 1.5% of the balance loaded |
 | Sport and cultural benefit 🎭 | 400€ per year   | 5.2% of the balance loaded                                   | 5% of the balance loaded                                     | 4% of the balance loaded |
