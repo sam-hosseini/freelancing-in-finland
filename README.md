@@ -419,7 +419,6 @@ and if we take a 75€/hour rate, you should expect to pay at least 75-150€ pe
 * [KT Kirjanpito](https://www.ktkirjanpito.fi) Outi & Viivu speak English and specialize in micro businesses
 * [Valjas](https://www.valjas.fi/en/)
 * [Lemontree](https://lemontree.fi/) offers English services even though their website is only in Finnish
-* I don't know any other. Do you know? Please send a pull request 💯
 
 **Steps**:
 
@@ -479,7 +478,6 @@ Minimum YEL                |  Maximum YEL
   * [varma](https://www.varma.fi/en/)
   * [ilmarinen](https://www.ilmarinen.fi/en/)
   * [veritas](https://www.veritas.fi/en/)
-* I don't know if any provider is better than the other. Do you know which one is the best? Please send a pull request 💯
 
 ### Understand your new personal taxation situation
 
@@ -548,8 +546,6 @@ I have received offers from ~200€ up to ~500€ per year from different insura
   * Insurance offer available in ?
   * Online service available in ?
 
-I don't know if any provider is better than the other. Do you know which one is the best? Please send a pull request 💯
-
 ### Consider joining a union
 
 **What is it?** A union is an organization which can offer its members certain services at a much lower price and lobby the interests of its members with relevant authorities.
@@ -571,8 +567,6 @@ among other points.
 * [Suomen Yrittäjät - Finnish Entrepreneurs](https://www.yrittajat.fi/en)
 * [Kauppakamari - Finland chamber of commerce](https://kauppakamari.fi/en/)
   * [Helsinki chamber of commerce](https://helsinki.chamber.fi/en/)
-
-I don't know if there are other unions or which one is better than the other. Do you know which one is the best? Please send a pull request 💯
 
 ### Consider joining an unemployment fund
 
@@ -639,8 +633,6 @@ Comparison of health insurance providers:
 | [OP - Extra](https://www.op.fi/corporate-customers/insurance/personal-insurance/health-insurance) | ✅                                       | ✅                                                            | ✅                                            | ~350€ + 100€                | Need accident insurance (~200€ per year) |
 | [OP - Super](https://www.op.fi/corporate-customers/insurance/personal-insurance/health-insurance) | ✅                                       | ✅                                                            | ✅                                            | ~1800€                      | Need accident insurance (~200€ per year) |
 | If                                                           | ❌                                       | ?                                                            | ?                                            | ?                           |                                          |
-
-I don't know if there are other health insurance providers or which one is better than the other. Do you know which one is the best? Please send a pull request 💯
 
 **Steps**:
 
