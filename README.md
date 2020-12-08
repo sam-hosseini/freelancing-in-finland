@@ -468,7 +468,13 @@ will sell you one without YEL. Because *YEL is the foundation* and a private hea
 
 Minimum YEL                |  Maximum YEL
 :-------------------------:|:-------------------------:
-![](./images/minimum_YEL.png)  |  ![](./images/maximum_YEL.png)
+[![minimum YEL][minimum YEL image]][minimum YEL link]  |  [![maximum YEL][maximum YEL image]][maximum YEL link]
+
+[minimum YEL image]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/master/images/minimum_YEL.png
+[minimum YEL link]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/master/images/minimum_YEL.png
+
+[maximum YEL image]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/master/images/maximum_YEL.png
+[maximum YEL link]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/master/images/maximum_YEL.png
 
 \* Taken from [Varma.fi YEL calculator](https://www.varma.fi/en/entrepreneur/)
 
@@ -602,7 +608,10 @@ The minimum is ~13,000€ `YEL income`, and with that, membership fee is ~155€
 Note that **receiving any kind of unemployment allowance requires permanent closure of your company** and registering as
 a job-seeker to be a full-time `employee` again, among other things.
 
-<img src="./images/unemployment_fund.png" width="600" height="900">
+[![unemployment fund paths][unemployment fund paths image]][unemployment fund paths link]
+
+[unemployment fund paths image]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/master/images/unemployment_fund.png
+[unemployment fund paths link]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/master/images/unemployment_fund.png
 
 \* Taken from [SYT](https://syt.fi/wp-content/uploads/2019/02/2019_SYT_brochure.pdf)
 
@@ -753,7 +762,11 @@ This guide could not be reasonably expected to be of much help to answer that qu
 However, an overview of fundamentals can be illustrated.
 
 **What are the fundamentals in taxation of income in a limited liability company?**
-![](./images/limited_liability_taxation.png)
+
+[![limited liability company taxation fundamentals][limited liability company taxation fundamentals image]][limited liability company taxation fundamentals link]
+
+[limited liability company taxation fundamentals image]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/master/images/limited_liability_taxation.png
+[limited liability company taxation fundamentals link]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/master/images/limited_liability_taxation.png
 
 \* Taken from page 86 of [Finnish Enterprise Agencies guide to becoming an Entrepreneur in Finland - 2020](https://www.uusyrityskeskus.fi/wp-content/uploads/2020/04/SUK_GUIDE_2020_eng_verkkoon_linkit-1.pdf)
 
