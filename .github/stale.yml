@@ -2,16 +2,10 @@
 
 daysUntilStale: 5
 daysUntilClose: 2
-limitPerRun: 30
 
 staleLabel: inactive
-onlyLabels: []
 exemptLabels:
   - pinned
-
-exemptProjects: false
-exemptMilestones: false
-exemptAssignees: false
 
 markComment: >
   This issue has been automatically marked as stale because it has not had
