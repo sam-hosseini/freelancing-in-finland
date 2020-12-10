@@ -34,7 +34,7 @@ The ultimate resource for transitioning to freelancing for software developers �
   * [Ensure that your obligations are fulfilled continuously](#ensure-that-your-obligations-are-fulfilled-continuously)
   * [References](#references)
 * [Contributors](#contributors)
-* [Now that you're here...](#now-that-youre-here)
+* [Final words](#final-words)
 
 <!-- tocstop -->
 
@@ -838,19 +838,17 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
-## Now that you're here...
+## Final words
 
-I can tell you that I wrote this guide **with both selfish and selfless reasons**.
+Now that you've reached the end, I can tell you that I wrote this guide **with both selfish and selfless reasons**.
 
 * Selfish reasons:
-  * **I wanted to make money**. I didn't know how exactly to monetize this guide or other things that could come out of it 😄, and there were multiple suggestions by friends and colleagues
-but in the end [it didn't receive widespread attention](https://github.com/sam-hosseini/freelancing-in-finland/issues/26) and that's ok, live and learn 📚
-  * I wanted to increase my visibility in the freelancing network as a Python developer 🐍 and with that, I would have the leverage to charge higher hourly rates 💶 =>
-   <a href="https://www.linkedin.com/in/sam-hosseini-/"><img src="https://img.shields.io/badge/Send a message-blue?style=flat-square&logo=linkedin" alt="connect on Linkedin"></a>
+  * **I wanted to make money**. I didn't know [how to make money](https://github.com/sam-hosseini/freelancing-in-finland/issues/26) from this guide when I launched it 😄
+and it took ~1 year before I managed to sign the first sponsorship deal. Patience was key 🔑
 
-  * Later in my life, I want to launch my own products but because I'm an underdog on Twitter 😁,
-  I was hoping to get more Twitter followers so that my best friends wouldn't be the only ones liking my later-in-life Producthunt launch posts 😅 =>
-   <a href="https://twitter.com/sam_hosseini_"><img src="https://img.shields.io/twitter/follow/sam_hosseini_?style=flat-square&logo=twitter" alt="follow on Twitter"></a>
+  * In 2021, I'd be working full-time on my own products, the first of which would be to expand this guide into a website.
+If you're interested to hear about that and follow my journey,
+you can [follow me on twitter](https://twitter.com/sam_hosseini_) 🐦
 
 * Selfless reasons:
   * Software developers and the community are extremely generous and having been mostly *taking*, I wanted to give back as well.
