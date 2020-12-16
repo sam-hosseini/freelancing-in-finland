@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "all-contributors-cli": "^6.19.0",
+    "all-contributors-cli": "6.16.0",
     "markdown-toc": "^1.2.0"
   }
 }
