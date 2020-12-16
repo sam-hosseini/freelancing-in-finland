@@ -6,8 +6,3 @@ repos:
       name: Generate table of contents and contributors list
       entry: make test
       language: system
-
-- repo: https://github.com/jumanjihouse/pre-commit-hooks
-  rev: master
-  hooks:
-    - id: git-dirty
