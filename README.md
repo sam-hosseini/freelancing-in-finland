@@ -833,6 +833,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/YannickMeeus"><img src="https://avatars0.githubusercontent.com/u/588607?v=4" width="100px;" alt=""/><br /><sub><b>Yannick Meeus</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/issues?q=author%3AYannickMeeus" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="http://varmais.fi"><img src="https://avatars0.githubusercontent.com/u/2426164?v=4" width="100px;" alt=""/><br /><sub><b>Teemu Tiilikainen</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=varmais" title="Documentation">📖</a></td>
   </tr>
 </table>
 
