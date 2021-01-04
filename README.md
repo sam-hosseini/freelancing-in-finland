@@ -42,7 +42,7 @@ The ultimate resource for transitioning to freelancing for software developers ð
 
 [![TALENTED sponsorship banner][TALENTED sponsorship banner image]][TALENTED sponsorship banner link]
 
-[TALENTED sponsorship banner image]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/master/images/banner_talented_3.gif
+[TALENTED sponsorship banner image]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/master/images/freelancer_banner_talented.gif
 [TALENTED sponsorship banner link]: https://talented.fi/en/independent-contractor/?utm_source=github&utm_campaign=freelancing-in-fi-guide&utm_reference=banner
 
 **TALENTED** is the **EXCLUSIVE** sponsor of Freelancing-in-Finland guide and I'm grateful for their financial contribution ðŸ§¡
