@@ -153,6 +153,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "vladwalross",
+      "name": "Vladimir Urbano",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11561727?v=4",
+      "profile": "https://github.com/vladwalross",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
