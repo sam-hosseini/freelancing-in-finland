@@ -402,8 +402,8 @@ a few transactions a month.
 **Steps**:
 
 * Open a business account in your desired bank.
-* Once your business account is setup, you can give a 1000€ *loan* from your *personal* account to your company so that you can immediately start paying business costs from your business account.
-* Later when your client pays your first sales invoice, you can return the 1000€ *loan* to your personal bank account.
+* Once your business account is setup, you can give a 1,000€ *loan* from your *personal* account to your company so that you can immediately start paying business costs from your business account.
+* Later when your client pays your first sales invoice, you can return the 1,000€ *loan* to your personal bank account.
 
 ### Find an accountant
 
@@ -450,10 +450,10 @@ will sell you one without YEL. Because *YEL is the foundation* and a private hea
 * `YEL income`:
   * Has absolutely nothing to do with your real world income (salary, benefits, dividends, etc).
   * Is how much ***coverage*** in social security you would like to have.
-  * You have the freedom to choose between ~8000€ up to ~180,000€ per year.
+  * You have the freedom to choose between ~8,000€ up to ~180,000€ per year.
 * `YEL contribution`:
   * Is how much you **pay** for your ***coverage***.
-  * Is ~19% of your `YEL income`, which means you pay ~125€ up to ~2820€ per month as a business cost.
+  * Is ~19% of your `YEL income`, which means you pay ~125€ up to ~2,820€ per month as a business cost.
 
 Minimum YEL                |  Maximum YEL
 :-------------------------:|:-------------------------:
@@ -470,9 +470,9 @@ Minimum YEL                |  Maximum YEL
 **Steps**:
 
 * You have 6 months from starting self-employment to buy YEL.
-    * If, however, your company has not had income equal to minimum `YEL income`, i.e. ~8000€, you do not need to buy YEL yet.
+    * If, however, your company has not had income equal to minimum `YEL income`, i.e. ~8,000€, you do not need to buy YEL yet.
     * When your company gets income above the level of minimum `YEL income`, you'll have to buy YEL within the 6 months mentioned above.
-    * Even though you have 6 months to buy YEL, if e.g. you had to buy YEL from the 3rd month because that's when your company had more than ~8000€ of income,
+    * Even though you have 6 months to buy YEL, if e.g. you had to buy YEL from the 3rd month because that's when your company had more than ~8,000€ of income,
       even if you buy YEL at the 5th month, you'll have to select the starting date of YEL to be from the 3rd month as that's the date when you were obligated to buy YEL anyway.
 
 * Buy YEL from an YEL insurance provider:
@@ -493,18 +493,18 @@ an `employee` and practically speaking, you only pay `income tax` and nothing el
 From the `employee`'s perspective:
 
 1. The employer withholds 20% of 1,000€ as `income tax` => 200€
-2. The employer withholds 7.15% of 1,000€ as `TyEL pension insurance contribution` => 71,5€
-3. The employer withholds 1.25% of 1,000€ as `unemployment insurance contribution` => 12,5€
+2. The employer withholds 7.15% of 1,000€ as `TyEL pension insurance contribution` => 71.5€
+3. The employer withholds 1.25% of 1,000€ as `unemployment insurance contribution` => 12.5€
 4. The employer pays withheld amount of 284€ to Tax Administration and other insurance providers.
 5. The *employee* receives the rest which is 716€.
 
 From the `employer`'s perspective:
 
-1. The employer has to pay 18.15% of 1,000€ as `Employee's pension insurance contribution` => 181,5€
-2. The employer has to pay 0.50% of 1,000€ as `Employer’s unemployment insurance contribution` => 5,0€
+1. The employer has to pay 18.15% of 1,000€ as `Employee's pension insurance contribution` => 181.5€
+2. The employer has to pay 0.50% of 1,000€ as `Employer’s unemployment insurance contribution` => 5€
 3. The employer has to pay 0.70% of 1,000€ as `Occupational accident and disease insurance contribution` => 7€
-4. The employer has to pay 0.07% of 1,000€ as `Group life insurance contribution` => 0,7€
-5. The employer has to pay 1.53% of 1,000€ as `Employers’ health insurance contribution` => 15,3€
+4. The employer has to pay 0.07% of 1,000€ as `Group life insurance contribution` => 0.7€
+5. The employer has to pay 1.53% of 1,000€ as `Employers’ health insurance contribution` => 15.3€
 6. The employer pays ~210€ to Tax Administration and other insurance providers.
 
 **How is the payslip for a `self-employed`?** Imagine a basic example, in which a `self-employed` person receives 1,000€ salary from their own company, and her/his tax card says their tax is 20%.
@@ -560,7 +560,7 @@ if you have 2-4 questions about running your business per year, the membership f
 For example, I had a question about corporate law, and wanted to know what happens if my Deputy Member of the Board of Directors leaves
 the company. I called the union and within 5 minutes, I was talking with a lawyer who knew about corporate law and got my answer.
 
-In addition to that, unions negotiate the `self-employed` interests. For example, from July 2019, you no longer have to put 2500€ initial
+In addition to that, unions negotiate the `self-employed` interests. For example, from July 2019, you no longer have to put 2,500€ initial
 capital into the company when establishing a limited liability company. This has been one of the points from
 [Business Legislation agenda of Suomen Yrittäjät union](https://www.yrittajat.fi/en/about-federation-finnish-enterprises/fields-influence/business-legislation-598844),
 among other points.
@@ -633,7 +633,7 @@ Comparison of health insurance providers:
 | [OP - Basic](https://www.op.fi/corporate-customers/insurance/personal-insurance/health-insurance) | ✅                                       | ❌                                                            | ✅                                            | ?                           | Need accident insurance (~200€ per year) |
 | [OP - Comprehensive](https://www.op.fi/corporate-customers/insurance/personal-insurance/health-insurance) | ✅                                       | ❌                                                            | ✅                                            | ?                           | Need accident insurance (~200€ per year) |
 | [OP - Extra](https://www.op.fi/corporate-customers/insurance/personal-insurance/health-insurance) | ✅                                       | ✅                                                            | ✅                                            | ~350€ + 100€                | Need accident insurance (~200€ per year) |
-| [OP - Super](https://www.op.fi/corporate-customers/insurance/personal-insurance/health-insurance) | ✅                                       | ✅                                                            | ✅                                            | ~1800€                      | Need accident insurance (~200€ per year) |
+| [OP - Super](https://www.op.fi/corporate-customers/insurance/personal-insurance/health-insurance) | ✅                                       | ✅                                                            | ✅                                            | ~1,800€                      | Need accident insurance (~200€ per year) |
 | If                                                           | ❌                                       | ?                                                            | ?                                            | ?                           |                                          |
 
 **Steps**:
@@ -652,7 +652,7 @@ Now, your company (`legal entity`) can buy from you (`natural person`) work-rela
 **When is it useful?** If you didn't have work-related tools when you started your company, you would have bought them from company's money as *business costs*.
 Now, by selling what you already have to the company, it's as if you're retroactively turning what used to be a personal cost into a *business cost*.
 
-**How much?** Their current *fair market value*. If you bought an iPhone for 1000€ two years ago, and you sell it to your company for 500€ because in most 2nd hand stores
+**How much?** Their current *fair market value*. If you bought an iPhone for 1,000€ two years ago, and you sell it to your company for 500€ because in most 2nd hand stores
 you see that the market price is ~500€ nowadays, that's a *fair market value*. If you sell it for 950€, tax administration might consider that a *disguised dividend* to the owner.
 
 **Steps**:
@@ -686,7 +686,7 @@ you see that the market price is ~500€ nowadays, that's a *fair market value*.
 | ---------------------------- | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------- |
 | Lunch benefit 🥗              | ~50€ per month  | 2.6% of the balance loaded                                   | 1.5% of the balance loaded                                   | 1.5% of the balance loaded |
 | Sport and cultural benefit 🎭 | 400€ per year   | 5.2% of the balance loaded                                   | 5% of the balance loaded                                     | 4% of the balance loaded |
-| Commuting benefit 🚌          | (0 to 300€) and (751€ to 3500€) per year | 4% of the balance loaded                                     | 5% of the balance loaded | 3% of the balance loaded |
+| Commuting benefit 🚌          | (0 to 300€) and (751€ to 3,500€) per year | 4% of the balance loaded                                     | 5% of the balance loaded | 3% of the balance loaded |
 
 * Phone benefit: you can pay your phone bill from company if you offer it as a 20€-phone-benefit every month to yourself.
 Phone bills are business cost when you only and only use it for business and not in your personal life. If you'd like to use a single subscription for both personal and business,
@@ -708,11 +708,11 @@ Therefore, in March, your salary must be 2.22€. When you deduct your 10% tax f
 **Should you offer yourself benefits above the tax-free limit?** You can but it will be similar to taking salary in case of a `self-employed` person.
 
 As seen in [understanding your new personal taxation situation](#understand-your-new-personal-taxation-situation), the `self-employed` only pay `income tax` on their income and nothing else.
-So if you offer yourself 1000€ salary and your tax rate is 20%, you get 800€. If you offer yourself 1000€ as benefit, you will also get 800€.
+So if you offer yourself 1,000€ salary and your tax rate is 20%, you get 800€. If you offer yourself 1,000€ as benefit, you will also get 800€.
 
 **Who ensures that you do not go above the tax-free limit?** Your company, the `legal entity`, must ensure that its owner, you as the `natural person`, is not offered benefits above the tax-free
 limits, because if you are offered, it must be reported and taxed. This is important, because you as the representative of the company can order even 10,000€ of Sport and cultural benefit, but
-if you go ahead and use it all within that calendar year, you must report it and pay tax on the 9600€ part.
+if you go ahead and use it all within that calendar year, you must report it and pay tax on the 9,600€ part.
 
 ### Send your invoices carefully
 
