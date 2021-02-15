@@ -687,7 +687,7 @@ you see that the market price is ~500€ nowadays, that's a *fair market value*.
 | ---------------------------- | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------- |
 | Lunch benefit 🥗              | ~50€ per month  | 2.6% of the balance loaded                                   | 1.5% of the balance loaded                                   | 1.5% of the balance loaded |
 | Sport and cultural benefit 🎭 | 400€ per year   | 5.2% of the balance loaded                                   | 5% of the balance loaded                                     | 4% of the balance loaded |
-| Commuting benefit 🚌          | (0 to 300€) and (751€ to 3,500€) per year | 4% of the balance loaded                                     | 5% of the balance loaded | 3% of the balance loaded |
+| Commuting benefit 🚌          | 3,400€ per year | 4% of the balance loaded                                     | 5% of the balance loaded | 3% of the balance loaded |
 
 * Phone benefit: you can pay your phone bill from company if you offer it as a 20€-phone-benefit every month to yourself.
 Phone bills are business cost when you only and only use it for business and not in your personal life. If you'd like to use a single subscription for both personal and business,
