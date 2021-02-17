@@ -163,6 +163,15 @@
         "doc",
         "bug"
       ]
+    },
+    {
+      "login": "wyozi",
+      "name": "Joonas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4894573?v=4",
+      "profile": "https://github.com/wyozi",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
