@@ -145,8 +145,6 @@ by 5-20%, which would be their cut of the hourly rate. This means that, with one
 * Check [the Hub](https://thehub.io/jobs?positionTypes=5b8e46b3853f039706b6ea75&countryCode=FI) for freelance job types.
 
 **List of organizations you can introduce yourself to**:
-* [Business Finland](https://www.businessfinland.fi/en/for-finnish-customers/contact/customer-service) is a governmental organization whose main purpose is to help Finnish companies.
-A lot of those companies are startups who need software developers. By introducing yourself and your services to a Business Finland advisor, they may be able to connect you with potential startups.
 * [NewCo Helsinki](https://newcohelsinki.fi/en/startup-services/) is a governmental organization which is focused on helping companies in Helsinki:
 
   > When problems come up, we are here to help you right away. Please contact us at startup@hel.fi and stop by!
