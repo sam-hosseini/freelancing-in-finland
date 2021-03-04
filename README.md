@@ -840,7 +840,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 Now that you've reached the end, I can tell you that I wrote this guide **with both selfish and selfless reasons**.
 
 * Selfish reasons:
-  * **I wanted to make money**. I didn't know [how to make money](https://github.com/sam-hosseini/freelancing-in-finland/issues/26) from this guide when I launched it 😄
+  * **I wanted to make money**. I didn't know how to make money from this guide when I launched it 😄
 and it took ~1 year before I managed to sign the first sponsorship deal. Patience was key 🔑
 
   * In 2021, I'd be working full-time on my own products, the first of which would be to expand this guide into a website.
