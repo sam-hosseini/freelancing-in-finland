@@ -1,8 +1,0 @@
-repos:
-
-- repo: local
-  hooks:
-    - id: test
-      name: Generate table of contents and contributors list
-      entry: make test
-      language: system
