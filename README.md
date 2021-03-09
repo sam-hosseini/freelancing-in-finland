@@ -178,7 +178,7 @@ You can use [My Enterprise Finland](https://oma.yrityssuomi.fi/#) and complete t
 draw up your business plan which includes all necessary financial calculations as well.
 
 * Once you have your business plan ready, as an **optional** step, you can send an email with your business plan attached to the
-[Enterprise Agency in your city](https://www.uusyrityskeskus.fi/yritysneuvonta/uusyrityskeskukset/) and ask them for an appointment with a _Business Advisor_.
+[Enterprise Agency in your city](https://uusyrityskeskus.fi/apua-yrittajyyteen/alueelliset-keskukset/) and ask them for an appointment with a _Business Advisor_.
 In Helsinki, [_NewCo Helsinki_](https://newcohelsinki.fi/en/) is the Enterprise Agency to go to. Although it is not mandatory to go to this appointment for getting startup grant,
 the _Business Advisor_ has seen hundreds of business plans and can guide you to correct your mistakes in the business plan and therefore increase your chances for a successful application.
 
@@ -664,7 +664,7 @@ you see that the market price is ~500€ nowadays, that's a *fair market value*.
 
 ### Offer yourself benefits that you like
 
-**Source of truth**: [Tax Administration](https://www.vero.fi/en/detailed-guidance/decisions/47380/in-kind-benefits-fringe-benefits-2020/)
+**Source of truth**: [Tax Administration](https://www.vero.fi/en/detailed-guidance/decisions/47380/in-kind-benefits-fringe-benefits-2021/)
 
 **What is it?** You can offer yourself all the benefits `employees` have access to as a `self-employed` person. Up to the tax-free limits, it'll be only a business cost.
 
@@ -716,7 +716,7 @@ if you go ahead and use it all within that calendar year, you must report it and
 * You must add 24% VAT to the total amount you're charging them for your freelance services.
 * You can, however, use [**reverse-charge mechanism**](https://quaderno.io/blog/how-does-the-reverse-charge-mechanism-work/) and not add VAT only when you're **invoicing a company** residing within EU. To do it:
     * You must state the EU company's VAT ID in your invoice.
-    * You must ensure that your EU company's VAT is valid by [checking it in VIES](http://ec.europa.eu/taxation_customs/vies/?locale=en)
+    * You must ensure that your EU company's VAT is valid by [checking it in VIES](https://ec.europa.eu/taxation_customs/vies/?locale=en)
     * You must mention the VAT rate and exactly how much VAT is to be accounted for by the EU company for VAT purposes and the fact that this responsibility is left for the EU company.
     * You must mention the exact **`reverse-charge mechanism`** words in your invoice.
     * *`reverse-charge mechanism`* works in the other way around too. In some checkout pages, the seller asks for your VAT ID to remove the VAT amount from your purchase invoice.
@@ -736,7 +736,7 @@ However, an overview of fundamentals can be illustrated.
 [limited liability company taxation fundamentals image]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/main/images/limited_liability_taxation.png
 [limited liability company taxation fundamentals link]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/main/images/limited_liability_taxation.png
 
-\* Taken from page 86 of [Finnish Enterprise Agencies guide to becoming an Entrepreneur in Finland - 2020](https://www.uusyrityskeskus.fi/wp-content/uploads/2020/04/SUK_GUIDE_2020_eng_verkkoon_linkit-1.pdf)
+\* Taken from page 73 of [Finnish Enterprise Agencies guide to becoming an Entrepreneur in Finland - 2021](https://uusyrityskeskus.fi/wp-content/uploads/2021/02/Perustamisopas_2021_EN.pdf)
 
 ### Ensure that your obligations are fulfilled continuously
 
@@ -784,7 +784,7 @@ Calculators:
 
 Guides:
 * [Suomi.fi](https://www.suomi.fi/company/)
-* [Finnish Enterprise Agencies guide to becoming an Entrepreneur in Finland - 2020](https://www.uusyrityskeskus.fi/wp-content/uploads/2020/04/SUK_GUIDE_2020_eng_verkkoon_linkit-1.pdf)
+* [Finnish Enterprise Agencies guide to becoming an Entrepreneur in Finland - 2021](https://uusyrityskeskus.fi/wp-content/uploads/2021/02/Perustamisopas_2021_EN.pdf)
 * [Capital taxation of individuals in Finland - 2015](https://www.porssisaatio.fi/wp-content/uploads/2015/08/vero_opas_2015_eng_final_web.pdf)
 
 Governmental organizations to provide support for you:
@@ -829,8 +829,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 ## Final words
 
