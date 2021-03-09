@@ -835,12 +835,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 Now that you've reached the end, I can tell you that I wrote this guide **with both selfish and selfless reasons**.
 
 * Selfish reasons:
-  * **I wanted to make money**. I didn't know how to make money from this guide when I launched it 😄
-and it took ~1 year before I managed to sign the first sponsorship deal. Patience was key 🔑
+  * **I wanted to make money**, and I managed to do it with a sponsorship deal that lasted for 3 months 😊
+I'm happy that I've reached this goal and I won't be looking for sponsorship deals anymore.
 
-  * In 2021, I'd be working full-time on my own products, the first of which would be to expand this guide into a website.
-If you're interested to hear about that and follow my journey,
-you can [follow me on twitter](https://twitter.com/sam_hosseini_) 🐦
+  * **I wanted to get more twitter followers**, and +100 people did [follow me](https://twitter.com/sam_hosseini_) because of this guide 😊
+That's more than I could have asked for. Many thanks to each and every one of you 🙌🏼
 
 * Selfless reasons:
   * Software developers and the community are extremely generous and having been mostly *taking*, I wanted to give back as well.
