@@ -145,7 +145,7 @@ It took me ~6 months from the time I got into the networks to find my first proj
 
 **Steps**:
 * Once you find the right project, check the terms and conditions of the client's contract and run it by a lawyer if you have that available to you either through a union or elsewhere.
-    * If your client doesn't have a contract and asks you instead for one, you can take a look at a [simple contract template](https://github.com/sam-hosseini/freelancing-in-finland/blob/master/contract-templates/Resource-Hiring-Agreement.docx)
+    * If your client doesn't have a contract and asks you instead for one, you can take a look at a [simple contract template](https://github.com/sam-hosseini/freelancing-in-finland/blob/main/templates/resource_hiring_agreement.docx)
     for the target audience of this guide and **change its content based on your circumstances**.
 * If you're planning to [apply for startup grant](#apply-for-startup-grant), before you sign any contract, ask them to give you two weeks so that you can apply for startup grant and receive a decision.
 Even though the official estimation is 2 weeks, decision comes much faster in reality (2-4 working days). Once you receive the decision, you can proceed.
