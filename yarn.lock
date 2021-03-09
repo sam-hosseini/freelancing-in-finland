@@ -444,7 +444,7 @@ markdown-link@^0.1.1:
   resolved "https://registry.yarnpkg.com/markdown-link/-/markdown-link-0.1.1.tgz#32c5c65199a6457316322d1e4229d13407c8c7cf"
   integrity sha1-MsXGUZmmRXMWMi0eQinRNAfIx88=
 
-markdown-toc@^1.2.0:
+markdown-toc@1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/markdown-toc/-/markdown-toc-1.2.0.tgz#44a15606844490314afc0444483f9e7b1122c339"
   integrity sha512-eOsq7EGd3asV0oBfmyqngeEIhrbkc7XVP63OwcJBIhH2EpG2PzFcbZdhy1jutXSlRBBVMNXHvMtSr5LAxSUvUg==
