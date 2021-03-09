@@ -1,11 +1,7 @@
-# Configuration for probot-stale - https://github.com/probot/stale
-
 daysUntilStale: 5
 daysUntilClose: 2
 
 staleLabel: inactive
-exemptLabels:
-  - pinned
 
 markComment: >
   This PR has been automatically marked as stale because it has not had
