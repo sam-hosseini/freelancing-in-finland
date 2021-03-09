@@ -36,7 +36,6 @@ The ultimate resource for transitioning to freelancing for software developers ð
 
 <!-- tocstop -->
 
-
 ## Introduction
 
 ### What problem will you face without this guide?
