@@ -36,6 +36,19 @@ The ultimate resource for transitioning to freelancing for software developers ð
 
 <!-- tocstop -->
 
+---
+
+[![Sharbel banner][Sharbel image]][Sharbel link]
+
+[Sharbel image]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/main/images/sharbel.gif
+[Sharbel link]:  https://github.com/sharbeldahlan
+
+**Sharbel is one of my best friends** and he's looking to bootstrap his freelancing career.
+
+Until he reaches his goal, this banner stays here ðŸ˜Š
+
+---
+
 ## Introduction
 
 ### What problem will you face without this guide?
