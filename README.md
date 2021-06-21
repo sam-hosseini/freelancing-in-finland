@@ -640,6 +640,24 @@ Comparison of health insurance providers:
 * Contact the insurance provider you chose and get a quote for your specific health insurance package.
 * Be ready to answer basic questions about your business like your estimated annual revenue, your `YEL income`, main line of business and many more.
 
+### Consider getting dental care plan
+
+**Source of truth**: [Tax Administration](https://www.vero.fi/en/)
+
+**What is it?**: An employer can offer an dental care plan to their employees. The dental checks and/or proceduers have to be non-estethical, related to the employees health, and reasonable to be tax-deductible. [More details in finnish](https://www.vero.fi/syventavat-vero-ohjeet/ohje-hakusivu/62486/henkil%C3%B6kuntaedut-verotuksessa4/) (3.2.5.3 Hammashoito). You can decide the upper yearly limit of what the employee can use for dental care per year. Each employee has to have the same sum on the contract, but by being self-employed you can set the limit to what you want. Usual yearly dental care contracts range from 150€ to 3000€ per year. You will also have to decide if you pay your check/procedures yourself personally and return them to yourself from your company, or if the company pays for them directly.
+
+Some available dental care providers:
+
+* [Mehiläinen](https://www.mehilainen.fi/en/companies/occupational-dental-care)
+* [Oral](https://www.oral.fi/en/information/information-for-fustomers/occupational-dental-care/)
+
+**Steps**:
+
+* Contact the dental care provider and ask for an offer/contract for your company
+* Sign the contract and provide details of the person (you) to be included in the plan
+* Book your checkups and/or procedures with your dentist
+* Either pay yourself or with your company and include the payments into your accounting.
+
 ### Consider selling your personal work-related tools to your company
 
 **Source of truth**: [Tax Administration](https://www.vero.fi/en/)
