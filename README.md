@@ -24,6 +24,7 @@ The ultimate resource for transitioning to freelancing for software developers �
   * [Consider joining a union](#consider-joining-a-union)
   * [Consider joining an unemployment fund](#consider-joining-an-unemployment-fund)
   * [Consider buying health insurance](#consider-buying-health-insurance)
+  * [Consider getting dental care plan](#consider-getting-dental-care-plan)
   * [Consider selling your personal work-related tools to your company](#consider-selling-your-personal-work-related-tools-to-your-company)
 * [Operation - what to do to **run** your company](#operation---what-to-do-to-run-your-company)
   * [Offer yourself benefits that you like](#offer-yourself-benefits-that-you-like)
@@ -644,7 +645,7 @@ Comparison of health insurance providers:
 
 **Source of truth**: [Tax Administration](https://www.vero.fi/en/)
 
-**What is it?**: An employer can offer an dental care plan to their employees. The dental checks and/or proceduers have to be non-estethical, related to the employees health, and reasonable to be tax-deductible. [More details in finnish](https://www.vero.fi/syventavat-vero-ohjeet/ohje-hakusivu/62486/henkil%C3%B6kuntaedut-verotuksessa4/) (3.2.5.3 Hammashoito). You can decide the upper yearly limit of what the employee can use for dental care per year. Each employee has to have the same sum on the contract, but by being self-employed you can set the limit to what you want. Usual yearly dental care contracts range from 150€ to 3000€ per year. You will also have to decide if you pay your check/procedures yourself personally and return them to yourself from your company, or if the company pays for them directly.
+**What is it?** An employer can offer an dental care plan to their employees. The dental checks and/or proceduers have to be non-estethical, related to the employees health, and reasonable to be tax-deductible. More details in [section 3.2.5.3 Hammashoito](https://www.vero.fi/syventavat-vero-ohjeet/ohje-hakusivu/62486/henkil%C3%B6kuntaedut-verotuksessa4/). You can decide the upper yearly limit of what the employees can use for dental care per year. Each employee has to have the same sum on the contract, but by being `self-employed`, you can set the limit to what you want. Usual yearly dental care contracts range from 150€ to 3000€ per year. You will also have to decide if you pay your check/procedures yourself personally and return them to yourself from your company, or if the company pays for them directly.
 
 Some available dental care providers:
 
@@ -653,9 +654,9 @@ Some available dental care providers:
 
 **Steps**:
 
-* Contact the dental care provider and ask for an offer/contract for your company
-* Sign the contract and provide details of the person (you) to be included in the plan
-* Book your checkups and/or procedures with your dentist
+* Contact the dental care provider and ask for an offer/contract for your company.
+* Sign the contract and provide details of the person (you) to be included in the plan.
+* Book your checkups and/or procedures with your dental care provider's dentist.
 * Either pay yourself or with your company and include the payments into your accounting.
 
 ### Consider selling your personal work-related tools to your company
