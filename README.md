@@ -734,6 +734,8 @@ if you go ahead and use it all within that calendar year, you must report it and
 
 ### Send your invoices carefully
 
+**Source of truth**: [Tax Administration](https://www.vero.fi/en/)
+
 **In general**:
 
 * When invoicing individuals, at the very minimum you should include their full name and address in the invoice.
@@ -748,9 +750,9 @@ if you go ahead and use it all within that calendar year, you must report it and
 * You must add 24% VAT to the total amount you're charging them for your freelance services.
 * You can, however, use [**reverse-charge mechanism**](https://quaderno.io/blog/how-does-the-reverse-charge-mechanism-work/) and not add VAT only when you're **invoicing a company** residing within EU. To do it:
     * You must state the EU company's VAT ID in your invoice.
-    * You must ensure that your EU company's VAT is valid by [checking it in VIES](https://ec.europa.eu/taxation_customs/vies/?locale=en)
+    * You must ensure that your EU company's VAT ID is valid by [checking it in VIES](https://ec.europa.eu/taxation_customs/vies/?locale=en)
     * You must mention the VAT rate and exactly how much VAT is to be accounted for by the EU company for VAT purposes and the fact that this responsibility is left for the EU company.
-    * You must mention the exact **`reverse-charge mechanism`** words in your invoice.
+    * You must mention the exact **`Reverse-Charge`** words in your invoice.
     * *`reverse-charge mechanism`* works in the other way around too. In some checkout pages, the seller asks for your VAT ID to remove the VAT amount from your purchase invoice.
  Without this mechanism, the seller could not do that.
 
