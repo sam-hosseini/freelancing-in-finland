@@ -752,11 +752,9 @@ if you go ahead and use it all within that calendar year, you must report it and
     * You must state the EU company's VAT ID in your invoice.
     * You must ensure that your EU company's VAT ID is valid by [checking it in VIES](https://ec.europa.eu/taxation_customs/vies/?locale=en)
     * You must mention the exact **`Reverse Charge`** words in your invoice.
-    * You must state that VAT is to be accounted for by the EU company. You can refer to [Article 196 of Council Directive 2006/112/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32006L0112&from=EN#d1e6036-1-1).
-    * You must *not* mention the VAT rate or how much VAT is to be accounted for by the EU company. If you do, you may have to provide a corrected invoice with reference to the previous faulty invoice. If the invoice shows a VAT rate of 0%, a new invoice may not be required.
+    * You must state that VAT is to be accounted for by the EU company. However, you must **not** mention the VAT rate **nor** the VAT amount to be accounted for by the EU company. This is explained in details in sections 6.1.9 and 6.1.10 of [VAT invoice requirements](https://www.vero.fi/en/detailed-guidance/guidance/48090/vat-invoice-requirements2).
     * *`reverse-charge mechanism`* works in the other way around too. In some checkout pages, the seller asks for your VAT ID to remove the VAT amount from your purchase invoice.
  Without this mechanism, the seller could not do that.
-    * For more information, see the pertinent [Finnish Tax Administration instructions](https://www.vero.fi/en/detailed-guidance/guidance/48090/vat-invoice-requirements2/#6-information-shown-on-an-invoice) (in particular, Sections 6.1.9 and 6.1.10).
 
 ### Take out money from your company in the most tax optimal way
 
