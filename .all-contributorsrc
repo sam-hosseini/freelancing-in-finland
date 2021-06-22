@@ -164,6 +164,22 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "jasaarim",
+      "name": "jasaarim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3259169?v=4",
+      "profile": "https://github.com/jasaarim",
+      "contributions": [
+        "doc"
+      ]
     }
-  ]
+  ],
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "files": [
+    "README.md"
+  ],
+  "contributorsPerLine": 7
 }
