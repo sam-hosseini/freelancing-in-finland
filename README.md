@@ -325,6 +325,7 @@ You can join later, once and if you start employing others.
 This would prevent scammers calling you and selling you a "service", in which you might say "Ok, yes, that's fine" to get rid of them, and they'd start sending you invoices which you have to jump over dozens of
 obstacles to remove yourself from the so called "service" they offered you. They can do that because in Finland, verbal agreement is as binding as writing, which the scammers take advantage of inappropriately.
   * You can also give power of attorney in Business Information System to an accountant so that they can establish the company on your behalf.
+  * Some accounting companies (see section below) will set up the company for you, for an additional fee. This can save you time and also avoid some basic errors such as having too few shares or choosing an inappropriate fiscal year end date. These are expensive to change later.
 
 * Once your company is established, you must file a *notification* of beneficial owners in [Business Information System](https://asiointi.ytj.fi/ytjap)
     * The only [*beneficial owner*](https://www.prh.fi/en/kaupparekisteri/beneficial_owner_details.html) will be you (natural person) since you're the only owner of the company.
