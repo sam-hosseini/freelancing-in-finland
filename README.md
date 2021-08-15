@@ -324,10 +324,11 @@ To avoid this busy season, you can choose a fiscal year that ends well before (S
 You can join later, once and if you start employing others.
 
 * Establish your company online by filing a *startup notification* at [Business Information System](https://asiointi.ytj.fi/ytjap) (only available in Finnish)
+  * I recommend doing this step together with an accountant. It's faster, easier and ensures that the choices you have made from the steps above makes sense in your very particular case and your potential ambitions for the near-future of your company.
+  * Alternatively, you can give power of attorney in Business Information System to an accountant so that they can establish the company on your behalf.
   * Do not add your email, phone number, or any other information in the public information section of the *startup notification* application.
 This would prevent scammers calling you and selling you a "service", in which you might say "Ok, yes, that's fine" to get rid of them, and they'd start sending you invoices which you have to jump over dozens of
 obstacles to remove yourself from the so called "service" they offered you. They can do that because in Finland, verbal agreement is as binding as writing, which the scammers take advantage of inappropriately.
-  * You can also give power of attorney in Business Information System to an accountant so that they can establish the company on your behalf.
 
 * Once your company is established, you must file a *notification* of beneficial owners in [Business Information System](https://asiointi.ytj.fi/ytjap)
     * The only [*beneficial owner*](https://www.prh.fi/en/kaupparekisteri/beneficial_owner_details.html) will be you (natural person) since you're the only owner of the company.
