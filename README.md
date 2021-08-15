@@ -305,6 +305,9 @@ that you feel is most relevant.
   * A lot of companies have their fiscal year the same as `calendar` year and this makes accounting offices really busy during the turn of the year.
 To avoid this busy season, you can choose a fiscal year that ends well before (September) or after (April) the turn of the year.
 
+* Choose your company's number of shares.
+  * I recommend 1000 shares for the target audience of this guide. That's what I chose for my own company as well.
+
 * Get another person's consent to be your *Deputy Member of the Board of Directors*.
   * According to [Limited Liability Companies Act](https://www.finlex.fi/en/laki/kaannokset/2006/en20060624.pdf) in Chapter 6, Section 8.1:
     > There  shall  be  between  one  and  five  regular  Members  of  the  Board  of Directors, unless it is otherwise provided in the Articles of Association. If there are  fewer  than  three  Members,  there  shall be  at  least one  Deputy  Member of the Board of Directors.
