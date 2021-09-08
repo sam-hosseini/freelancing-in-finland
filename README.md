@@ -861,6 +861,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/vladwalross"><img src="https://avatars.githubusercontent.com/u/11561727?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vladimir Urbano</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=vladwalross" title="Documentation">📖</a> <a href="https://github.com/sam-hosseini/freelancing-in-finland/issues?q=author%3Avladwalross" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://github.com/wyozi"><img src="https://avatars.githubusercontent.com/u/4894573?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Joonas</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=wyozi" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/jasaarim"><img src="https://avatars.githubusercontent.com/u/3259169?v=4?s=100" width="100px;" alt=""/><br /><sub><b>jasaarim</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=jasaarim" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://perlun.eu.org"><img src="https://avatars.githubusercontent.com/u/630613?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Per Lundberg</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=perlun" title="Documentation">📖</a></td>
   </tr>
 </table>
 
