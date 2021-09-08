@@ -208,7 +208,7 @@ This proof doesn't have to be official. I personally printed a pdf from my netba
 In addition, when applying for startup grant payments later once startup grant is granted, the salary you've taken from your own company does not affect the
 payment application negatively either.
 
-* Apply for startup grant [electronically](https://asiointi.mol.fi/omaasiointi/?kieli=fi) (only available in Finnish)
+* Apply for startup grant [electronically](https://asiointi.mol.fi/omaasiointi/?kieli=fi) (only available in Finnish and Swedish)
 and you will get an electronic decision within 2 weeks (official estimation). Official decision letter should arrive by post soon after the decision is served (~1 week).
 
 **Steps** for application extension:
@@ -230,7 +230,7 @@ and you will get an electronic decision within 2 weeks (official estimation). Of
     * TE-services will consider whether the business has started more or less according to the original business plan.
     * TE-services will consider whether the already acquired income is enough to support the entrepreneur.
 
-* Apply for the grant extension [electronically](https://asiointi.mol.fi/omaasiointi/?kieli=fi) (only available in Finnish)
+* Apply for the grant extension [electronically](https://asiointi.mol.fi/omaasiointi/?kieli=fi) (only available in Finnish and Swedish)
 and you will get an electronic decision within 2-4 weeks. Official decision letter should arrive by post soon after the decision is served (~1 week).
 
 ### Quit your job
@@ -323,7 +323,7 @@ To avoid this busy season, you can choose a fiscal year that ends well before (S
   * Employer register ❌, because you don't need it if you're not employing anyone else. The fact that you're employing yourself is irrelevant as you're considered `self-employed`, not an `employee`.
 You can join later, once and if you start employing others.
 
-* Establish your company online by filing a *startup notification* at [Business Information System](https://asiointi.ytj.fi/ytjap) (only available in Finnish)
+* Establish your company online by filing a *startup notification* at [Business Information System](https://asiointi.ytj.fi/ytjap) (only available in Finnish and Swedish)
   * I recommend doing this step together with an accountant. It's faster, easier and ensures that the choices you have made from the steps above makes sense in your very particular case and your potential ambitions for the near-future of your company.
   * Alternatively, you can give power of attorney in Business Information System to an accountant so that they can establish the company on your behalf.
   * Do not add your email, phone number, or any other information in the public information section of the *startup notification* application.
@@ -375,7 +375,7 @@ general housing allowance is ~410€ per month, tax free, for a studio in Helsin
 
 **Steps**:
 
-* Apply for general housing allowance [electronically](https://asiointi.kela.fi/go_app) (only available in Finnish).
+* Apply for general housing allowance [electronically](https://asiointi.kela.fi/go_app) (only available in Finnish and Swedish).
 * Mention in application that you have received a positive decision to your startup grant application and you have quit your job.
 * Attach your startup grant official decision letter which has come via post to the application.
 * Attach your employment certificate which mentions the final date of your employment to the application.
