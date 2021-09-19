@@ -182,6 +182,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "omidmaldar",
+      "name": "Omid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9104489?v=4",
+      "profile": "https://omidmaldar.github.io/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
