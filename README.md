@@ -454,7 +454,7 @@ will sell you one without YEL. Because *YEL is the foundation* and a private hea
 * `YEL income`:
   * Has absolutely nothing to do with your real world income (salary, benefits, dividends, etc).
   * Is how much ***coverage*** in social security you would like to have.
-  * You have the freedom to choose between ~8,000€ up to ~180,000€ per year.
+  * You have the freedom to choose between 8,063.57€ up to 183,125€ per year.
 * `YEL contribution`:
   * Is how much you **pay** for your ***coverage***.
   * Is ~19% of your `YEL income`, which means you pay ~125€ up to ~2,820€ per month as a business cost.
@@ -469,7 +469,7 @@ Minimum YEL                |  Maximum YEL
 [maximum YEL image]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/main/images/maximum_YEL.png
 [maximum YEL link]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/main/images/maximum_YEL.png
 
-\* Taken from [Varma.fi YEL calculator](https://www.varma.fi/en/entrepreneur/entrepreneurs-calculator/)
+\* Taken from [Varma.fi YEL calculator for the Self-Employed](https://www.varma.fi/en/self-employed/yel-insurance/yel-calculator/)
 
 **Steps**:
 
