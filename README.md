@@ -86,7 +86,7 @@ you don't need to apply for another permit.
 **If you're a non-EU citizen**, depending on your current permit, you may need to apply for another permit.
 
 * If you have a permanent residence permit, you don't need to apply for another permit.
-* If you have a permit of type A or B, you can establish your limited liability company without applying for a new residence permit. This is because under the Aliens Act, an entrepreneur who operates such companies is considered an `employee`.
+* If you have any other type of permit, please contact Migri to get specific advise for your case.
 
 ### Network with freelance brokers and organizations
 
