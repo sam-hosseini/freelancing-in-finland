@@ -626,7 +626,7 @@ Comparison of health insurance providers:
 | [OP - Comprehensive](https://www.op.fi/corporate-customers/insurance/personal-insurance/health-insurance) | ✅                                       | ❌                                                            | ✅                                            | ?                           | Need accident insurance (~200€ per year) |
 | [OP - Extra](https://www.op.fi/corporate-customers/insurance/personal-insurance/health-insurance) | ✅                                       | ✅                                                            | ✅                                            | ~350€ + 100€                | Need accident insurance (~200€ per year) |
 | [OP - Super](https://www.op.fi/corporate-customers/insurance/personal-insurance/health-insurance) | ✅                                       | ✅                                                            | ✅                                            | ~1,800€                      | Need accident insurance (~200€ per year) |
-| If                                                           | ❌                                       | ?                                                            | ?                                            | ?                           |                                          |
+| If                                                           | ❌                                       | ✅                                                            | ✅                                            | ~ 153€ + 30€ per visit                           |                                          |
 
 **Steps**:
 
