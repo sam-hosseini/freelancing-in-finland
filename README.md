@@ -245,7 +245,7 @@ to become fully aware of its implications.
 
 **TL;DR of video**: Working under your own name as a private trader (toiminimi) gives you **unlimited** liability and all your personal assets like your home, car, and
 personal savings are up for grabs if worst happens.
-In case of a limited liability company, the liability is *limited* and the company can declare bankruptcy if worst
+In case of a limited liability company, the liability is *limited*, in the absence of intentional fraud, and the company can declare bankruptcy if worst
 happens, and your personal assets are immune from the liability of the company.
 
 
