@@ -404,6 +404,10 @@ a few transactions a month.
 and all your company's tax obligations is on **you**, and <ins>when the law comes to you</ins> in the form of random tax inspections carried out by Tax Administration, having had a
 good accountant who have corrected your mistakes and fulfilled your company's tax obligations on time, every month, could prevent potential complications with Tax Administration.
 
+In addition to that, your accountant can help you do legal tax planning.
+Tax planning means using legal mechanisms to reduce the total tax liability of your company.
+Your accountant has the best understanding of your company and is in the best position to advise you on taxation matters.
+
 **How much?** Varies. Accountants will either charge you hourly or a fixed price, which is based on their estimation of how much time they'll spend per month on your business.
 A freelancing company for the target audience of this guide with no other activities will take at least an hour or two of their time,
 and if we take a 75€/hour rate, you should expect to pay at least 75-150€ per month.
