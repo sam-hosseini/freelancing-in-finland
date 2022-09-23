@@ -295,7 +295,7 @@ that you feel is most relevant.
 To avoid this busy season, you can choose a fiscal year that ends well before (September) or after (April) the turn of the year.
 
 * Choose your company's number of shares.
-  * I recommend 1000 shares for the target audience of this guide. That's what I chose for my own company as well.
+  * I recommend 10,000 shares for the target audience of this guide based on my own accountant's advice.
 
 * Get another person's consent to be your *Deputy Member of the Board of Directors*.
   * According to [Limited Liability Companies Act](https://www.finlex.fi/en/laki/kaannokset/2006/en20060624.pdf) in Chapter 6, Section 8.1:
