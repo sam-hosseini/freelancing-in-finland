@@ -249,9 +249,9 @@ In case of a limited liability company, the liability is *limited*, in the absen
 happens, and your personal assets are immune from the liability of the company.
 
 
-**How much?** ~275€ for online registration. It's a business cost. Later,
+**How much?** ~240€ for online registration. It's a business cost. Later,
 when your company is registered and accounting and bank account are setup,
-you can claim this ~275€ back from the company as you paid this money from your *personal* bank account even though it was a *business* cost.
+you can claim this ~240€ back from the company as you paid this money from your *personal* bank account even though it was a *business* cost.
 
 **What is the role of Business Information System?**
 
