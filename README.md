@@ -400,9 +400,11 @@ a few transactions a month.
 
 ### Find an accountant
 
-**What is it?** Having an accountant is <ins>not mandatory by law</ins>. However, as the CEO of your company, the ultimate and final responsibility for correctness of your books
-and all your company's tax obligations is on **you**, and <ins>when the law comes to you</ins> in the form of random tax inspections carried out by Tax Administration, having had a
-good accountant who have corrected your mistakes and fulfilled your company's tax obligations on time, every month, could prevent potential complications with Tax Administration.
+**What is it?** Having an accountant <ins>isn't mandatory by law</ins>.
+Having an accountant doesn't mean <ins>you can hide behind them</ins> in tax inspections by the Tax Administration.
+As the CEO of your company, the ultimate and absolute responsibility for having everything related to your company correct is **on you and only you**.
+That is why it's important to have a reliable accountant who can correct your mistakes and fulfill your company's obligations on your behalf.
+Because <ins>when the law comes to you</ins> in the form of random tax inspections, you can't go back in time and fix your mistakes.
 
 In addition to that, your accountant can help you do legal tax planning.
 Tax planning means using legal mechanisms to reduce the total tax liability of your company.
