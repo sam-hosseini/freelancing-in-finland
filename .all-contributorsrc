@@ -200,6 +200,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "IO89",
+      "name": "Ivan Osipov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29254484?v=4",
+      "profile": "https://io89.github.io/markdown-cv/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
@@ -208,5 +217,6 @@
   "files": [
     "README.md"
   ],
-  "contributorsPerLine": 7
+  "contributorsPerLine": 7,
+  "commitConvention": "angular"
 }
