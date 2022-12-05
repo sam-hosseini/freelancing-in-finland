@@ -512,15 +512,15 @@ Minimum YEL                |  Maximum YEL
 **What is it?** As a `self-employed` person, your payslip is going to be different than what you used to have as
 an `employee` and practically speaking, you only pay `income tax` and nothing else.
 
-**How is the payslip for an `employee`?** Imagine a basic example, in which an `employee` receives 1,000€ salary, and her/his tax card says their tax is 20%.
+**How is the payslip for an `employee`?** Imagine a basic example, in which an `employee` receives 1,000€ salary, and her/his tax card says their tax is 35%.
 
 From the `employee`'s perspective:
 
-1. The employer withholds 20% of 1,000€ as `income tax` => 200€
+1. The employer withholds 35% of 1,000€ as `income tax` => 350€
 2. The employer withholds 7.15% of 1,000€ as `TyEL pension insurance contribution` => 71.5€
 3. The employer withholds 1.50% of 1,000€ as `unemployment insurance contribution` => 15.0€
-4. The employer pays withheld amount of 286.5€ to Tax Administration and other insurance providers.
-5. The *employee* receives the rest which is 713.5€.
+4. The employer pays withheld amount of 436.5€ to Tax Administration and other insurance providers.
+5. The *employee* receives the rest which is 563.5€.
 
 From the `employer`'s perspective:
 
@@ -531,13 +531,13 @@ From the `employer`'s perspective:
 5. The employer has to pay 1.53% of 1,000€ as `Employers’ health insurance contribution` => 15.3€
 6. The employer pays ~210€ to Tax Administration and other insurance providers.
 
-**How is the payslip for a `self-employed`?** Imagine a basic example, in which a `self-employed` person receives 1,000€ salary from their own company, and her/his tax card says their tax is 20%.
+**How is the payslip for a `self-employed`?** Imagine a basic example, in which a `self-employed` person receives 1,000€ salary from their own company, and her/his tax card says their tax is 35%.
 
 From the `self-employed`'s perspective:
 
-1. Their company withholds 20% of 1,000€ as `income tax` => 200€
-2. Their company pays withheld amount of 200€ to Tax Administration.
-3. The *self-employed* receives the rest which is 800€.
+1. Their company withholds 35% of 1,000€ as `income tax` => 350€
+2. Their company pays withheld amount of 350€ to Tax Administration.
+3. The *self-employed* receives the rest which is 650€.
 
 From the company's perspective:
 
@@ -750,7 +750,7 @@ Therefore, in March, your salary must be 2.22€. When you deduct your 10% tax f
 **Should you offer yourself benefits above the tax-free limit?** You can but it will be similar to taking salary in case of a `self-employed` person.
 
 As seen in [understanding your new personal taxation situation](#understand-your-new-personal-taxation-situation), the `self-employed` only pay `income tax` on their income and nothing else.
-So if you offer yourself 1,000€ salary and your tax rate is 20%, you get 800€. If you offer yourself 1,000€ as benefit, you will also get 800€.
+So if you offer yourself 1,000€ salary and your tax rate is 35%, you get 650€. If you offer yourself 1,000€ as benefit, you will also get 650€.
 
 **Who ensures that you do not go above the tax-free limit?** Your company, the `legal entity`, must ensure that its owner, you as the `natural person`, is not offered benefits above the tax-free
 limits, because if you are offered, it must be reported and taxed. This is important, because you as the representative of the company can order even 10,000€ of Sport and cultural benefit, but
