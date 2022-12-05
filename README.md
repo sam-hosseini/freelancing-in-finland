@@ -518,9 +518,9 @@ From the `employee`'s perspective:
 
 1. The employer withholds 20% of 1,000€ as `income tax` => 200€
 2. The employer withholds 7.15% of 1,000€ as `TyEL pension insurance contribution` => 71.5€
-3. The employer withholds 1.25% of 1,000€ as `unemployment insurance contribution` => 12.5€
-4. The employer pays withheld amount of 284€ to Tax Administration and other insurance providers.
-5. The *employee* receives the rest which is 716€.
+3. The employer withholds 1.50% of 1,000€ as `unemployment insurance contribution` => 15.0€
+4. The employer pays withheld amount of 286.5€ to Tax Administration and other insurance providers.
+5. The *employee* receives the rest which is 713.5€.
 
 From the `employer`'s perspective:
 
