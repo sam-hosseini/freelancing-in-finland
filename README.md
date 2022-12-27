@@ -145,6 +145,7 @@ by 5-20%, which would be their cut of the hourly rate. This means that, with one
 * Fika ☕️ with [Finitec](https://finitec.fi/) and get into their network.
 * Fika ☕️ with [Siili One](https://one.siili.com) and get into their network.
 * Fika ☕️ with [HiQ](https://hiq.fi/en/subcontracting/) and get into their network.
+* Fika ☕️ with [7n](https://www.7n.com/become-a-7n-consultant/) and get into their network.
 * Register a profile with [Verama](https://verama.com/) to be able to apply to their projects.
 * Register a profile with [Digia Hub](https://digiahub.com) to be able to apply to their projects.
 * Drop [Toughbyte](https://www.toughbyte.com/) a line.
