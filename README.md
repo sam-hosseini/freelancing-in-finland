@@ -151,6 +151,7 @@ by 5-20%, which would be their cut of the hourly rate. This means that, with one
 * Drop [Toughbyte](https://www.toughbyte.com/) a line.
 * Look into [Harnham](https://www.harnham.com/jobs?options=1122,261&page=1) `contract` positions in `nordics`.
 * Apply for an account at [Tingent](https://tingent.inkopio.se/vms/register?action=register) to see their remote gigs in Sweden.
+* Register to [Vahvistus.fi](https://vahvistus.fi/), a network run by Sysart.
 
 **List of aggregate sites**:
 * Create a [job search alert](https://www.linkedin.com/jobs/) on LinkedIn with:
