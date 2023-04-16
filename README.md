@@ -115,7 +115,7 @@ However, the ranges above are for direct company-to-client sales. If you get con
 by 5-20%, which would be their cut of the hourly rate. This means that, with one intermediary company, you're looking at 65-105€ per hour in non-extraordinary situations.
 
 **List of brokers**:
-* Apply for [Talented](https://talented.fi/en/independent-contractor/) membership to get into their projects, events and Slack community.
+* Fika ☕️ with [Witted](https://witted.com/for-talents/witted-partners) and get into their network.
 * Fika ☕️ with [Thriv](https://www.thriv.dev/) and get into their Slack.
 * Fika ☕️ with [Finitec](https://finitec.fi/) and get into their network.
 * Fika ☕️ with [Siili One](https://one.siili.com) and get into their network.
