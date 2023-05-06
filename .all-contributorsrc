@@ -227,6 +227,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "Kylmakalle",
+      "name": "Sergey Akentev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24507532?v=4",
+      "profile": "http://akentev.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
