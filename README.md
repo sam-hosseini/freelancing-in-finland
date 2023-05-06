@@ -274,7 +274,7 @@ you'll update your company's information in Business Information System if there
 
 * If you're still on your notice period from the time [you quit your job](#quit-your-job):
     * Get a written permission from your `employer` that it's OK for you to establish your company.
-    * This is because starting a company in the same line of business as your `employer` [might be in violation of your non-competition agreement](https://www.tek.fi/en/services/legal-consulting/legal-data-bank/competing-activities-and-non-competition-agreements).
+    * This is because starting a company in the same line of business as your `employer` might be in violation of your non-competition agreement.
 
 * Choose a company name.
   * Search for your chosen name in [Name Checking Service for Companies](https://nimipalvelu.prh.fi/nipa/en)
