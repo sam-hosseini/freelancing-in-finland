@@ -236,6 +236,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "envil",
+      "name": "Viet Ta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/775364?v=4",
+      "profile": "https://www.linkedin.com/in/vietqt/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
