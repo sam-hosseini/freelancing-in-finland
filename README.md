@@ -450,11 +450,13 @@ will sell you one without YEL. Because *YEL is the foundation* and a private hea
 
 * `YEL income`:
   * Has absolutely nothing to do with your real world income (salary, benefits, dividends, etc).
-  * Is how much ***coverage*** in social security you would like to have.
-  * You have the freedom to choose between 8,063.57€ up to 183,125€ per year.
+  * Is how much ***coverage*** you will have in social security benefits.
+  * Has a <ins>**minimum**</ins> of ~8,600€ and a <ins>**maximum**</ins> of ~194,500€ per year.
+  * Before 2023, you had complete freedom to choose the minimum.
+  * From 2023, you must [estimate the correct level of YEL income](https://www.varma.fi/en/self-employed/yel-insurance/determination-of-yel-income/) and select it accordingly.
 * `YEL contribution`:
   * Is how much you **pay** for your ***coverage***.
-  * Is ~19% of your `YEL income`, which means you pay ~125€ up to ~2,820€ per month as a business cost.
+  * Is ~19% of your `YEL income`, which means you pay ~1,600€ up to ~36,200€ per year as a business cost.
 
 Minimum YEL                |  Maximum YEL
 :-------------------------:|:-------------------------:
@@ -466,15 +468,15 @@ Minimum YEL                |  Maximum YEL
 [maximum YEL image]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/main/images/maximum_YEL.png
 [maximum YEL link]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/main/images/maximum_YEL.png
 
-\* Taken from [Varma.fi YEL calculator for the Self-Employed](https://www.varma.fi/en/self-employed/yel-insurance/yel-calculator/)
+\* Taken from [Varma's YEL calculator](https://www.varma.fi/en/self-employed/yel-insurance/yel-calculator/)
 
 **Steps**:
 
 * You have 6 months from starting self-employment to buy YEL.
-    * If, however, your company has not had income equal to minimum `YEL income`, i.e. ~8,000€, you do not need to buy YEL yet.
+    * If, however, your company has not had income equal to minimum `YEL income`, i.e. ~8,600€, you do not need to buy YEL yet.
     * When your company gets income above the level of minimum `YEL income`, you'll have to buy YEL within the 6 months mentioned above.
-    * Even though you have 6 months to buy YEL, if e.g. you had to buy YEL from the 3rd month because that's when your company had more than ~8,000€ of income,
-      even if you buy YEL at the 5th month, you'll have to select the starting date of YEL to be from the 3rd month as that's the date when you were obligated to buy YEL anyway.
+    * Even though you have 6 months to buy YEL, if e.g. you had to buy YEL from the 3rd month because that's when your company had more than ~8,600€ of income,
+      even if you buy YEL in the 5th month, you'll have to select the starting date of YEL to be from the 3rd month as that's the date when you were obligated to buy YEL anyway.
 
 * Buy YEL from an YEL insurance provider:
   * [elo](https://www.elo.fi/?sc_lang=en)
