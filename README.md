@@ -454,6 +454,7 @@ will sell you one without YEL. Because *YEL is the foundation* and a private hea
   * Has a <ins>**minimum**</ins> of ~8,600€ and a <ins>**maximum**</ins> of ~194,500€ per year.
   * Before 2023, you had complete freedom to choose the minimum.
   * From 2023, you must [estimate the correct level of YEL income](https://www.varma.fi/en/self-employed/yel-insurance/determination-of-yel-income/) and select it accordingly.
+  * Note that unemployment law enforces a higher minimum `YEL income` if you wish to be part of an unemployment fund.
 * `YEL contribution`:
   * Is how much you **pay** for your ***coverage***.
   * Is ~19% of your `YEL income`, which means you pay ~1,600€ up to ~36,200€ per year as a business cost.
@@ -588,7 +589,7 @@ You can only apply for earnings-related unemployment allowance if you're part of
 
 
 **How much?** Depends on your `YEL income`. Unemployment law enforces a higher minimum `YEL income` if you wish to be part of an unemployment fund.
-The minimum is ~13,000€ `YEL income`, and with that, membership fee is ~155€ per year.
+In 2023, the minimum level is € 14,088 per year of `YEL income`, and with that, the membership fee is ~175€ per year.
 
 **When is it necessary?** If you wish to get earnings-related unemployment allowance in case of unemployment.
 
