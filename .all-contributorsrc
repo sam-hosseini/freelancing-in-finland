@@ -245,6 +245,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "maximzavadskiy",
+      "name": "Maxim Zavadskiy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1636678?v=4",
+      "profile": "https://www.linkedin.com/in/maxim-zavadskiy/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
@@ -254,5 +263,6 @@
     "README.md"
   ],
   "contributorsPerLine": 7,
-  "commitConvention": "angular"
+  "commitConvention": "angular",
+  "commitType": "docs"
 }
