@@ -589,7 +589,7 @@ You can only apply for earnings-related unemployment allowance if you're part of
 
 
 **How much?** Depends on your `YEL income`. Unemployment law enforces a higher minimum `YEL income` if you wish to be part of an unemployment fund.
-In 2023, the minimum level is € 14,088 per year of `YEL income`, and with that, the membership fee is ~175€ per year.
+In 2023, the minimum level is ~14,100€ per year of `YEL income`, and with that, the membership fee is ~175€ per year.
 
 **When is it necessary?** If you wish to get earnings-related unemployment allowance in case of unemployment.
 
