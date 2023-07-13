@@ -221,8 +221,19 @@ and you will get an electronic decision within 2 weeks (official estimation). Of
     * TE-services will consider whether the business has started more or less according to the original business plan.
     * TE-services will consider whether the already acquired income is enough to support the entrepreneur.
 
-* Apply for the grant extension [electronically](https://asiointi.mol.fi/omaasiointi/?kieli=fi) (only available in Finnish and Swedish)
+* Apply for the grant extension [electronically](https://asiointi.mol.fi/omaasiointi/?kieli=fi). TE web site has only Finnish and Swedish, but once you sign-in with strong authentication and click several buttons to redirect to the grant page(details below), English is available and the officers who check and make decision understand English.
+
+Steps from TE palvelut page to the grant page:
+- go to [TE page](https://asiointi.mol.fi/omaasiointi/?kieli=fi)
+- click `Kirjaudu palveluun` (loginto the service) button to strongly ahtuenticate in
+- once log-in successfully, click `Katselen tai muutan tietojani` (check or change my info) button
+- click `Kaikki asiointi` (all things) on the top panel
+- expand the section `Starttiraha ja starttirahan maksatushakemus` (startup grant and its payment application)
+- click `Hae starttirahaa` (apply startup grant) link
+- now you are in the grant page where Finnish, Swidiss, and English are in the options to choose
+
 and you will get an electronic decision within 2-4 weeks. Official decision letter should arrive by post soon after the decision is served (~1 week).
+
 
 ### Quit your job
 
@@ -470,13 +481,15 @@ Minimum YEL                |  Maximum YEL
 
 \* Taken from [Varma's YEL calculator](https://www.varma.fi/en/self-employed/yel-insurance/yel-calculator/)
 
-**Steps**:
+**When do you need YEL insurance?**
 
-* You have 6 months from starting self-employment to buy YEL.
-    * If, however, your company has not had income equal to minimum `YEL income`, i.e. ~8,600€, you do not need to buy YEL yet.
-    * When your company gets income above the level of minimum `YEL income`, you'll have to buy YEL within the 6 months mentioned above.
-    * Even though you have 6 months to buy YEL, if e.g. you had to buy YEL from the 3rd month because that's when your company had more than ~8,600€ of income,
-      even if you buy YEL in the 5th month, you'll have to select the starting date of YEL to be from the 3rd month as that's the date when you were obligated to buy YEL anyway.
+You need to take YEL insurance when you meet the following conditions:
+- Your YEL income is at least 8,575.45 € per year in 2023
+- Your entrepreneurial activities have lasted without interruption for at least 4 months
+- You work in your own company
+- You are a self-employed person between the ages of 18-68
+
+Ref: [Elo page](https://www.elo.fi/en/self-employed-person/yel-insurance)
 
 * Buy YEL from an YEL insurance provider:
   * [elo](https://www.elo.fi/?sc_lang=en)
