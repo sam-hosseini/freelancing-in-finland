@@ -898,6 +898,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/vietqt/"><img src="https://avatars.githubusercontent.com/u/775364?v=4?s=100" width="100px;" alt="Viet Ta"/><br /><sub><b>Viet Ta</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=envil" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/maxim-zavadskiy/"><img src="https://avatars.githubusercontent.com/u/1636678?v=4?s=100" width="100px;" alt="Maxim Zavadskiy"/><br /><sub><b>Maxim Zavadskiy</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=maximzavadskiy" title="Documentation">📖</a></td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="http://xixiao.info"><img src="https://avatars.githubusercontent.com/u/13655323?v=4?s=100" width="100px;" alt="Xi Xiao"/><br /><sub><b>Xi Xiao</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=xixiaofinland" title="Documentation">📖</a></td>
+    </tr>
   </tbody>
 </table>
 
