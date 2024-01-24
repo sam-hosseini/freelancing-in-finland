@@ -703,9 +703,9 @@ you see that the market price is ~500€ nowadays, that's a *fair market value*.
 
 |                              | Tax-free limit | [Edenred card service commission](https://edenred.fi/en/employer/price-list/#card) | [Smartum card service commission](https://www.smartum.fi/en/smartum-service#costs) | [ePassi service commission](https://www.epassi.fi/en/employer/start-using-epassi) |
 | ---------------------------- | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------- |
-| Lunch benefit 🥗              | ~50€ per month  | 2.95% of the balance loaded                                  | 1.5% of the balance loaded                                   | 1.5% of the balance loaded |
-| Sport and cultural benefit 🎭 | 400€ per year   | 5.2% of the balance loaded                                   | 5% of the balance loaded                                     | 4% of the balance loaded |
-| Commuting benefit 🚌          | 3,400€ per year | 5.2% of the balance loaded                                   | 5% of the balance loaded                                     | 3% of the balance loaded |
+| Lunch benefit 🥗              | ~50€ per month  | 2.95% of the balance loaded                                  | 1.5% of the balance loaded                                   | 2% of the balance loaded |
+| Sport and cultural benefit 🎭 | 400€ per year   | 5.2% of the balance loaded                                   | 5% of the balance loaded                                     | 4.7% of the balance loaded |
+| Commuting benefit 🚌          | 3,400€ per year | 5.2% of the balance loaded                                   | 5% of the balance loaded                                     | 4.7% of the balance loaded |
 
 * Phone benefit: you can pay your phone bill from company if you offer it as a 20€-phone-benefit every month to yourself.
 Phone bills are business cost when you only and only use it for business and not in your personal life. If you'd like to use a single subscription for both personal and business,
