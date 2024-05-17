@@ -666,14 +666,11 @@ Some available dental care providers:
 **Source of truth**: [Tax Administration](https://www.vero.fi/sv/Detaljerade_skatteanvisningar/anvisningar/48268/frivilliga-pensionsf%C3%B6rs%C3%A4kringar-som-arbetsgivaren-tecknat2/)
 
 **What is it?** On top of [YEL](#buy-social-security-insurance-yel), which is mandatory, you can buy *voluntary pension insurance*.
+Payouts can start at the age of ~70 and have to be paid out during at least <ins>10 years of time</ins>. Depending on the provider, you can typically choose what to do with the money in the insurance (invest in stocks/bonds/etc).
 
 **How much?** Depends on the coverage you choose. The higher the coverage, the more you pay in premiums. Premiums are a business expense and fully tax-deductible up to 8,500€/year. Above this limit, premiums will be taxed as personal income for you, the `self-employed`.
 
 **How does it differ from YEL?** If you die before reaching the pension age, what you've accumulated and paid for YEL goes to /dev/null and disappears. With voluntary pension insurance, you can include a life insurance, so that your spouse or some other beneficiary can inherit the full value of the voluntary pension insurance you have accumulated and paid for.
-
-* The pension has to be paid out during at least 10 years of time.
-* The start of payouts can happen at 70 years of age, for people born 1962 or later, or slightly earlier if you are born at an earlier date. See the linked page for more details.
-* The money in the insurance can be invested in the stock market, in various bonds which you can typically choose from yourself. The exact number and type of bonds available differ depending on insurance provider.
 
 Known providers at the time of writing include the following (in addition to this, Nordea has existing agreements, but are not accepting new customers at the time being). Discuss with one or more of them for the exact terms and conditions of their products.
 
