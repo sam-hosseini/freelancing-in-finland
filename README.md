@@ -25,6 +25,7 @@ The ultimate resource for transitioning to freelancing for software developers �
   * [Consider joining an unemployment fund](#consider-joining-an-unemployment-fund)
   * [Consider buying health insurance](#consider-buying-health-insurance)
   * [Consider getting dental care plan](#consider-getting-dental-care-plan)
+  * [Consider buying voluntary pension insurance](#consider-buying-voluntary-pension-insurance)
   * [Consider selling your personal work-related tools to your company](#consider-selling-your-personal-work-related-tools-to-your-company)
 * [Operation - what to do to **run** your company](#operation---what-to-do-to-run-your-company)
   * [Offer yourself benefits that you like](#offer-yourself-benefits-that-you-like)
@@ -438,7 +439,7 @@ and if we take a 75€/hour rate, you should expect to pay at least 75-150€ pe
 
 **Source of truth**: [ETK Finnish Center for Pensions](https://www.etk.fi/en/finnish-pension-system/pension-security/pension-coverage-and-insurance/self-employed/)
 
-**What is it?** YEL is a mandatory social security insurance for `self-employed` persons.
+**What is it?** YEL _(sv: FöPL)_ is a mandatory social security insurance for `self-employed` persons.
 **YEL official name is very misleading** (*Self-Employed Person’s Pensions Act*), because **YEL determines your entire social security benefits**, <ins>not</ins> just your pension.
 
 For example, if you get sick, your *daily sickness allowance* is calculated based on your YEL. The more you pay for YEL, the more *daily sickness allowance* you get.
@@ -659,6 +660,22 @@ Some available dental care providers:
 * Sign the contract and provide details of the person (you) to be included in the plan.
 * Book your checkups and/or procedures with your dental care provider's dentist.
 * Either pay yourself or with your company and include the payments into your accounting.
+
+### Consider buying voluntary pension insurance
+
+**Source of truth**: [Tax Administration](https://www.vero.fi/sv/Detaljerade_skatteanvisningar/anvisningar/48268/frivilliga-pensionsf%C3%B6rs%C3%A4kringar-som-arbetsgivaren-tecknat2/)
+
+**What is it?** On top of [YEL](#buy-social-security-insurance-yel), which is mandatory, you can buy *voluntary pension insurance*.
+Payouts can start at the age of ~70 and have to be paid out during at least <ins>10 years of time</ins>. Depending on the provider, you can typically choose what to do with the money in the insurance (invest in stocks/bonds/etc).
+
+**How much?** Depends on the coverage you choose. The higher the coverage, the more you pay in premiums. Premiums are a business expense and fully tax-deductible up to 8,500€/year. Above this limit, premiums will be taxed as personal income for you, the `self-employed`.
+
+**How does it differ from YEL?** If you die before reaching the pension age, what you've accumulated and paid for YEL goes to /dev/null and disappears. With voluntary pension insurance, you can include a life insurance, so that your spouse or some other beneficiary can inherit the full value of the voluntary pension insurance you have accumulated and paid for.
+
+**Voluntary pension insurance providers**:
+* [LähiTapiola](https://www.lahitapiola.fi/yritys/vakuutukset/elakevakuutukset/yrittajan-vapaaehtoinen-elakevakuutus/) ([LokalTapiola](https://www.lahitapiola.fi/sv/foretag/forsakringar/pensionsforsakringar/frivillig-pensionsforsakring-for-foretagare/))
+* [Mandatum](https://www.mandatum.fi/en/pension/entrepreneurs-supplementary-pension/), formerly part of the Sampo Group
+* [OP](https://www.op.fi/corporate-customers/insurance/personal-insurance/corporate-pension-insurance) (Osuuspankki/Andelsbanken)
 
 ### Consider selling your personal work-related tools to your company
 
