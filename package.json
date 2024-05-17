@@ -4,7 +4,7 @@
     "markdown-toc": "1.2.0"
   },
   "scripts": {
-    "build": "yarn table-of-contents && yarn contributors-list",
+    "build": "npm run table-of-contents && npm run contributors-list",
     "table-of-contents": "markdown-toc README.md --bullets '*' -i",
     "contributors-list": "all-contributors generate"
   }
