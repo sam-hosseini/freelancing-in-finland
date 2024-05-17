@@ -669,9 +669,10 @@ Some available dental care providers:
 
 **How much?** Depends on the coverage you choose. The higher the coverage, the more you pay in premiums. Premiums are a business expense and fully tax-deductible up to 8,500€/year. Above this limit, premiums will be taxed as personal income for you, the `self-employed`.
 
+**How does it differ from YEL?** If you die before reaching the pension age, what you've accumulated and paid for YEL goes to /dev/null and disappears. With voluntary pension insurance, you can include a life insurance, so that your spouse or some other beneficiary can inherit the full value of the voluntary pension insurance you have accumulated and paid for.
+
 * The pension has to be paid out during at least 10 years of time.
 * The start of payouts can happen at 70 years of age, for people born 1962 or later, or slightly earlier if you are born at an earlier date. See the linked page for more details.
-* A life insurance can be included with the insurance, so that your spouse or other beneficiary can inherit the full value of the insurance you have accumulated if you die before reaching the pension age. This is an important difference from YEL and TyEL, where your accumulated pension money more or less "disappears" into the system whenever you die.
 * The money in the insurance can be invested in the stock market, in various bonds which you can typically choose from yourself. The exact number and type of bonds available differ depending on insurance provider.
 
 Known providers at the time of writing include the following (in addition to this, Nordea has existing agreements, but are not accepting new customers at the time being). Discuss with one or more of them for the exact terms and conditions of their products.
