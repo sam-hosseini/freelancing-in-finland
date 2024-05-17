@@ -660,7 +660,7 @@ Some available dental care providers:
 * Book your checkups and/or procedures with your dental care provider's dentist.
 * Either pay yourself or with your company and include the payments into your accounting.
 
-### Buy individual pension insurance (optional)
+### Consider buying voluntary pension insurance
 
 In addition to the YEL described above, you can also get an individual pension insurance for yourself and pay it as a business expense. The main details: (source: https://www.vero.fi/sv/Detaljerade_skatteanvisningar/anvisningar/48268/frivilliga-pensionsf%C3%B6rs%C3%A4kringar-som-arbetsgivaren-tecknat2/, Swedish)
 
