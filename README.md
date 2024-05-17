@@ -672,8 +672,7 @@ Payouts can start at the age of ~70 and have to be paid out during at least <ins
 
 **How does it differ from YEL?** If you die before reaching the pension age, what you've accumulated and paid for YEL goes to /dev/null and disappears. With voluntary pension insurance, you can include a life insurance, so that your spouse or some other beneficiary can inherit the full value of the voluntary pension insurance you have accumulated and paid for.
 
-Known providers at the time of writing include the following (in addition to this, Nordea has existing agreements, but are not accepting new customers at the time being). Discuss with one or more of them for the exact terms and conditions of their products.
-
+**Voluntary pension insurance providers**:
 * LähiTapiola (LokalTapiola), information online not available in English
   * [Finnish](https://www.lahitapiola.fi/yritys/vakuutukset/elakevakuutukset/yrittajan-vapaaehtoinen-elakevakuutus/)
   * [Swedish](https://www.lahitapiola.fi/sv/foretag/forsakringar/pensionsforsakringar/frivillig-pensionsforsakring-for-foretagare/)
