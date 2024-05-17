@@ -663,7 +663,9 @@ Some available dental care providers:
 
 ### Consider buying voluntary pension insurance
 
-In addition to the YEL described above, you can also get an individual pension insurance for yourself and pay it as a business expense. The main details: (source: https://www.vero.fi/sv/Detaljerade_skatteanvisningar/anvisningar/48268/frivilliga-pensionsf%C3%B6rs%C3%A4kringar-som-arbetsgivaren-tecknat2/, Swedish)
+**Source of truth**: [Tax Administration](https://www.vero.fi/sv/Detaljerade_skatteanvisningar/anvisningar/48268/frivilliga-pensionsf%C3%B6rs%C3%A4kringar-som-arbetsgivaren-tecknat2/)
+
+In addition to the YEL described above, you can also get an individual pension insurance for yourself and pay it as a business expense.
 
 * The cost is tax-deductible up to 8500€ per year. Premiums above this will be taxed as personal income for you/the employee.
 * The pension has to be paid out during at least 10 years of time.
