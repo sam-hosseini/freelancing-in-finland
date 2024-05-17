@@ -673,9 +673,7 @@ Payouts can start at the age of ~70 and have to be paid out during at least <ins
 **How does it differ from YEL?** If you die before reaching the pension age, what you've accumulated and paid for YEL goes to /dev/null and disappears. With voluntary pension insurance, you can include a life insurance, so that your spouse or some other beneficiary can inherit the full value of the voluntary pension insurance you have accumulated and paid for.
 
 **Voluntary pension insurance providers**:
-* LähiTapiola (LokalTapiola), information online not available in English
-  * [Finnish](https://www.lahitapiola.fi/yritys/vakuutukset/elakevakuutukset/yrittajan-vapaaehtoinen-elakevakuutus/)
-  * [Swedish](https://www.lahitapiola.fi/sv/foretag/forsakringar/pensionsforsakringar/frivillig-pensionsforsakring-for-foretagare/)
+* [LähiTapiola](https://www.lahitapiola.fi/yritys/vakuutukset/elakevakuutukset/yrittajan-vapaaehtoinen-elakevakuutus/) ([LokalTapiola](https://www.lahitapiola.fi/sv/foretag/forsakringar/pensionsforsakringar/frivillig-pensionsforsakring-for-foretagare/))
 * [Mandatum](https://www.mandatum.fi/en/pension/entrepreneurs-supplementary-pension/), formerly part of the Sampo Group
 * [OP](https://www.op.fi/corporate-customers/insurance/personal-insurance/corporate-pension-insurance) (Osuuspankki/Andelsbanken)
 
