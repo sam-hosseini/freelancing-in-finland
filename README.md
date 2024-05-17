@@ -25,6 +25,7 @@ The ultimate resource for transitioning to freelancing for software developers ð
   * [Consider joining an unemployment fund](#consider-joining-an-unemployment-fund)
   * [Consider buying health insurance](#consider-buying-health-insurance)
   * [Consider getting dental care plan](#consider-getting-dental-care-plan)
+  * [Consider buying voluntary pension insurance](#consider-buying-voluntary-pension-insurance)
   * [Consider selling your personal work-related tools to your company](#consider-selling-your-personal-work-related-tools-to-your-company)
 * [Operation - what to do to **run** your company](#operation---what-to-do-to-run-your-company)
   * [Offer yourself benefits that you like](#offer-yourself-benefits-that-you-like)
