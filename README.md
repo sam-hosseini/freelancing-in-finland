@@ -484,24 +484,6 @@ Minimum YEL                |  Maximum YEL
   * [ilmarinen](https://www.ilmarinen.fi/en/)
   * [veritas](https://www.veritas.fi/en/)
 
-### Buy individual pension insurance (optional)
-
-In addition to the YEL described above, you can also get an individual pension insurance for yourself and pay it as a business expense. The main details: (source: https://www.vero.fi/sv/Detaljerade_skatteanvisningar/anvisningar/48268/frivilliga-pensionsf%C3%B6rs%C3%A4kringar-som-arbetsgivaren-tecknat2/, Swedish)
-
-* The cost is tax-deductible up to 8500€ per year. Premiums above this will be taxed as personal income for you/the employee.
-* The pension has to be paid out during at least 10 years of time.
-* The start of payouts can happen at 70 years of age, for people born 1962 or later, or slightly earlier if you are born at an earlier date. See the linked page for more details.
-* A life insurance can be included with the insurance, so that your spouse or other beneficiary can inherit the full value of the insurance you have accumulated if you die before reaching the pension age. This is an important difference from YEL and TyEL, where your accumulated pension money more or less "disappears" into the system whenever you die.
-* The money in the insurance can be invested in the stock market, in various bonds which you can typically choose from yourself. The exact number and type of bonds available differ depending on insurance provider.
-
-Known providers at the time of writing include the following (in addition to this, Nordea has existing agreements, but are not accepting new customers at the time being). Discuss with one or more of them for the exact terms and conditions of their products.
-
-* LähiTapiola (LokalTapiola), information online not available in English
-  * [Finnish](https://www.lahitapiola.fi/yritys/vakuutukset/elakevakuutukset/yrittajan-vapaaehtoinen-elakevakuutus/)
-  * [Swedish](https://www.lahitapiola.fi/sv/foretag/forsakringar/pensionsforsakringar/frivillig-pensionsforsakring-for-foretagare/)
-* [Mandatum](https://www.mandatum.fi/en/pension/entrepreneurs-supplementary-pension/), formerly part of the Sampo Group
-* [OP](https://www.op.fi/corporate-customers/insurance/personal-insurance/corporate-pension-insurance) (Osuuspankki/Andelsbanken)
-
 ### Understand your new personal taxation situation
 
 **Source of truth**: [Tax Administration](https://www.vero.fi/en/)
@@ -677,6 +659,24 @@ Some available dental care providers:
 * Sign the contract and provide details of the person (you) to be included in the plan.
 * Book your checkups and/or procedures with your dental care provider's dentist.
 * Either pay yourself or with your company and include the payments into your accounting.
+
+### Buy individual pension insurance (optional)
+
+In addition to the YEL described above, you can also get an individual pension insurance for yourself and pay it as a business expense. The main details: (source: https://www.vero.fi/sv/Detaljerade_skatteanvisningar/anvisningar/48268/frivilliga-pensionsf%C3%B6rs%C3%A4kringar-som-arbetsgivaren-tecknat2/, Swedish)
+
+* The cost is tax-deductible up to 8500€ per year. Premiums above this will be taxed as personal income for you/the employee.
+* The pension has to be paid out during at least 10 years of time.
+* The start of payouts can happen at 70 years of age, for people born 1962 or later, or slightly earlier if you are born at an earlier date. See the linked page for more details.
+* A life insurance can be included with the insurance, so that your spouse or other beneficiary can inherit the full value of the insurance you have accumulated if you die before reaching the pension age. This is an important difference from YEL and TyEL, where your accumulated pension money more or less "disappears" into the system whenever you die.
+* The money in the insurance can be invested in the stock market, in various bonds which you can typically choose from yourself. The exact number and type of bonds available differ depending on insurance provider.
+
+Known providers at the time of writing include the following (in addition to this, Nordea has existing agreements, but are not accepting new customers at the time being). Discuss with one or more of them for the exact terms and conditions of their products.
+
+* LähiTapiola (LokalTapiola), information online not available in English
+  * [Finnish](https://www.lahitapiola.fi/yritys/vakuutukset/elakevakuutukset/yrittajan-vapaaehtoinen-elakevakuutus/)
+  * [Swedish](https://www.lahitapiola.fi/sv/foretag/forsakringar/pensionsforsakringar/frivillig-pensionsforsakring-for-foretagare/)
+* [Mandatum](https://www.mandatum.fi/en/pension/entrepreneurs-supplementary-pension/), formerly part of the Sampo Group
+* [OP](https://www.op.fi/corporate-customers/insurance/personal-insurance/corporate-pension-insurance) (Osuuspankki/Andelsbanken)
 
 ### Consider selling your personal work-related tools to your company
 
