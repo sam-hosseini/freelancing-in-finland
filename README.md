@@ -861,7 +861,7 @@ Calculators:
 
 Guides:
 * [Suomi.fi](https://www.suomi.fi/company/)
-* [Finnish Enterprise Agencies guide to becoming an Entrepreneur in Finland - 2021](https://uusyrityskeskus.fi/wp-content/uploads/2021/02/Perustamisopas_2021_EN.pdf)
+* [Finnish Enterprise Agencies guide to becoming an Entrepreneur in Finland - 2024](https://uusyrityskeskus.fi/wp-content/uploads/2024/02/Uusyrityskeskus_Guide_Becoming_an_Entrepreneur_in_Finland_2024-2-1.pdf)
 * [Capital taxation of individuals in Finland - 2015](https://www.porssisaatio.fi/wp-content/uploads/2015/08/vero_opas_2015_eng_final_web.pdf)
 
 Governmental organizations to provide support for you:
