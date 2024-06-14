@@ -802,7 +802,7 @@ Once you come back to Finland, you are eligible for 5 days of daily-allowance (3
 ### Take out money from your company in the most tax optimal way
 
 **What is it?** Taking money from the company in the most tax optimal way is **a million-dollar question**.
-Only a team of competent accountants and competent lawyers specializing in coporate tax law could answer that question.
+Only a team of competent accountants and competent lawyers specializing in corporate tax law could answer that question.
 This guide could not be reasonably expected to be of much help to answer that question, as the circumstances for every company are specific.
 However, an overview of fundamentals can be illustrated.
 
@@ -821,7 +821,7 @@ Tax administration office (Vero):
 
 * **Pay your corporate income tax on time** using prepayment register, *non-recurring* obligation: if your company fiscal year ends and
 you have paid no corporate income tax during the fiscal year, and it turns out you must pay thousands of euros of corporate income tax,
-then the Tax Administration will add interest on this coporate tax you owe them. To avoid paying interest, pay your corporate income tax *before* the company fiscal year ends,
+then the Tax Administration will add interest on this corporate tax you owe them. To avoid paying interest, pay your corporate income tax *before* the company fiscal year ends,
 or *within 1 month* after it.
 
 * **Send VAT reports**, *recurring* obligation: strictly speaking, as the owner of the company, you are responsible to ensure that VAT reports are done every month, not your accountant.
