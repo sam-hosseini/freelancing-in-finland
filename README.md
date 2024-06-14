@@ -915,6 +915,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://xixiao.info"><img src="https://avatars.githubusercontent.com/u/13655323?v=4?s=100" width="100px;" alt="Xi Xiao"/><br /><sub><b>Xi Xiao</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=xixiaofinland" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/whisperpine"><img src="https://avatars.githubusercontent.com/u/15224940?v=4?s=100" width="100px;" alt="Yusong"/><br /><sub><b>Yusong</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=whisperpine" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
