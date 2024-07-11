@@ -418,7 +418,7 @@ A freelancing company for the target audience of this guide with no other activi
 and if we take a 75€/hour rate, you should expect to pay at least 75-150€ per month.
 
 **List of accountants who offer English services as well**:
-* [eAccounting Finland](https://www.eaccounting.fi/en/) -> Jonne Anttila
+* [eAccounting Finland](https://www.eaccounting.fi/en/) -> They all speak English
 * [Tili Sydwest](https://www.tilisydwest.fi/en/)
 * [KT Kirjanpito](https://www.ktkirjanpito.fi) Outi & Viivu speak English and specialize in micro businesses
 * [Valjas](https://www.valjas.fi/en/)
