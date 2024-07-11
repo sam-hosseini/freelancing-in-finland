@@ -39,6 +39,31 @@ The ultimate resource for transitioning to freelancing for software developers �
 
 <!-- tocstop -->
 
+---
+
+[![eAccounting Finland Oy sponsorship banner][eAccounting Finland Oy sponsorship banner image]][eAccounting Finland Oy sponsorship banner link]
+
+[eAccounting Finland Oy sponsorship banner image]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/main/images/sponsor.gif
+[eAccounting Finland Oy sponsorship banner link]: https://www.eaccounting.fi/en/it-freelancing-finland/
+
+**eAccounting Finland Oy** is the exclusive sponsor of Freelancing-in-Finland guide 🧡
+
+For 4+ years, I've been using their accounting services <ins>for my own company</ins>.
+
+So, I'm recommending what I use myself, with proper **skin in the game**. Here's why:
+
+* I’m extremely sensitive to fulfilling my company’s obligations and they haven't missed a deadline in 4+ years.
+* Every time I had a question in 4+ years, I got a reply to my email within 1-2 days. They’re extremely responsive and helpful.
+* Their advice on tax planning has saved my company money. That's helpful when starting as a new entrepreneur.
+
+If you decided to use them for your company because of this introduction:
+
+* Please 🧡, tell them you decided to use their services because of this guide.
+* That'd increase the chance of them continuing to sponsor this guide.
+* Please 🧡, don't forget that, thank you! 💐
+
+---
+
 ## Introduction
 
 ### What problem will you face without this guide?
