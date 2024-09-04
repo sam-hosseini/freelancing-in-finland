@@ -638,6 +638,12 @@ a job-seeker to be a full-time `employee` again, among other things.
 Therefore, when you fall ill and the issue is not urgent, you can go to public health stations or private.
 To partially or fully cover the medical costs, you may want to buy an appropriate health insurance.
 
+**Is it a tax-free benefit?** For you, as the target audience of this guide and the assumptions that come with it, and given that the absolute source of truth is Vero itself,
+the answer is yes, if it's a health insurance all your freelancer friends take as well — meaning it's <u>*reasonable*</u> and <u>*usual*</u> — and if and only if you buy `occupational healthcare` as well.
+This new rule of having to buy an `occupational healthcare` for the health insurance to remain tax-free was added in 2024 and is explained on Vero's in-depth instruction on the subject, in particular in [section 3.1](https://www.vero.fi/syventavat-vero-ohjeet/ohje-hakusivu/48347/tyonantajan-ottaman-sairauskuluvakuutuksen-verotus2#3.1-osakkeenomistaja-ja-henkil%C3%B6yhti%C3%B6n-yhti%C3%B6mies).
+Like all-things-tax-related, it's the Tax Administration officer who decides what's <u>*reasonable*</u> and what's <u>*usual*</u>.
+Therefore, practice caution with this subject and take advice from Vero or an accountant/lawyer if you want to be certain.
+
 **How do public and private compare?**
 
 * In **public**:
