@@ -205,7 +205,7 @@ your real income tax percentage, otherwise they withhold 25% income tax by defau
     * You can do this if you're in a hurry to setup things that depend on Business ID like opening a business bank account, applying for insurance offers, etc and you can't wait for startup grant decision to come first.
 
 * You need a business plan and certain financial calculations as an attachment to your application.
-You can use [My Enterprise Finland](https://oma.yrityssuomi.fi/#) and complete the steps for `Business plan` to
+You can use [Job Market Finland](https://tyomarkkinatori.fi/en/employers-and-entrepreneurs/entrepreneurship-tools/business-plan) and complete the steps for `Business plan` to
 draw up your business plan which includes all necessary financial calculations as well.
 
 * Once you have your business plan ready, as an **optional** step, you can send an email with your business plan attached to the
@@ -947,6 +947,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://xixiao.info"><img src="https://avatars.githubusercontent.com/u/13655323?v=4?s=100" width="100px;" alt="Xi Xiao"/><br /><sub><b>Xi Xiao</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=xixiaofinland" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/whisperpine"><img src="https://avatars.githubusercontent.com/u/15224940?v=4?s=100" width="100px;" alt="Yusong"/><br /><sub><b>Yusong</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=whisperpine" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/m3hrad"><img src="https://avatars.githubusercontent.com/u/3766441?v=4?s=100" width="100px;" alt="Mehrad Mohammadi"/><br /><sub><b>Mehrad Mohammadi</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=m3hrad" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
