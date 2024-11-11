@@ -141,18 +141,16 @@ However, the ranges above are for direct company-to-client sales. If you get con
 by 5-20%, which would be their cut of the hourly rate. This means that, with one intermediary company, you're looking at 65-105€ per hour in non-extraordinary situations.
 
 **List of brokers**:
-* Fika ☕️ with [Witted](https://witted.com/for-talents/witted-partners) and get into their network.
-* Fika ☕️ with [Thriv](https://www.thriv.dev/) and get into their Slack.
-* Fika ☕️ with [Finitec](https://finitec.fi/) and get into their network.
-* Fika ☕️ with [Siili One](https://one.siili.com) and get into their network.
+* Fika ☕️ with [Witted](https://wittedpartners.com/for-talents) and get into their network.
+* Fika ☕️ with [Thriv](https://www.thriv.dev/talent) and get into their network.
+* Fika ☕️ with [Finitec](https://www.finitec.fi/en/freelancer) and get into their network.
+* Fika ☕️ with [Siili One](https://one.siili.com/en/) and get into their network.
 * Fika ☕️ with [HiQ](https://hiq.fi/en/subcontracting/) and get into their network.
 * Fika ☕️ with [7n](https://www.7n.com/become-a-7n-consultant/) and get into their network.
-* Register a profile with [Verama](https://verama.com/) to be able to apply to their projects.
+* Register a profile with [Ework Group](https://www.eworkgroup.com/find-work) to be able to apply to their projects.
 * Register a profile with [Digia Hub](https://digiahub.com) to be able to apply to their projects.
-* Drop [Toughbyte](https://www.toughbyte.com/) a line.
-* Look into [Harnham](https://www.harnham.com/jobs?options=1122,261&page=1) `contract` positions in `nordics`.
+* Register a profile with [Vahvistus.fi](https://vahvistus.fi/join), a network run by Sysart, to be able to apply to their projects.
 * Apply for an account at [Tingent](https://tingent.inkopio.se/vms/register?action=register) to see their remote gigs in Sweden.
-* Register to [Vahvistus.fi](https://vahvistus.fi/), a network run by Sysart.
 
 **List of aggregate sites**:
 * Create a [job search alert](https://www.linkedin.com/jobs/) on LinkedIn with:
@@ -161,13 +159,6 @@ by 5-20%, which would be their cut of the hourly rate. This means that, with one
   * Job type as `Contract`
 * Create a profile on [Nordgigs](https://nordgigs.com/) which aggregates freelance projects across Nordic countries and email you on a match with your `skill` tags.
 * Check [the Hub](https://thehub.io/jobs?positionTypes=5b8e46b3853f039706b6ea75&countryCode=FI) for freelance job types.
-
-**List of organizations you can introduce yourself to**:
-* [NewCo Helsinki](https://newcohelsinki.fi/en/startup-services/) is a governmental organization which is focused on helping companies in Helsinki:
-
-  > When problems come up, we are here to help you right away. Please contact us at startup@hel.fi and stop by!
-
-  NewCo Helsinki advisors see many startups in Helsinki who would need software developers. By visiting them and introducing yourself, they might be able to connect you with potential Helsinki startups.
 
 ### Wait until you find a project you like
 **What is it?** Finding a freelance project is like finding a job. A lot has to be in order for you to find the right project.
