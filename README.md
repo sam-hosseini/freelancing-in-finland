@@ -99,7 +99,7 @@ I'm not a lawyer and no statement here should be thought of as legal advice.
 
 ### Know how to handle your upcoming new immigration status
 
-**Source of truth**: [Finnish Immigration Service](https://migri.fi/en/)
+**Source of truth**: [Finnish Immigration Service](https://migri.fi/en/home)
 
 **What is it?** Once you start working as a `self-employed` person, you may need to apply for a different type of residence permit.
 
