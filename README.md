@@ -327,7 +327,7 @@ To avoid this busy season, you can choose a fiscal year that ends well before (S
 * Decide the registries you'd like your company to be part of:
   * Trade register ✅, as the company cannot come into life without it.
   * Prepayment register ✅, as without it, other companies have to withhold taxes on the amounts they pay you.
-  * VAT register ✅, as you can start deducting VAT from things or services you  purchase for your *main line of business*. For example, if you buy a laptop for 2,000€, you'll get ~500€ back (VAT 24%).
+  * VAT register ✅, as you can start deducting VAT from things or services you  purchase for your *main line of business*. For example, if you buy a laptop for 2,000€, you'll get ~500€ back (VAT 25.5%).
   * Employer register ❌, because you don't need it if you're not employing anyone else. The fact that you're employing yourself is irrelevant as you're considered `self-employed`, not an `employee`.
 You can join later, once and if you start employing others.
 
@@ -728,7 +728,7 @@ you see that the market price is ~500€ nowadays, that's a *fair market value*.
     * What is being sold and their *fair market value* price
     * Signature, place, and date
 * Send an invoice to your company with all attachments above.
-* Your company won't get any VAT refunds from the items it buys from you. This is because you, as the *natural person*, are not registered in VAT-register. It doesn't matter if you mention the price of the laptop for example includes 24% VAT; in your company's accounting, it'll be VAT 0% anyway.
+* Your company won't get any VAT refunds from the items it buys from you. This is because you, as the *natural person*, are not registered in VAT-register. It doesn't matter if you mention the price of the laptop for example includes 25.5% VAT; in your company's accounting, it'll be VAT 0% anyway.
 
 ## Operation - what to do to **run** your company
 
@@ -807,10 +807,10 @@ Once you come back to Finland, you are eligible for 5 days of daily-allowance (3
 * You do not need to add VAT to your invoice for your freelance services.
 
 **If you're invoicing a company or an individual residing in Finland**:
-* You must add 24% VAT to the total amount you're charging them for your freelance services.
+* You must add 25.5% VAT to the total amount you're charging them for your freelance services.
 
 **If you're invoicing a company or an individual residing within EU**:
-* You must add 24% VAT to the total amount you're charging them for your freelance services.
+* You must add 25.5% VAT to the total amount you're charging them for your freelance services.
 * You can, however, use [**reverse-charge mechanism**](https://quaderno.io/blog/how-does-the-reverse-charge-mechanism-work/) and not add VAT only when you're **invoicing a company** residing within EU. To do it:
     * You must state the EU company's VAT ID in your invoice.
     * You must ensure that your EU company's VAT ID is valid by [checking it in VIES](https://ec.europa.eu/taxation_customs/vies/?locale=en)
