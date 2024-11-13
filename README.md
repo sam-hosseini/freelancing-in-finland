@@ -178,14 +178,14 @@ Even though the official estimation is 2 weeks, decision comes much faster in re
 
 ### Apply for startup grant
 
-**Source of truth**: [TE-services startup grant page](https://www.te-palvelut.fi/te/en/employers/for_entrepreneurs/services_new_entrepreneurs/startup_grant/index.html)
+**Source of truth**: [Job Market Finland startup grant page](https://tyomarkkinatori.fi/en/services/af2667af-e1b5-43dd-9b46-5e49ad1b1c9c/start-up-grant---support-for-a-new-entrepreneur)
 
 **What is it?** Startup grant is a program to support you to become an entrepreneur.
 You will receive the monthly payment for a total of 6 months (if you apply once) or a total of 12 months (if you apply for extension as well).
 
-**How much?** ~705€ per month, as personal income. If your income tax is 10%, for example, you will get ~635€.
-You must deliver a [revised tax card for social benefits](https://www.vero.fi/en/individuals/tax-cards-and-tax-returns/tax_card/benefits/how-to-order-a-tax-card-only-for-benefits-in-mytax/) to TE-services for them to use
-your real income tax percentage, otherwise they withhold 25% income tax by default and you'll get ~530€.
+**How much?** ~740€ per month, as personal income. If your income tax is 10%, for example, you will get ~665€.
+You must deliver a [revised tax card for benefits](https://www.vero.fi/henkiloasiakkaat/verokortti-ja-veroilmoitus/verokortti/tilaa-uusi-verokortti/etuudet2/) to TE-services for them to use
+your real income tax percentage, otherwise they withhold 25% income tax by default and you'll get ~555€.
 
 **Steps** for first application:
 
@@ -200,8 +200,8 @@ You can use [Job Market Finland](https://tyomarkkinatori.fi/en/employers-and-ent
 draw up your business plan which includes all necessary financial calculations as well.
 
 * Once you have your business plan ready, as an **optional** step, you can send an email with your business plan attached to the
-[Enterprise Agency in your city](https://uusyrityskeskus.fi/apua-yrittajyyteen/alueelliset-keskukset/) and ask them for an appointment with a _Business Advisor_.
-In Helsinki, [_NewCo Helsinki_](https://newcohelsinki.fi/en/) is the Enterprise Agency to go to. Although it is not mandatory to go to this appointment for getting startup grant,
+[Enterprise Agency in your city](https://uusyrityskeskus.fi/en/help-for-entrepreneurs/the-enterprise-agencies/) and ask them for an appointment with a _Business Advisor_.
+In Helsinki, [Business Helsinki (Helsingin Uusyrityskeskus ry)](https://www.hel.fi/en/business-and-work/businesses-and-entrepreneurs/starting-a-business) is the Enterprise Agency to go to. Although it is not mandatory to go to this appointment for getting startup grant,
 the _Business Advisor_ has seen hundreds of business plans and can guide you to correct your mistakes in the business plan and therefore increase your chances for a successful application.
 
 * You need an updated Resumé as an attachment to your application.
@@ -216,7 +216,7 @@ This proof doesn't have to be official. I personally printed a pdf from my netba
 In addition, when applying for startup grant payments later once startup grant is granted, the salary you've taken from your own company does not affect the
 payment application negatively either.
 
-* Apply for startup grant [electronically](https://asiointi.mol.fi/omaasiointi/)
+* Apply for startup grant [electronically](https://tyomarkkinatori.fi/en/personal-customers/official-matters)
 and you will get an electronic decision within 2 weeks (official estimation). Official decision letter should arrive by post soon after the decision is served (~1 week).
 
 **Steps** for application extension:
@@ -238,7 +238,7 @@ and you will get an electronic decision within 2 weeks (official estimation). Of
     * TE-services will consider whether the business has started more or less according to the original business plan.
     * TE-services will consider whether the already acquired income is enough to support the entrepreneur.
 
-* Apply for the grant extension [electronically](https://asiointi.mol.fi/omaasiointi/)
+* Apply for the grant extension [electronically](https://tyomarkkinatori.fi/en/personal-customers/official-matters)
 and you will get an electronic decision within 2-4 weeks. Official decision letter should arrive by post soon after the decision is served (~1 week).
 
 ### Quit your job
