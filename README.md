@@ -665,13 +665,13 @@ Comparison of health insurance providers:
 
 ### Consider getting dental care plan
 
-**Source of truth**: [Tax Administration](https://www.vero.fi/en/)
+**Source of truth**: [Tax Administration](https://www.vero.fi/en/individuals/)
 
-**What is it?** An employer can offer an dental care plan to their employees. The dental checks and/or proceduers have to be non-estethical, related to the employees health, and reasonable to be tax-deductible. More details in [section 3.2.5.3 Hammashoito](https://www.vero.fi/syventavat-vero-ohjeet/ohje-hakusivu/62486/henkil%C3%B6kuntaedut-verotuksessa4/). You can decide the upper yearly limit of what the employees can use for dental care per year. Each employee has to have the same sum on the contract, but by being `self-employed`, you can set the limit to what you want. Usual yearly dental care contracts range from 150€ to 3000€ per year. You will also have to decide if you pay your check/procedures yourself personally and return them to yourself from your company, or if the company pays for them directly.
+**What is it?** An employer can offer an dental care plan to their employees. The dental checks and/or proceduers have to be non-estethical, related to the employees health, and reasonable to be tax-deductible. More details in [section 3.2.3.4 Hammashoito](https://www.vero.fi/syventavat-vero-ohjeet/ohje-hakusivu/62486/henkilokuntaedut-verotuksessa8/). You can decide the upper yearly limit of what the employees can use for dental care per year. Each employee has to have the same sum on the contract, but by being `self-employed`, you can set the limit to what you want. Usual yearly dental care contracts range from 150€ to 3000€ per year. You will also have to decide if you pay your check/procedures yourself personally and return them to yourself from your company, or if the company pays for them directly.
 
 Some available dental care providers:
 
-* [Mehiläinen](https://www.mehilainen.fi/en/companies/occupational-dental-care)
+* [Mehiläinen](https://www.mehilainen.fi/en/occupational-health/occupational-dental-care)
 * [Oral](https://www.oral.fi/en/information/information-for-fustomers/occupational-dental-care/)
 
 **Steps**:
