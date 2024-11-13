@@ -772,17 +772,17 @@ if you go ahead and use it all within that calendar year, you must report it and
 
 ### Offer yourself daily-allowance when you travel for business
 
-**Source of truth**: [Tax Administration](https://www.vero.fi/en/detailed-guidance/decisions/47405/tax-exempt-allowances-in-2024-for-business-travel/)
+**Source of truth**: [Tax Administration](https://www.vero.fi/en/detailed-guidance/decisions/47405/tax-exempt-allowances-in-2025-for-business-travel/)
 
 **What is it?** When you travel for business, your company pays for obvious costs like accomodation, flight tickets and transportation to-and-from the airport.
 However, not all costs are obvious and easily provable by a receipt like the ones mentioned before.
 When you travel, your costs are increased because you are not familiar with the environment and not every business might offer you receipts like they do in Finland.
 Daily-allowance fixes this increased costs issue.
 
-**How much?** Between 45€ and 100€ per day, tax-free, depending on the destination country.
+**How much?** Between ~45€ and ~120€ per day, tax-free, depending on the destination country.
 
-For example, let's say you travel to a 5-day Python conference in Spain (65€/day).
-Once you come back to Finland, you are eligible for 5 days of daily-allowance (325€).
+For example, let's say you travel to a 5-day Python conference in Spain (75€/day).
+Once you come back to Finland, you are eligible for 5 days of daily-allowance (375€).
 
 **Steps**:
 * You need to document your business actions in a daily journal.
