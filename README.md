@@ -588,8 +588,8 @@ capital into the company when establishing a limited liability company. This was
 
 ### Consider joining an unemployment fund
 
-**Source of truth**: [Kela unemployment page](https://www.kela.fi/web/en/unemployment)
-and [Unemployment Fund for the self-employed](https://yrittajakassa.fi)
+**Source of truth**: [Kela unemployment page](https://www.kela.fi/unemployment)
+and [Unemployment Fund for the self-employed](https://yrittajakassa.fi/en/home-2/)
 
 **What is it?** There are two types of unemployment benefits:
 
@@ -617,7 +617,7 @@ a job-seeker to be a full-time `employee` again, among other things.
 
 **Steps**:
 * According to [Federation of Unemployment Funds in Finland (TYJ)](https://www.tyj.fi/en/join-a-fund/membership-fees/), there's only one unemployment fund for the `self-employed`.
-* Join [Unemployment Fund for the self-employed](https://yrittajakassa.fi).
+* Join [Unemployment Fund for the self-employed](https://yrittajakassa.fi/en/home-2/).
 
 ### Consider buying health insurance
 
