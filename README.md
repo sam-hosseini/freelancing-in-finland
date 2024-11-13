@@ -736,7 +736,7 @@ you see that the market price is ~500€ nowadays, that's a *fair market value*.
 
 ### Offer yourself benefits that you like
 
-**Source of truth**: [Tax Administration](https://www.vero.fi/en/detailed-guidance/decisions/47380/in-kind-benefits-fringe-benefits-2021/)
+**Source of truth**: [Tax Administration](https://www.vero.fi/en/detailed-guidance/decisions/47380/in-kind-benefits-fringe-benefits-2025/)
 
 **What is it?** You can offer yourself all the benefits `employees` have access to as a `self-employed` person. Up to the tax-free limits, it'll be only a business cost.
 
@@ -774,7 +774,7 @@ if you go ahead and use it all within that calendar year, you must report it and
 
 ### Offer yourself daily-allowance when you travel for business
 
-**Source of truth**: [Tax Administration](https://www.vero.fi/en/detailed-guidance/decisions/47405/tax-exempt-allowances-in-2021-for-business-travel/)
+**Source of truth**: [Tax Administration](https://www.vero.fi/en/detailed-guidance/decisions/47405/tax-exempt-allowances-in-2024-for-business-travel/)
 
 **What is it?** When you travel for business, your company pays for obvious costs like accomodation, flight tickets and transportation to-and-from the airport.
 However, not all costs are obvious and easily provable by a receipt like the ones mentioned before.
