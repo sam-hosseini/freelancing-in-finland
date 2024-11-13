@@ -738,7 +738,7 @@ you see that the market price is ~500€ nowadays, that's a *fair market value*.
 
 **What is it?** You can offer yourself all the benefits `employees` have access to as a `self-employed` person. Up to the tax-free limits, it'll be only a business cost.
 
-|                              | Tax-free limit | [Edenred card service commission](https://edenred.fi/en/employer/price-list/#card) | [Smartum card service commission](https://www.smartum.fi/en/smartum-service#costs) | [ePassi service commission](https://www.epassi.fi/en/employer/start-using-epassi) |
+|                              | Tax-free limit | [Edenred card service commission](https://edenred.fi/en/employer/price-list#card) | [Smartum card service commission](https://www.smartum.fi/en/smartum-service#costs) | [ePassi service commission](https://www.epassi.fi/en/employers/start-using-epassi) |
 | ---------------------------- | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------- |
 | Lunch benefit 🥗              | ~50€ per month  | 2.95% of the balance loaded                                  | 1.5% of the balance loaded                                   | 2% of the balance loaded |
 | Sport and cultural benefit 🎭 | 400€ per year   | 5.2% of the balance loaded                                   | 5% of the balance loaded                                     | 4.7% of the balance loaded |
