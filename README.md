@@ -68,7 +68,7 @@ If you decided to use them for your company because of this introduction:
 
 ### What problem will you face without this guide?
 
-**Losing an estimated 200 hours** figuring out how to do everything by your own. I know this because that's how much I had to spend myself.
+**Losing an estimated 200 hours** figuring out how to do everything on your own. I know this because that's how much time I had to spend myself.
 
 In Finland, there are many extensive guides by authorities which have precise information about everything you need to know.
 The problem is, however, that the **target audience of those guides are the general population** and out of every 100 pages, maybe 10 pages are relevant to your situation.
@@ -77,13 +77,13 @@ For myself, I had questions like:
 
 * How to get freelance projects without any network of my own?
 * What you need to do _before_ you establish your company to be eligible for government grants?
-* When you setup your company, what are your recurring _obligations_?
+* When you set up your company, what are your recurring _obligations_?
 
 Figuring those questions out was tiring and very time consuming.
 
 ### How can this guide solve the problem?
 
-By **narrowing down the target audience** to the person reading this guide on Github, you wouldn't lose the time I lost.
+By **narrowing down the target audience** to the person reading this guide on GitHub, you wouldn't lose the time I lost.
 
 You are the target audience of this guide if:
 
@@ -132,7 +132,7 @@ Most require a meeting before they let you in their network. It's always a relax
 * You can ask about their *terms of payment*, i.e. how many days until they pay your sales invoice.
 * You can ask if there are any restrictions in place if you take a project from them in the form of NDAs or non-competition.
 
-**What about hourly rate?** In Helsinki, if we put aside particular situations in which the client has become dependent on a single point of failure developer,
+**What about hourly rate?** In Helsinki, if we put aside particular situations in which the client has become dependent on a single-point-of-failure-developer,
 or other extraordinary situations, in an average project with an average client with an average developer, I've heard companies charging their clients between
 90-130€ per hour depending on the strength of their brand, the experience of the developers in the team, and the particular relationship with that client.
 In extraordinary situations, I've heard of 150-200€ per hour.
@@ -150,10 +150,10 @@ by 5-20%, which would be their cut of the hourly rate. This means that, with one
 * Register a profile with [Ework Group](https://www.eworkgroup.com/find-work) to be able to apply to their projects.
 * Register a profile with [Digia Hub](https://digiahub.com) to be able to apply to their projects.
 * Register a profile with [Vahvistus.fi](https://vahvistus.fi/join), a network run by Sysart, to be able to apply to their projects.
-* Apply for an account at [Tingent](https://tingent.inkopio.se/vms/register?action=register) to see their remote gigs in Sweden.
+* Apply for an account at [Tingent](https://tingent.inkopio.se/vms/register?action=register) to see their remote projects in Sweden.
 
 **List of aggregate sites**:
-* Create a [job search alert](https://www.linkedin.com/jobs/) on LinkedIn with:
+* Create a [job alert](https://www.linkedin.com/jobs/) on LinkedIn with:
   * Your `location`
   * Your most important `skill` (Python, for example)
   * Job type as `Contract`
@@ -193,11 +193,11 @@ your real income tax percentage, otherwise they withhold 25% income tax by defau
     * What TE-services considers **establishment of company** is different from what we discuss in [establish your company](#establish-your-company) section.
     * TE-services considers your company as established if your company has joined any of the registeries maintained by Tax Administration (Prepayment, VAT, Employer).
     * This means that if you only join Trade register to get the unique Business ID when establishing your company, TE-services won't consider your company as established.
-    * You can do this if you're in a hurry to setup things that depend on Business ID like opening a business bank account, applying for insurance offers, etc and you can't wait for startup grant decision to come first.
+    * You can do this if you're in a hurry to set up things that depend on Business ID like opening a business bank account, applying for insurance offers, etc and you can't wait for startup grant decision to come first.
 
 * You need a business plan and certain financial calculations as an attachment to your application.
 You can use [Job Market Finland](https://tyomarkkinatori.fi/en/employers-and-entrepreneurs/entrepreneurship-tools/business-plan) and complete the steps for `Business plan` to
-draw up your business plan which includes all necessary financial calculations as well.
+draw up your business plan which includes all the necessary financial calculations as well.
 
 * Once you have your business plan ready, as an **optional** step, you can send an email with your business plan attached to the
 [Enterprise Agency in your city](https://uusyrityskeskus.fi/en/help-for-entrepreneurs/the-enterprise-agencies/) and ask them for an appointment with a _Business Advisor_.
@@ -269,7 +269,7 @@ happens, and your personal assets are immune from the liability of the company.
 
 
 **How much?** ~370€ for online registration. It's a business cost. Later,
-when your company is registered and accounting and bank account are setup,
+when your company is registered and accounting and bank account are set up,
 you can claim this ~370€ back from the company as you paid this money from your *personal* bank account even though it was a *business* cost.
 
 **What is the role of Business Information System?**
@@ -289,10 +289,6 @@ you'll update your company's information in Business Information System if there
 
 **Steps**:
 
-* If you're still on your notice period from the time [you quit your job](#quit-your-job):
-    * Get a written permission from your `employer` that it's OK for you to establish your company.
-    * This is because starting a company in the same line of business as your `employer` might be in violation of your non-competition agreement.
-
 * Choose a company name.
   * Search for your chosen name in [Name Checking Service for Companies](https://nimipalvelu.prh.fi/nipa/en)
   * If no exact match or very-similar names were found for your chosen name, then probably it will be accepted in the application process.
@@ -311,7 +307,7 @@ that you feel is most relevant.
   * Fiscal year can be the same as `calendar` year and finish at the end of December.
   * Fiscal year can also end at other times, like end of September, March, etc.
   * A lot of companies have their fiscal year the same as `calendar` year and this makes accounting offices really busy during the turn of the year.
-To avoid this busy season, you can choose a fiscal year that ends well before (September) or after (April) the turn of the year.
+To avoid this busy season, you can choose a fiscal year that ends well before or after the turn of the year, like September or April.
 
 * Choose your company's number of shares.
   * I recommend 10,000 shares for the target audience of this guide based on my own accountant's advice.
@@ -414,7 +410,7 @@ a few transactions a month.
 **Steps**:
 
 * Open a business account in your desired bank.
-* Once your business account is setup, you can give a 1,000€ *loan* from your *personal* account to your company so that you can immediately start paying business costs from your business account.
+* Once your business account is set up, you can give a 1,000€ *loan* from your *personal* account to your company so that you can immediately start paying business costs from your business account.
 * Later when your client pays your first sales invoice, you can return the 1,000€ *loan* to your personal bank account.
 
 ### Find an accountant
@@ -508,7 +504,7 @@ Minimum YEL                |  Maximum YEL
 **What is it?** As a `self-employed` person, your payslip is going to be different than what you used to have as
 an `employee` and practically speaking, you only pay `income tax` and nothing else.
 
-**How is the payslip for an `employee`?** Imagine a basic example, in which an `employee` receives 1,000€ salary, and her/his tax card says their tax is 35%.
+**How is the payslip for an `employee`?** Imagine a basic example, in which an `employee` receives 1,000€ salary, and his/her tax card says their tax is 35%.
 
 From the `employee`'s perspective:
 
@@ -527,7 +523,7 @@ From the `employer`'s perspective:
 5. The employer has to pay 1.53% of 1,000€ as `Employers’ health insurance contribution` => 15.3€
 6. The employer pays ~210€ to Tax Administration and other insurance providers.
 
-**How is the payslip for a `self-employed`?** Imagine a basic example, in which a `self-employed` person receives 1,000€ salary from their own company, and her/his tax card says their tax is 35%.
+**How is the payslip for a `self-employed`?** Imagine a basic example, in which a `self-employed` person receives 1,000€ salary from their own company, and his/her tax card says their tax is 35%.
 
 From the `self-employed`'s perspective:
 
@@ -667,7 +663,7 @@ Comparison of health insurance providers:
 
 **Source of truth**: [Tax Administration](https://www.vero.fi/en/individuals/)
 
-**What is it?** An employer can offer an dental care plan to their employees. The dental checks and/or proceduers have to be non-estethical, related to the employees health, and reasonable to be tax-deductible. More details in [section 3.2.3.4 Hammashoito](https://www.vero.fi/syventavat-vero-ohjeet/ohje-hakusivu/62486/henkilokuntaedut-verotuksessa8/). You can decide the upper yearly limit of what the employees can use for dental care per year. Each employee has to have the same sum on the contract, but by being `self-employed`, you can set the limit to what you want. Usual yearly dental care contracts range from 150€ to 3000€ per year. You will also have to decide if you pay your check/procedures yourself personally and return them to yourself from your company, or if the company pays for them directly.
+**What is it?** An employer can offer dental care plan to its employees. The dental checks and/or proceduers have to be not-for-beauty, related to the employees health, and reasonable to be tax-deductible. More details in [section 3.2.3.4 Hammashoito](https://www.vero.fi/syventavat-vero-ohjeet/ohje-hakusivu/62486/henkilokuntaedut-verotuksessa8/). You can decide the upper yearly limit of what the employees can use for dental care per year. Each employee has to have the same sum on the contract, but by being `self-employed`, you can set the limit to what you want. Usual yearly dental care contracts range from 150€ to 3000€ per year. You will also have to decide if you pay for your checks/procedures personally and return them to yourself from your company, or if the company pays for them directly.
 
 Some available dental care providers:
 
@@ -690,7 +686,7 @@ Payouts can start at the age of ~70 and have to be paid out during at least <ins
 
 **How much?** Depends on the coverage you choose. The higher the coverage, the more you pay in premiums. Premiums are a business expense and fully tax-deductible up to 8,500€/year. Above this limit, premiums will be taxed as personal income for you, the `self-employed`.
 
-**How does it differ from YEL?** If you die before reaching the pension age, what you've accumulated and paid for YEL goes to /dev/null and disappears. With voluntary pension insurance, you can include a life insurance, so that your spouse or some other beneficiary can inherit the full value of the voluntary pension insurance you have accumulated and paid for.
+**How does it differ from YEL?** If you die before reaching the pension age, what you've accumulated and paid for YEL goes to `/dev/null` and disappears. With voluntary pension insurance, you can include a life insurance, so that your spouse or some other beneficiary can inherit the full value of the voluntary pension insurance you have accumulated and paid for.
 
 **Voluntary pension insurance providers**:
 * [LähiTapiola](https://www.lahitapiola.fi/yritys/vakuutukset/elakevakuutukset/yrittajan-vapaaehtoinen-elakevakuutus/) ([LokalTapiola](https://www.lahitapiola.fi/sv/foretag/forsakringar/pensionsforsakringar/frivillig-pensionsforsakring-for-foretagare/))
@@ -727,7 +723,7 @@ you see that the market price is ~500€ nowadays, that's a *fair market value*.
     * Who is selling
     * What is being sold and their *fair market value* price
     * Signature, place, and date
-* Send an invoice to your company with all attachments above.
+* Send an invoice to your company with all the attachments above.
 * Your company won't get any VAT refunds from the items it buys from you. This is because you, as the *natural person*, are not registered in VAT-register. It doesn't matter if you mention the price of the laptop for example includes 25.5% VAT; in your company's accounting, it'll be VAT 0% anyway.
 
 ## Operation - what to do to **run** your company
@@ -779,7 +775,7 @@ However, not all costs are obvious and easily provable by a receipt like the one
 When you travel, your costs are increased because you are not familiar with the environment and not every business might offer you receipts like they do in Finland.
 Daily-allowance fixes this increased costs issue.
 
-**How much?** Between ~45€ and ~120€ per day, tax-free, depending on the destination country.
+**How much?** Between ~30€ and ~120€ per day, tax-free, depending on the destination country.
 
 For example, let's say you travel to a 5-day Python conference in Spain (75€/day).
 Once you come back to Finland, you are eligible for 5 days of daily-allowance (375€).
@@ -848,7 +844,7 @@ or *within 1 month* after it.
 Practically, your accountant assumes responsibility for it and will do it herself/himself, but remember that if your accountant fails to do so, you yourself are responsible.
 Therefore, check before the deadlines if the VAT reports have been done.
 
-* **Send EU VAT Recapitulative Statement reports**, *recurring* obligation: if you're invoicing a EU company, you need to [report its details](https://www.vero.fi/en/businesses-and-corporations/taxes-and-charges/vat/international-commerce/intra-community-trade/eu-vat-recapitulative-statement/).
+* **Send EU VAT Recapitulative Statement reports**, *recurring* obligation: if you're invoicing an EU company, you need to [report its details](https://www.vero.fi/en/businesses-and-corporations/taxes-and-charges/vat/international-commerce/intra-community-trade/eu-vat-recapitulative-statement/).
 This obligation is similar to *VAT reports* in the sense that it's fully your responsibility that this report is done correctly and on time, even though your accountant will do this for you.
 
 * **Send payroll reports**, *recurring* obligation: if you're taking out salary, *Employer Contribution report* and *Income Register report* must be done.
@@ -960,4 +956,4 @@ That's more than I could have asked for. Many thanks to each and every one of yo
   * From the bottom of my heart, I wanted to help you start your freelance journey and that this guide would save you the headache of
   having to read so many pages of different guides to do things correctly and in the right order.
   * I like it that when you have your own company, the profits generated get distributed more proportionally to those involved compared to being an employee,
-  and so I was hoping by providing some exact figures on revenues and costs, I'd inspire you to take a bigger risk and be proportionally compensated for it.
+  and so I was hoping by providing some exact figures on revenues and costs, I'd inspire you to **take a bigger risk and be proportionally compensated for it**.
