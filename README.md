@@ -268,9 +268,9 @@ In case of a limited liability company, the liability is *limited*, and in the a
 happens, and your personal assets are immune from the liability of the company.
 
 
-**How much?** ~240€ for online registration. It's a business cost. Later,
+**How much?** ~370€ for online registration. It's a business cost. Later,
 when your company is registered and accounting and bank account are setup,
-you can claim this ~240€ back from the company as you paid this money from your *personal* bank account even though it was a *business* cost.
+you can claim this ~370€ back from the company as you paid this money from your *personal* bank account even though it was a *business* cost.
 
 **What is the role of Business Information System?**
 
@@ -299,9 +299,9 @@ you'll update your company's information in Business Information System if there
   * You will be given 3 fields for company name, so prepare 2 backup names as well in case your primary name cannot be registered.
 
 * Choose your main line of business.
-  * Source of truth: [Statistics Finland](https://stat.fi/en/luokitukset/toimiala/toimiala_1_20080101/)
+  * Source of truth: [Statistics Finland](https://stat.fi/en/luokitukset/toimiala/toimiala_1_20080101)
   * Required by Tax Administration.
-  * For freelancing, you can choose any from [\[Information and communication > Computer programming, consultancy and related activities\]](https://stat.fi/en/luokitukset/toimiala/toimiala_1_20080101/?code=62&name=Computer%20programming,%20consultancy%20and%20related%20activities)
+  * For freelancing, you can choose any from [\[Information and communication > Computer programming, consultancy and related activities\]](https://stat.fi/en/luokitukset/toimiala/toimiala_1_20080101?code=62&name=Computer%20programming%2C%20consultancy%20and%20related%20activities)
 that you feel is most relevant.
   * `62010 Computer programming activities` is common as several freelancing agencies like Futurice and Reaktor have chosen that, so you can go with that as well.
 
@@ -321,7 +321,7 @@ To avoid this busy season, you can choose a fiscal year that ends well before (S
     > There  shall  be  between  one  and  five  regular  Members  of  the  Board  of Directors, unless it is otherwise provided in the Articles of Association. If there are  fewer  than  three  Members,  there  shall be  at  least one  Deputy  Member of the Board of Directors.
 
   * This means that, for your company to be legally compliant, it must have a *Deputy Member of the Board of Directors* when you are going to be the *only* regular member of Board of Directors as the CEO.
-  * *Deputy Member of the Board of Directors* would be held liable only [for decisions they make in board meetings](https://www.yrittajat.fi/uutiset/610877-saitko-kutsun-osakeyhtion-hallituksen-varajaseneksi-sinullakin-saattaa-olla#528cbe2f). In practice, unless you die or you are permanently unable to act as the CEO, *Deputy Member of the Board of Directors* won't have to make any decision so you can communicate this fact to them to help them with their decision making.
+  * *Deputy Member of the Board of Directors* would be held liable only [for decisions they make in board meetings](https://www.yrittajat.fi/uutiset/saitko-kutsun-osakeyhtion-hallituksen-varajaseneksi-sinullakin-saattaa-olla-velvollisuuksia/). In practice, unless you die or you are permanently unable to act as the CEO, *Deputy Member of the Board of Directors* won't have to make any decision so you can communicate this fact to them to help them with their decision making.
   * Once you get the person's consent, get his/her personal ID (henkilötunnus) as you'll need it for establishing the company.
 
 * Decide the registries you'd like your company to be part of:
