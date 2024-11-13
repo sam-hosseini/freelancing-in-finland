@@ -797,7 +797,7 @@ Once you come back to Finland, you are eligible for 5 days of daily-allowance (3
 
 ### Send your invoices carefully
 
-**Source of truth**: [Tax Administration](https://www.vero.fi/en/)
+**Source of truth**: [Tax Administration](https://www.vero.fi/en/individuals/)
 
 **In general**:
 
@@ -813,9 +813,9 @@ Once you come back to Finland, you are eligible for 5 days of daily-allowance (3
 * You must add 25.5% VAT to the total amount you're charging them for your freelance services.
 * You can, however, use [**reverse-charge mechanism**](https://quaderno.io/blog/how-does-the-reverse-charge-mechanism-work/) and not add VAT only when you're **invoicing a company** residing within EU. To do it:
     * You must state the EU company's VAT ID in your invoice.
-    * You must ensure that your EU company's VAT ID is valid by [checking it in VIES](https://ec.europa.eu/taxation_customs/vies/?locale=en)
+    * You must ensure that your EU company's VAT ID is valid by [checking it in VIES](https://ec.europa.eu/taxation_customs/vies/#/vat-validation)
     * You must mention the exact **`Reverse Charge`** words in your invoice.
-    * You must state that VAT is to be accounted for by the EU company. However, you must **not** mention the VAT rate **nor** the VAT amount to be accounted for by the EU company. This is explained in details in sections 6.1.9 and 6.1.10 of [VAT invoice requirements](https://www.vero.fi/en/detailed-guidance/guidance/48090/vat-invoice-requirements2).
+    * You must state that VAT is to be accounted for by the EU company. However, you must **not** mention the VAT rate **nor** the VAT amount to be accounted for by the EU company. This is explained in details in [VAT invoice requirements](https://www.vero.fi/en/detailed-guidance/guidance/48090/vat-invoice-requirements/).
     * *`reverse-charge mechanism`* works in the other way around too. In some checkout pages, the seller asks for your VAT ID to remove the VAT amount from your purchase invoice.
  Without this mechanism, the seller could not do that.
 
