@@ -699,7 +699,7 @@ Payouts can start at the age of ~70 and have to be paid out during at least <ins
 
 ### Consider selling your personal work-related tools to your company
 
-**Source of truth**: [Tax Administration](https://www.vero.fi/en/)
+**Source of truth**: [Tax Administration](https://www.vero.fi/en/individuals/)
 
 **What is it?** When you were an `employee`, your employer gave you work-related tools like laptop, phone, desk and a chair to do your work.
 Now, your company (`legal entity`) can buy from you (`natural person`) work-related tools in a similar fashion.
