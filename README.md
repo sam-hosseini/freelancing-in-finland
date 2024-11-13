@@ -639,7 +639,7 @@ Therefore, practice caution with this subject and take advice from Vero or an ac
     * You cannot go to any public health station, you should go to the health station assigned to you.
     * You cannot book a doctor's appointment online.
     * You cannot jump the [Nurse -> Doctor -> Specialist] rule.
-    * You will not pay more than ~700€ per year for medical costs or ~600€ per year for medicine [as there are laws protecting you from that](https://stm.fi/terveydenhuollon-maksukatto).
+    * You will not pay more than ~765€ per year for medical costs or ~630€ per year for medicine [as there are laws protecting you from that](https://stm.fi/terveydenhuollon-maksukatto).
 * In **private**:
     * You can go to any private health station you wish.
     * You can book your appointments online and usually get a doctor's appointment either the same day or day-after.
@@ -652,10 +652,10 @@ Comparison of health insurance providers:
 
 |                                                              | No need to fill health declaration form | No need to have `occupational healthcare` agreement from a service provider (~500€ per year) | No need to apply for reimbursements yourself | Price per year + Deductible | Anything else?                           |
 | ------------------------------------------------------------ | --------------------------------------- | ------------------------------------------------------------ | -------------------------------------------- | --------------------------- | ---------------------------------------- |
-| [OP - Basic](https://www.op.fi/corporate-customers/insurance/personal-insurance/health-insurance) | ✅                                       | ❌                                                            | ✅                                            | ?                           | Need accident insurance (~200€ per year) |
-| [OP - Comprehensive](https://www.op.fi/corporate-customers/insurance/personal-insurance/health-insurance) | ✅                                       | ❌                                                            | ✅                                            | ?                           | Need accident insurance (~200€ per year) |
-| [OP - Extra](https://www.op.fi/corporate-customers/insurance/personal-insurance/health-insurance) | ✅                                       | ✅                                                            | ✅                                            | ~350€ + 100€                | Need accident insurance (~200€ per year) |
-| [OP - Super](https://www.op.fi/corporate-customers/insurance/personal-insurance/health-insurance) | ✅                                       | ✅                                                            | ✅                                            | ~1,800€                      | Need accident insurance (~200€ per year) |
+| [OP - Basic](https://www.op.fi/en/corporate-customers/insurance/personal-insurance/health-insurance) | ✅                                       | ❌                                                            | ✅                                            | ?                           | Need accident insurance (~200€ per year) |
+| [OP - Comprehensive](https://www.op.fi/en/corporate-customers/insurance/personal-insurance/health-insurance) | ✅                                       | ❌                                                            | ✅                                            | ?                           | Need accident insurance (~200€ per year) |
+| [OP - Extra](https://www.op.fi/en/corporate-customers/insurance/personal-insurance/health-insurance) | ✅                                       | ✅                                                            | ✅                                            | ~350€ + 100€                | Need accident insurance (~200€ per year) |
+| [OP - Super](https://www.op.fi/en/corporate-customers/insurance/personal-insurance/health-insurance) | ✅                                       | ✅                                                            | ✅                                            | ~1,800€                      | Need accident insurance (~200€ per year) |
 | If                                                           | ❌                                       | ✅                                                            | ✅                                            | ~ 153€ + 30€ per visit                           |                                          |
 
 **Steps**:
