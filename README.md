@@ -48,12 +48,12 @@ The ultimate resource for transitioning to freelancing for software developers �
 
 **eAccounting Finland Oy** is the exclusive sponsor of Freelancing-in-Finland guide 🧡
 
-For 4+ years, I've been using their accounting services <ins>for my own company</ins>.
+For 5+ years, I've been using their accounting services <ins>for my own company</ins>.
 
 So, I'm recommending what I use myself, with proper **skin in the game**. Here's why:
 
-* I’m extremely sensitive to fulfilling my company’s obligations and they haven't missed a deadline in 4+ years.
-* Every time I had a question in 4+ years, I got a reply to my email within 1-2 days. They’re extremely responsive and helpful.
+* I’m extremely sensitive to fulfilling my company’s obligations and they haven't missed a deadline in 5+ years.
+* Every time I had a question in 5+ years, I got a reply to my email within 1-2 days. They’re extremely responsive and helpful.
 * Their advice on tax planning has saved my company money. That's helpful when starting as a new entrepreneur.
 
 If you decided to use them for your company because of this introduction:
