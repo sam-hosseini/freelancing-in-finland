@@ -560,9 +560,9 @@ I have received offers from ~200€ up to ~500€ per year from different insura
 **Corporate liability insurance providers**:
 * if [corporate liability insurance](https://www.if.fi/yritysasiakkaat/vakuutukset/vastuuvakuutukset)
   * Insurance offer available in Finnish, Swedish, and English.
-* OP [corporate liability insurance](https://www.op.fi/corporate-customers/insurance/operational-insurance/liability-insurance)
+* OP [corporate liability insurance](https://www.op.fi/en/corporate-customers/insurance/operational-insurance/liability-insurance)
   * Insurance offer available in Finnish and Swedish.
-* Lähitapiola [corporate liability insurance](https://www.lahitapiola.fi/yritys/vakuutukset/omaisuus-ja-toiminta/toiminnan-vakuutukset)
+* Lähitapiola [corporate liability insurance](https://www.lahitapiola.fi/yritys/vakuutukset/omaisuusvakuutukset/vastuuvakuutus/)
   * Insurance offer available in ?
   * Online service available in ?
 
