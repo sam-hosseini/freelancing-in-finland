@@ -503,7 +503,7 @@ Minimum YEL                |  Maximum YEL
 
 ### Understand your new personal taxation situation
 
-**Source of truth**: [Tax Administration](https://www.vero.fi/en/)
+**Source of truth**: [Tax Administration](https://www.vero.fi/en/individuals/)
 
 **What is it?** As a `self-employed` person, your payslip is going to be different than what you used to have as
 an `employee` and practically speaking, you only pay `income tax` and nothing else.
