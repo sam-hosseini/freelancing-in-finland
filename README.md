@@ -147,10 +147,13 @@ by 5-20%, which would be their cut of the hourly rate. This means that, with one
 * Fika ☕️ with [Siili One](https://one.siili.com/en/) and get into their network.
 * Fika ☕️ with [HiQ](https://hiq.fi/en/subcontracting/) and get into their network.
 * Fika ☕️ with [7n](https://www.7n.com/become-a-7n-consultant/) and get into their network.
+* Fika ☕️ with [Consid](https://www.consid.com/contact/) and get into their network.
 * Register a profile with [Ework Group](https://www.eworkgroup.com/find-work) to be able to apply to their projects.
 * Register a profile with [Digia Hub](https://digiahub.com) to be able to apply to their projects.
 * Register a profile with [Vahvistus.fi](https://vahvistus.fi/join), a network run by Sysart, to be able to apply to their projects.
 * Apply for an account at [Tingent](https://tingent.inkopio.se/vms/register?action=register) to see their remote projects in Sweden.
+* Keep an eye on [Gofore Gigs](https://gigs.gofore.com/gigs) and apply to interesting projects.
+* Keep an eye on [Signify](https://www.careers.signify.com/global/en) and apply to interesting projects.
 
 **List of aggregate sites**:
 * Create a [job alert](https://www.linkedin.com/jobs/) on LinkedIn with:
@@ -159,6 +162,10 @@ by 5-20%, which would be their cut of the hourly rate. This means that, with one
   * Job type as `Contract`
 * Create a profile on [Nordgigs](https://nordgigs.com/) which aggregates freelance projects across Nordic countries and email you on a match with your `skill` tags.
 * Check [the Hub](https://thehub.io/jobs?positionTypes=5b8e46b3853f039706b6ea75&countryCode=FI) for freelance job types.
+
+**Other channels:**
+* Join the [Koodiklinikka](https://koodiklinikka.fi/) Slack and keep an eye on the #rekry channel for interesting opportunities.
+* Join the [Ohjelmistofriikit](https://ohjelmistofriikit.fi/) Slack and keep an eye on the #gigs channel for interesting opportunities.
 
 ### Wait until you find a project you like
 **What is it?** Finding a freelance project is like finding a job. A lot has to be in order for you to find the right project.
