@@ -463,8 +463,10 @@ and if we take a 75€/hour rate, you should expect to pay at least 75-150€ pe
 
 For example, if you get sick, your *daily sickness allowance* is calculated based on your YEL. The more you pay for YEL, the more *daily sickness allowance* you get.
 
+Similarly, when you want to buy occupational healthcare, you need to have YEL before you sign the contract (otherwise you will not get Kela reimbursements for occupational healthcare expenses, which can be a sizeable amount).
+
 Similarly, when you want to [buy a health insurance](https://github.com/sam-hosseini/freelancing-in-finland#consider-buying-health-insurance), no insurance company
-will sell you one without YEL. Because *YEL is the foundation* and a private health insurance <ins>builds on top</ins> of YEL.
+will sell you one without YEL. Because *YEL is the foundation* and a private health insurance <ins>builds on top</ins> of YEL. 
 
 **What is `YEL income` and `YEL contribution`?**
 
@@ -622,6 +624,18 @@ a job-seeker to be a full-time `employee` again, among other things.
 * According to [Federation of Unemployment Funds in Finland (TYJ)](https://www.tyj.fi/en/join-a-fund/membership-fees/), there's only one unemployment fund for the `self-employed`.
 * Join [Unemployment Fund for the self-employed](https://yrittajakassa.fi/en/home-2/).
 
+### Consider buying occupational health care
+
+An occupational health care contract allows you to use various health care services of the provider as a business expense.
+
+The cheapest occupational health care contracts are 100-200 € per year, plus roughly 200 € starting costs ("working conditions checkup").
+
+A significant portion of occupational health care costs (including yearly fees and starting costs) will be covered by Kela, but a requirement for Kela support is that you have already paid YEL.
+
+Having occupational health care is a requirement for some other benefits, such as dental care.
+
+If you intend to use private health care services, it will be much cheaper to sign an occupational health care contract, than it is to pay out of pocket as a private person.
+
 ### Consider buying health insurance
 
 **Source of truth**: [Ministry of Social Affairs and Health](https://stm.fi/en/frontpage)
@@ -653,7 +667,7 @@ Therefore, practice caution with this subject and take advice from Vero or an ac
 
 Comparison of health insurance providers:
 
-|                                                              | No need to fill health declaration form | No need to have `occupational healthcare` agreement from a service provider (~500€ per year) | No need to apply for reimbursements yourself | Price per year + Deductible | Anything else?                           |
+|                                                              | No need to fill health declaration form | No need to have `occupational healthcare` agreement from a service provider | No need to apply for reimbursements yourself | Price per year + Deductible | Anything else?                           |
 | ------------------------------------------------------------ | --------------------------------------- | ------------------------------------------------------------ | -------------------------------------------- | --------------------------- | ---------------------------------------- |
 | [OP - Basic](https://www.op.fi/en/corporate-customers/insurance/personal-insurance/health-insurance) | ✅                                       | ❌                                                            | ✅                                            | ?                           | Need accident insurance (~200€ per year) |
 | [OP - Comprehensive](https://www.op.fi/en/corporate-customers/insurance/personal-insurance/health-insurance) | ✅                                       | ❌                                                            | ✅                                            | ?                           | Need accident insurance (~200€ per year) |
