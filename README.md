@@ -653,7 +653,7 @@ Therefore, practice caution with this subject and take advice from Vero or an ac
 
 Comparison of health insurance providers:
 
-|                                                              | No need to fill health declaration form | No need to have `occupational healthcare` agreement from a service provider (~500€ per year) | No need to apply for reimbursements yourself | Price per year + Deductible | Anything else?                           |
+|                                                              | No need to fill health declaration form | No need to have `occupational healthcare` agreement from a service provider | No need to apply for reimbursements yourself | Price per year + Deductible | Anything else?                           |
 | ------------------------------------------------------------ | --------------------------------------- | ------------------------------------------------------------ | -------------------------------------------- | --------------------------- | ---------------------------------------- |
 | [OP - Basic](https://www.op.fi/en/corporate-customers/insurance/personal-insurance/health-insurance) | ✅                                       | ❌                                                            | ✅                                            | ?                           | Need accident insurance (~200€ per year) |
 | [OP - Comprehensive](https://www.op.fi/en/corporate-customers/insurance/personal-insurance/health-insurance) | ✅                                       | ❌                                                            | ✅                                            | ?                           | Need accident insurance (~200€ per year) |
