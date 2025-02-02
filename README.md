@@ -23,6 +23,7 @@ The ultimate resource for transitioning to freelancing for software developers �
   * [Consider buying corporate liability insurance](#consider-buying-corporate-liability-insurance)
   * [Consider joining a union](#consider-joining-a-union)
   * [Consider joining an unemployment fund](#consider-joining-an-unemployment-fund)
+  * [Consider buying occupational healthcare](#consider-buying-occupational-healthcare)
   * [Consider buying health insurance](#consider-buying-health-insurance)
   * [Consider getting dental care plan](#consider-getting-dental-care-plan)
   * [Consider buying voluntary pension insurance](#consider-buying-voluntary-pension-insurance)
@@ -622,6 +623,17 @@ a job-seeker to be a full-time `employee` again, among other things.
 * According to [Federation of Unemployment Funds in Finland (TYJ)](https://www.tyj.fi/en/join-a-fund/membership-fees/), there's only one unemployment fund for the `self-employed`.
 * Join [Unemployment Fund for the self-employed](https://yrittajakassa.fi/en/home-2/).
 
+### Consider buying occupational healthcare
+
+**Source of truth**: [Ministry of Social Affairs and Health](https://stm.fi/en/frontpage)
+
+**What is it?** An occupational healthcare contract allows you to use various healthcare services of the provider as a business expense.
+In addition, occupational healthcare is a requirement for some other benefits, such as dental care.
+
+**How much?** Starting from ~150€ per year. You need to pay ~200€ for an initial checkup too.
+
+[This section is work-in-progress]
+
 ### Consider buying health insurance
 
 **Source of truth**: [Ministry of Social Affairs and Health](https://stm.fi/en/frontpage)
@@ -672,7 +684,7 @@ Comparison of health insurance providers:
 
 **What is it?** An employer can offer dental care plan to its employees. The dental checks and/or procedures have to be not-for-beauty, related to the employees' health, and reasonable to be tax-deductible. More details in [section 3.2.3.4 Hammashoito](https://www.vero.fi/syventavat-vero-ohjeet/ohje-hakusivu/62486/henkilokuntaedut-verotuksessa9/). You can decide the upper yearly limit of what the employees can use for dental care per year. Each employee has to have the same sum on the contract, but by being `self-employed`, you can set the limit to what you want. Usual yearly dental care contracts range from 150€ to 3000€ per year. You will also have to decide if you pay for your checks/procedures personally and return them to yourself from your company, or if the company pays for them directly.
 
-Note that since 1.1.2025 the requirements for dental care were changed and nowadays it is no longer possible to offer dental care unless it is part of occupational health care. So if you do not offer occupational health care, you can no longer offer dental care.
+Note that since 1.1.2025 the requirements for dental care were changed and nowadays it is no longer possible to offer dental care unless it is part of occupational healthcare. So if you do not offer occupational healthcare, you can no longer offer dental care.
 
 Some available dental care providers:
 
