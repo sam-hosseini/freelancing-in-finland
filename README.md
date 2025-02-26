@@ -850,7 +850,7 @@ However, an overview of fundamentals can be illustrated.
 [limited liability company taxation fundamentals image]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/main/images/limited_liability_taxation.png
 [limited liability company taxation fundamentals link]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/main/images/limited_liability_taxation.png
 
-\* Taken from page 76 of [Finnish Enterprise Agencies guide to becoming an Entrepreneur in Finland - 2024](https://uusyrityskeskus.fi/wp-content/uploads/2024/02/Uusyrityskeskus_Guide_Becoming_an_Entrepreneur_in_Finland_2024-2-1.pdf)
+\* Taken from page 77 of [Finnish Enterprise Agencies guide to becoming an Entrepreneur in Finland - 2025](https://uusyrityskeskus.fi/wp-content/uploads/2025/02/Uusyrityskeskus_EN_Perustamisopas_2025_valmis-digi.pdf)
 
 ### Ensure that your obligations are fulfilled continuously
 
@@ -898,7 +898,7 @@ Calculators:
 
 Guides:
 * [Suomi.fi](https://www.suomi.fi/company/)
-* [Finnish Enterprise Agencies guide to becoming an Entrepreneur in Finland - 2024](https://uusyrityskeskus.fi/wp-content/uploads/2024/02/Uusyrityskeskus_Guide_Becoming_an_Entrepreneur_in_Finland_2024-2-1.pdf)
+* [Finnish Enterprise Agencies guide to becoming an Entrepreneur in Finland - 2025](https://uusyrityskeskus.fi/wp-content/uploads/2025/02/Uusyrityskeskus_EN_Perustamisopas_2025_valmis-digi.pdf)
 
 Governmental organizations to provide support for you:
 * [International House Helsinki](https://www.ihhelsinki.fi/)
