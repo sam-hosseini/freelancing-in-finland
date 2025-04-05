@@ -630,7 +630,7 @@ a job-seeker to be a full-time `employee` again, among other things.
 **What is it?** An occupational healthcare contract allows you to use various healthcare services of the provider as a business expense.
 In addition, occupational healthcare is a requirement for some other benefits, such as dental care.
 
-**How much?** Starting from ~150€ per year. You need to pay ~200€ for an initial checkup too.
+**How much?** From ~100€ to ~200€ per year. You need to pay ~200€ for an initial "working conditions checkup" too. If you already have [YEL](#buy-social-security-insurance-yel), you will get Kela reimbursements for a significant portion of both of these costs.
 
 [This section is work-in-progress]
 
