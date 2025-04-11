@@ -884,7 +884,7 @@ related to your *main line of business*, although it would also allow you to get
 Business Information System (ytj):
 
 * **File notification of changes to company information**, *non-recurring* obligation: any changes to company information has to be
-notified to Business Information System. For example, if your company's address changes, file a [notification of change](https://www.ytj.fi/en/index/notifications/notificationsofchanges/limitedliabilitycompanies.html).
+notified to Business Information System. For example, if your company's address changes, file a [notification of change](https://www.ytj.fi/en/index/notifications/notificationsofchanges.html).
 
 TE-services:
 
