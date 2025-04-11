@@ -518,18 +518,18 @@ From the `employee`'s perspective:
 
 1. The employer withholds 35% of 1,000€ as `income tax` => 350€
 2. The employer withholds 7.15% of 1,000€ as `TyEL pension insurance contribution` => 71.5€
-3. The employer withholds 1.50% of 1,000€ as `unemployment insurance contribution` => 15.0€
-4. The employer pays withheld amount of 436.5€ to Tax Administration and other insurance providers.
-5. The *employee* receives the rest which is 563.5€.
+3. The employer withholds 0.59% of 1,000€ as `unemployment insurance contribution` => 5.9€
+4. The employer pays withheld amount of 427.40€ to Tax Administration and other insurance providers.
+5. The *employee* receives the rest which is 572.6€.
 
 From the `employer`'s perspective:
 
-1. The employer has to pay 18.15% of 1,000€ as `Employee's pension insurance contribution` => 181.5€
-2. The employer has to pay 0.50% of 1,000€ as `Employer’s unemployment insurance contribution` => 5€
-3. The employer has to pay 0.70% of 1,000€ as `Occupational accident and disease insurance contribution` => 7€
-4. The employer has to pay 0.07% of 1,000€ as `Group life insurance contribution` => 0.7€
+1. The employer has to pay 17.38% of 1,000€ as `Employee's pension insurance contribution` => 173.8€
+2. The employer has to pay 0.80% of 1,000€ as `Employer’s unemployment insurance contribution` => 8€
+3. The employer has to pay 0.54% of 1,000€ as `Occupational accident and disease insurance contribution` => 5.4€
+4. The employer has to pay 0.06% of 1,000€ as `Group life insurance contribution` => 0.6€
 5. The employer has to pay 1.87% of 1,000€ as `Employers’ health insurance contribution` => 18.70€
-6. The employer pays ~210€ to Tax Administration and other insurance providers.
+6. The employer pays 206.5€ to Tax Administration and other insurance providers.
 
 **How is the payslip for a `self-employed`?** Imagine a basic example, in which a `self-employed` person receives 1,000€ salary from their own company, and his/her tax card says their tax is 35%.
 
@@ -542,7 +542,7 @@ From the `self-employed`'s perspective:
 From the company's perspective:
 
 1. The company has to pay 1.87% of 1,000€ as `Employers’ health insurance contribution` => 18.70€
-2. The company pays 15.30€ to Tax Administration.
+2. The company pays 18.70€ to Tax Administration.
 
 **What's the practical conclusion?** Because `Employers’ health insurance contribution` is such a small percentage, in the rest of this guide, I will intentionally assume
 that the `self-employed` people only pay `income tax` and nothing else.
