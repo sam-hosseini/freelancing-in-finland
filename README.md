@@ -276,9 +276,9 @@ In case of a limited liability company, the liability is *limited*, and in the a
 happens, and your personal assets are immune from the liability of the company.
 
 
-**How much?** ~370€ for online registration. It's a business cost. Later,
+**How much?** 290€ for online registration. It's a business cost. Later,
 when your company is registered and accounting and bank account are set up,
-you can claim this ~370€ back from the company as you paid this money from your *personal* bank account even though it was a *business* cost.
+you can claim this 280€ back from the company as you paid this money from your *personal* bank account even though it was a *business* cost.
 
 **What is the role of Business Information System?**
 
