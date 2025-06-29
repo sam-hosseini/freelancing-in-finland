@@ -276,14 +276,7 @@ In case of a limited liability company, the liability is *limited*, and in the a
 happens, and your personal assets are immune from the liability of the company.
 
 
-**How much?** 280/370€ for online registration. It's a business cost. Later,
-when your company is registered and accounting and bank account are set up,
-you can claim this 280/370€ back from the company as you paid this money from your *personal* bank account even though it was a *business* cost. You can find the most up-to-date status from [PRH](https://www.prh.fi/en/companiesandorganisations/yrityksen_perustaminen/osakeyhtio.html) but as of 2025 Jun 13th the 370€ start-up notification is needed if the company is subject to one or more of the following situations:
-1. The company has share capital.
-2. The shareholders include companies or other organisations.
-3. The persons you have filed do not all have a Finnish person identity code (the shareholders and the members of the board of directors, as well as the managing director, auditor, holders of procuration and representatives, if any).
-4. Standard articles of association created by the guided set-up package in the online service are not sufficient.
-5. The company is a public limited company (Plc).
+**How much?** €280. If the standard articles of association is not enough or you don't meet some unlikely requirements, you can customize it, but you have to pay €370 instead ([prh.fi](https://www.prh.fi/en/companiesandorganisations/yrityksen_perustaminen/osakeyhtio.html)). It's a business cost. Later, when your company is registered and accounting and bank account are set up, you can claim this 280/370€ back from the company as you paid this money from your *personal* bank account even though it was a *business* cost.
 
 **What is the role of Business Information System?**
 
