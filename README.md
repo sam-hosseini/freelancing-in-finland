@@ -276,9 +276,7 @@ In case of a limited liability company, the liability is *limited*, and in the a
 happens, and your personal assets are immune from the liability of the company.
 
 
-**How much?** ~370€ for online registration. It's a business cost. Later,
-when your company is registered and accounting and bank account are set up,
-you can claim this ~370€ back from the company as you paid this money from your *personal* bank account even though it was a *business* cost.
+**How much?** €280. If the standard articles of association is not enough or you don't meet some unlikely requirements, you can customize it, but you have to pay €370 instead ([prh.fi](https://www.prh.fi/en/companiesandorganisations/yrityksen_perustaminen/osakeyhtio.html)). It's a business cost. Later, when your company is registered and accounting and bank account are set up, you can claim this 280/370€ back from the company as you paid this money from your *personal* bank account even though it was a *business* cost.
 
 **What is the role of Business Information System?**
 
