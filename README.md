@@ -155,7 +155,7 @@ by 5-20%, which would be their cut of the hourly rate. This means that, with one
 * Apply for an account at [Tingent](https://tingent.inkopio.se/vms/register?action=register) to see their remote projects in Sweden.
 * Keep an eye on [Gofore Gigs](https://gigs.gofore.com/gigs) and apply to interesting projects.
 * Keep an eye on [Signify](https://www.careers.signify.com/global/en) and apply to interesting projects.
-* Apply for an account at [Experis.fi](https://www.experis.fi/fi/palvelumme/partner) to be able to apply to their projects.
+* Register as a partner company at [Experis](https://www.experis.fi/en/our-services/partner) to be able to apply to their projects.
 
 **List of aggregate sites**:
 * Create a [job alert](https://www.linkedin.com/jobs/) on LinkedIn with:
