@@ -750,41 +750,61 @@ you see that the market price is ~500€ nowadays, that's a *fair market value*.
 
 ### Offer yourself benefits that you like
 
-**Source of truth**: [Tax Administration](https://www.vero.fi/en/detailed-guidance/decisions/47380/in-kind-benefits-fringe-benefits-2025/)
+**Source of truth**: Vero's guidelines on [Fringe Benefits](https://www.vero.fi/syventavat-vero-ohjeet/ohje-hakusivu/47886/luontoisedut-verotuksessa14/) and [Personnel Benefits](https://www.vero.fi/syventavat-vero-ohjeet/ohje-hakusivu/62486/henkilokuntaedut-verotuksessa9/)
 
-**What is it?** You can offer yourself all the benefits `employees` have access to as a `self-employed` person. Up to the tax-free limits, it'll be only a business cost.
+**What is it?** Remember when you were an `employee` and your employer gave you benefits (lunch, phone, etc)?
+As a `self-employed` person, your company can offer you any benefit that you like too.
 
-|                              | Tax-free limit | [Edenred card service commission](https://edenred.fi/en/employer/price-list#card) | [Smartum card service commission](https://www.smartum.fi/en/smartum-service#costs) | [ePassi service commission](https://www.epassi.fi/en/employers/start-using-epassi) |
-| ---------------------------- | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------- |
-| Lunch benefit 🥗              | ~50€ per month  | 2.95% of the balance loaded                                  | 1.5% of the balance loaded                                   | 2% of the balance loaded |
-| Sport and cultural benefit 🎭 | 400€ per year   | 5.2% of the balance loaded                                   | 5% of the balance loaded                                     | 4.7% of the balance loaded |
-| Commuting benefit 🚌          | 3,400€ per year | 5.2% of the balance loaded                                   | 5% of the balance loaded                                     | 4.7% of the balance loaded |
+**How many types of benefits are there?** There are 2 types of benefits:
 
-* Phone benefit: you can pay your phone bill from company if you offer it as a 20€-phone-benefit every month to yourself.
-Phone bills are business cost when you only and only use it for business and not in your personal life. If you'd like to use a single subscription for both personal and business,
-you must offer it as a 20€-phone-benefit.
-* Internet subscription: your company can provide you an internet subscription for your home office. The subscription is not taxed if it is for work use. You can use it for personal use as well,
-but entertainment services should not be attached to the subscription, or the benefit will be taxable.
-* Vehicles: your company can own a car, bikes, etc. that you can use for commuting to your client office and work-related trips. Naturally, as your company owns these vehicles, all their repairs and maintenance are *business costs* which you can pay from your company and like every other *business cost*, get a refund for its VAT later.
-If you need to use these vehicles for non-work-related trips, ask your accountant whether it's a taxable benefit for you and act accordingly.
-* Massage benefit: if you offer yourself a *reasonable* amount of massage benefit (~50€/month for example) and that reasonable amount is *proportionate* to the amount of salary your pay yourself, you should be able to offer yourself massage benefit without a problem. However, just like all-things-tax-related, it's the Tax Administration officer who decides what's *reasonable* and what's *proportionate*.
-Therefore, practice caution with this particular benefit.
+* **Fringe benefits** are just like salary but in another form than money. And just like salary, fringe benefits must be reported to the Incomes Register, even if the offered benefit is within the tax-free limits. Generally, fringe benefits are reported on a monthly basis, unless otherwise specified.
 
-**Can you offer yourself only benefits?** Yes you can, but you must take a big enough salary to cover the `income tax` of the benefits you're offering yourself.
+* **Personnel benefits** are reasonable benefits provided to all staff, which means only you, the `self-employed`. Personnel benefits are <ins>not</ins> supposed to be compensation for work performed; therefore, you don't need to report them to the Incomes Register.
 
-For example, let's say in March, you paid your phone bill from company and therefore you must offer yourself a 20€-phone-benefit. You want no additional salary and your tax rate is 10%.
+**What are the most common benefits?**
+
+* Commuting benefit (`fringe benefit`): Tax-free up to 3,400€ per year. If the value of the benefit is more than 900€, you need to prove to your company how much does it actually cost you to travel between home and workplace. You don't need to do this, however, if you offer yourself this benefit up to 900€. This benefit can be reported to the Incomes Register annually.
+* Accommodation benefit (`fringe benefit`): Taxable value of the accomodation benefit is calculated every year according to [Vero's decision](https://www.vero.fi/en/detailed-guidance/decisions/47380/in-kind-benefits-fringe-benefits-2025/).
+In Helsinki inner city, it's ~300€ + ~13€ per square metre. So, a 50m² apartment's taxable value is ~950€. If unlimited electricity is included in the accomodation benefit, ~1€/m² should be added to the taxable value.
+* Car benefit (`fringe benefit`): Taxable value of the car benefit is calculated every year according to [Vero's decision](https://www.vero.fi/en/detailed-guidance/decisions/47380/in-kind-benefits-fringe-benefits-2025/).
+You can use [Vero's calculator](https://avoinomavero.vero.fi/?Language=ENG&Link=CompanyCar) to get an estimate.
+* Bicycle benefit (`fringe benefit`): Tax-free up to 1,200€ per year. This benefit can be reported to the Incomes Register annually.
+* Lunch benefit (`fringe benefit`): Taxable value of the lunch benefit is 75% of the maximum amount (~14€/working day).
+* Phone benefit (`fringe benefit`): If you use separate phone subscriptions for business and personal life, you can pay the business subscription directly from the company, as it's a business cost.
+However, if you want to use a single subscription for both business and personal life, then you must offer it as a phone benefit. Taxable value of the phone benefit is 20€.
+[In certain situations](https://www.vero.fi/en/incomes-register/companies-and-organisations/employers/earnings-payment-data/fringe-benefits/), you can report the phone benefit once a year in advance.
+* Massage benefit (`personnel benefit`): Tax-free up to 400€ per year.
+* Sports and cultural activities benefit (`personnel benefit`): Tax-free up to 400€ per year.
+* Internet subscription benefit (`personnel benefit`): Tax-free up to 1 subscription per personnel.
+You cannot attach entertainment services (Netflix, HBO, etc) to the internet subscription if you want the benefit to remain tax-free.
+
+**Can you offer yourself only fringe benefits?** Yes you can, but you must take a big enough salary to cover the `income tax` of the fringe benefits you're offering yourself.
+
+For example, let's say in March, your company paid your phone bill and therefore you must offer yourself a 20€-phone-benefit. You want no additional salary and your tax rate is 10%.
 
 10% of 20€-phone-benefit is 2€. This means that you must take a big enough salary in March to cover this 2€ tax that you have to pay.
 Therefore, in March, your salary must be 2.22€. When you deduct your 10% tax from 2.22€ salary, 2€ is left, which will cover the 2€ tax that you have to pay for 20€-phone-benefit.
 
-**Should you offer yourself benefits above the tax-free limit?** You can but it will be similar to taking salary in case of a `self-employed` person.
+**Should you offer yourself benefits above the tax-free limits?** You can, but it will be just like taking a salary.
 
-As seen in [understanding your new personal taxation situation](#understand-your-new-personal-taxation-situation), the `self-employed` only pay `income tax` on their income and nothing else.
-So if you offer yourself 1,000€ salary and your tax rate is 35%, you get 650€. If you offer yourself 1,000€ as benefit, you will also get 650€.
+As seen in [understanding your new personal taxation situation](#understand-your-new-personal-taxation-situation), the `self-employed` only pay `income tax` on their income and nothing else. Therefore:
+* If you offer yourself 1,000€ as salary, and your tax rate is 35%, you pay 350€ in taxes.
+* If you offer yourself 1,000€ as benefit (above the limit), and your tax rate is 35%, you pay 350€ in taxes.
 
-**Who ensures that you do not go above the tax-free limit?** Your company, the `legal entity`, must ensure that its owner, you as the `natural person`, is not offered benefits above the tax-free
-limits, because if you are offered, it must be reported and taxed. This is important, because you as the representative of the company can order even 10,000€ of Sport and cultural benefit, but
-if you go ahead and use it all within that calendar year, you must report it and pay tax on the 9,600€ part.
+**Who ensures that you don't go above the tax-free limits?** Your company, the `legal entity`, must ensure that its owner, you as the `natural person`, is not offered benefits above the tax-free
+limits, because if you are offered, it must be reported and taxed. This is important, because you as the representative of the company can order even 10,000€ of Sports and cultural activities benefit.
+But the moment you make that 10,000€ benefit <ins>available</ins> to yourself, 400€ will be tax-free and the rest (9,600€) is counted as salary for you, which you must report and pay tax on.
+
+**Steps**:
+* Choose the benefits you'd like to offer yourself.
+* Educate yourself on each of the benefits you're gonna offer yourself.
+  * This is necessary because each benefit has many rules you must follow for it to remain tax-free.
+  * Therefore, it's wise to invest this time upfront to prevent potential complications with Vero.
+  * You can do this by reading the benefit's specific section in Vero's guidelines on [fringe benefits](https://www.vero.fi/syventavat-vero-ohjeet/ohje-hakusivu/47886/luontoisedut-verotuksessa14/) and [personnel benefits](https://www.vero.fi/syventavat-vero-ohjeet/ohje-hakusivu/62486/henkilokuntaedut-verotuksessa9/).
+* Choose the provider you'd like to offer yourself benefits with.
+  * You can offer yourself all available benefits through any of these 3 providers: [Edenred](https://edenred.fi/en/employer/price-list) — [Smartum](https://www.smartum.fi/en/smartum-service) — [ePassi](https://www.epassi.fi/en/employers/start-using-epassi)
+  * You can use other providers too. For example, in Helsinki, you can offer yourself commuting benefit with [HSL](https://www.hsl.fi/en/for-companies/products-and-services/commuter-benefit).
+* Register with the provider and offer yourself the benefits that you'd like.
 
 ### Offer yourself daily allowance when you travel for business
 
