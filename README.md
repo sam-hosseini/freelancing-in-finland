@@ -30,7 +30,7 @@ The ultimate resource for transitioning to freelancing for software developers �
   * [Consider selling your personal work-related tools to your company](#consider-selling-your-personal-work-related-tools-to-your-company)
 * [Operation - what to do to **run** your company](#operation---what-to-do-to-run-your-company)
   * [Offer yourself benefits that you like](#offer-yourself-benefits-that-you-like)
-  * [Offer yourself daily-allowance when you travel for business](#offer-yourself-daily-allowance-when-you-travel-for-business)
+  * [Offer yourself daily allowance when you travel for business](#offer-yourself-daily-allowance-when-you-travel-for-business)
   * [Send your invoices carefully](#send-your-invoices-carefully)
   * [Take out money from your company in the most tax optimal way](#take-out-money-from-your-company-in-the-most-tax-optimal-way)
   * [Ensure that your obligations are fulfilled continuously](#ensure-that-your-obligations-are-fulfilled-continuously)
@@ -786,19 +786,19 @@ So if you offer yourself 1,000€ salary and your tax rate is 35%, you get 650�
 limits, because if you are offered, it must be reported and taxed. This is important, because you as the representative of the company can order even 10,000€ of Sport and cultural benefit, but
 if you go ahead and use it all within that calendar year, you must report it and pay tax on the 9,600€ part.
 
-### Offer yourself daily-allowance when you travel for business
+### Offer yourself daily allowance when you travel for business
 
 **Source of truth**: [Tax Administration](https://www.vero.fi/en/detailed-guidance/decisions/47405/tax-exempt-allowances-in-2025-for-business-travel/)
 
 **What is it?** When you travel for business, your company pays for obvious costs like accomodation, flight tickets and transportation to-and-from the airport.
 However, not all costs are obvious and easily provable by a receipt like the ones mentioned before.
 When you travel, your costs are increased because you are not familiar with the environment and not every business might offer you receipts like they do in Finland.
-Daily-allowance fixes this increased costs issue.
+Daily allowance fixes this increased costs issue.
 
 **How much?** Between ~30€ and ~120€ per day, tax-free, depending on the destination country.
 
 For example, let's say you travel to a 5-day Python conference in Spain (75€/day).
-Once you come back to Finland, you are eligible for 5 days of daily-allowance (375€).
+Once you come back to Finland, you are eligible for 5 days of daily allowance (375€).
 
 **Steps**:
 * You need to document your business actions in a daily journal.
@@ -807,7 +807,7 @@ Once you come back to Finland, you are eligible for 5 days of daily-allowance (3
   * For example, if you're going to a 5-day Python conference, write down what happened in the conference on that day on a high level.
 * If you don't take business actions during a particular day, you don't need to document it, and you won't get daily allowance for that day.
 * After the trip, send your company a travel invoice.
-  * Choose the destination country in your company's accounting software to get the exact daily-allowance fee.
+  * Choose the destination country in your company's accounting software to get the exact daily allowance fee.
   * Write down the number of days in your daily journal in the travel invoice.
   * Attach the daily journal.
 
