@@ -25,7 +25,6 @@ The ultimate resource for transitioning to freelancing for software developers �
   * [Consider joining an unemployment fund](#consider-joining-an-unemployment-fund)
   * [Consider arranging statutory preventive occupational healthcare (SPOH)](#consider-arranging-statutory-preventive-occupational-healthcare-spoh)
   * [Consider buying health insurance](#consider-buying-health-insurance)
-  * [Consider getting dental care plan](#consider-getting-dental-care-plan)
   * [Consider buying voluntary pension insurance](#consider-buying-voluntary-pension-insurance)
   * [Consider selling your personal work-related tools to your company](#consider-selling-your-personal-work-related-tools-to-your-company)
 * [Operation - what to do to **run** your company](#operation---what-to-do-to-run-your-company)
@@ -676,26 +675,6 @@ Comparison of health insurance providers:
 
 * Contact the insurance provider you chose and get a quote for your specific health insurance package.
 * Be ready to answer basic questions about your business like your estimated annual revenue, your `YEL income`, main line of business and many more.
-
-### Consider getting dental care plan
-
-**Source of truth**: [Tax Administration](https://www.vero.fi/en/individuals/)
-
-**What is it?** An employer can offer dental care plan to its employees. The dental checks and/or procedures have to be not-for-beauty, related to the employees' health, and reasonable to be tax-deductible. More details in [section 3.2.3.4 Hammashoito](https://www.vero.fi/syventavat-vero-ohjeet/ohje-hakusivu/62486/henkilokuntaedut-verotuksessa9/). You can decide the upper yearly limit of what the employees can use for dental care per year. Each employee has to have the same sum on the contract, but by being `self-employed`, you can set the limit to what you want. Usual yearly dental care contracts range from 150€ to 3000€ per year. You will also have to decide if you pay for your checks/procedures personally and return them to yourself from your company, or if the company pays for them directly.
-
-Note that since 1.1.2025 the requirements for dental care were changed and nowadays it is no longer possible to offer dental care unless it is part of occupational healthcare. So if you do not offer occupational healthcare, you can no longer offer dental care.
-
-Some available dental care providers:
-
-* [Mehiläinen](https://www.mehilainen.fi/en/occupational-health/occupational-dental-care)
-* [Oral](https://www.oral.fi/en/information/information-for-fustomers/occupational-dental-care/)
-
-**Steps**:
-
-* Contact the dental care provider and ask for an offer/contract for your company.
-* Sign the contract and provide details of the person (you) to be included in the plan.
-* Book your checkups and/or procedures with your dental care provider's dentist.
-* Either pay yourself or with your company and include the payments into your accounting.
 
 ### Consider buying voluntary pension insurance
 
