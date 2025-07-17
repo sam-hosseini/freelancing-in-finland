@@ -773,6 +773,11 @@ You can use [Vero's calculator](https://avoinomavero.vero.fi/?Language=ENG&Link=
 * Phone benefit (`fringe benefit`): If you use separate phone subscriptions for business and personal life, you can pay the business subscription directly from the company, as it's a business cost.
 However, if you want to use a single subscription for both business and personal life, then you must offer it as a phone benefit. Taxable value of the phone benefit is 20€.
 [In certain situations](https://www.vero.fi/en/incomes-register/companies-and-organisations/employers/earnings-payment-data/fringe-benefits/), you can report the phone benefit once a year in advance.
+* Wellbeing benefit (`personnel benefit`):
+Tax-free up to 3,000€ per year.
+Using this benefit, you can only pay for services that promote your work ability, not your aesthetics.
+These include dental care (check-ups, fillings, removing tartar), medical care (doctors, specialists, etc), and physiotherapy, among others.
+Additionally, each service and its scope has to be part of the <ins>action plan</ins> of your [statutory preventive occupational healthcare](#consider-arranging-statutory-preventive-occupational-healthcare-spoh).
 * Massage benefit (`personnel benefit`): Tax-free up to 400€ per year.
 * Sports and cultural activities benefit (`personnel benefit`): Tax-free up to 400€ per year.
 * Internet subscription benefit (`personnel benefit`): Tax-free up to 1 subscription per personnel.
