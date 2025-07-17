@@ -23,7 +23,7 @@ The ultimate resource for transitioning to freelancing for software developers ð
   * [Consider buying corporate liability insurance](#consider-buying-corporate-liability-insurance)
   * [Consider joining a union](#consider-joining-a-union)
   * [Consider joining an unemployment fund](#consider-joining-an-unemployment-fund)
-  * [Consider buying occupational healthcare](#consider-buying-occupational-healthcare)
+  * [Consider arranging statutory preventive occupational healthcare (SPOH)](#consider-arranging-statutory-preventive-occupational-healthcare-spoh)
   * [Consider buying health insurance](#consider-buying-health-insurance)
   * [Consider getting dental care plan](#consider-getting-dental-care-plan)
   * [Consider buying voluntary pension insurance](#consider-buying-voluntary-pension-insurance)
@@ -622,7 +622,7 @@ a job-seeker to be a full-time `employee` again, among other things.
 * According to [Federation of Unemployment Funds in Finland (TYJ)](https://www.tyj.fi/en/join-a-fund/membership-fees/), there's only one unemployment fund for the `self-employed`.
 * Join [Unemployment Fund for the self-employed](https://yrittajakassa.fi/en/home-2/).
 
-### Consider buying occupational healthcare
+### Consider arranging statutory preventive occupational healthcare (SPOH)
 
 **Source of truth**: [Ministry of Social Affairs and Health](https://stm.fi/en/frontpage)
 
