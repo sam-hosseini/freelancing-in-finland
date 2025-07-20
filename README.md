@@ -462,7 +462,7 @@ and if we take a 75€/hour rate, you should expect to pay at least 75-150€ pe
 
 For example, if you get sick, your *daily sickness allowance* is calculated based on your YEL. The more you pay for YEL, the more *daily sickness allowance* you get.
 
-Similarly, when you want to [buy a health insurance](https://github.com/sam-hosseini/freelancing-in-finland#consider-buying-health-insurance), no insurance company
+Similarly, when you want to [buy a health insurance](#consider-buying-health-insurance), no insurance company
 will sell you one without YEL. Because *YEL is the foundation* and a private health insurance <ins>builds on top</ins> of YEL.
 
 **What is `YEL income` and `YEL contribution`?**
