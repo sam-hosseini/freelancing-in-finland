@@ -623,58 +623,105 @@ a job-seeker to be a full-time `employee` again, among other things.
 
 ### Consider arranging statutory preventive occupational healthcare (SPOH)
 
-**Source of truth**: [Ministry of Social Affairs and Health](https://stm.fi/en/frontpage)
+**Source of truth**: Vero's guidelines on [occupational healthcare](https://www.vero.fi/syventavat-vero-ohjeet/ohje-hakusivu/48117/yrittajan-tyoterveyshuollon-kustannukset-verotuksessa/)
 
-**What is it?** An occupational healthcare contract allows you to use various healthcare services of the provider as a business expense.
-In addition, occupational healthcare is a requirement for some other benefits, such as dental care.
+**What is it?** SPOH is a system designed to prevent work-related illnesses and accidents.
 
-**How much?** From ~100€ to ~200€ per year. You need to pay ~200€ for an initial "working conditions checkup" too. If you already have [YEL](#buy-social-security-insurance-yel), you will get Kela reimbursements for a significant portion of both of these costs.
+[Kela's quick guide on SPOH](https://www.kela.fi/tyonantajat-tyoterveyshuolto-pikaopas) is exceptionally well-written and gives you an excellent overview of the whole process.
 
-[This section is work-in-progress]
+* **Statutory** means it's required by law. That's the case for all companies with at least one `employee`.
+However, as a `self-employed` person, you are not required to arrange SPOH for yourself as you're not employing anyone.
+
+* **Preventive** means it's meant to prevent problems, not deal with problems after they happen.
+  * Preventing problems means, for example, conducting a **workplace survey** and compiling an **action plan** (explained below).
+  * Dealing with problems means getting medical care (from nurses, doctors, etc), which is <ins>outside the scope of SPOH</ins>.
+
+* **Occupational healthcare** means it's work-related. Therefore, it's arranged and paid for by the company.
+
+**What is a workplace survey?** It's when an occupational healthcare professional visits your workplace
+to assess health risks and propose measures to improve your working conditions and your work ability.
+The workplace survey results in an action plan.
+
+**What is an action plan?** It's a free-form document, based on workplace survey, that specifies the general objectives of your SPOH.
+Some SPOH providers artificially cap the validity period of an action plan to 5 years, even though there's no legal requirement to do so.
+Action plan must be reviewed annually together with the provider.
+
+**When should I arrange SPOH for myself?**
+Using healthcare services (doctors, dentists, etc) costs money (healthcare fees, insurance premiums, etc).
+These costs, from the taxation perspective, are your personal costs.
+If you want your company to offer healthcare services to you, tax-free, it is only possible
+if those healthcare services are included in the <ins>action plan</ins> of your SPOH.
+
+**How much?**
+* Workplace survey costs ~200€
+* Annual review of action plan costs from ~100€ to ~200€
+* If you have [YEL](#buy-social-security-insurance-yel), Kela would [reimburse](https://www.kela.fi/health-care-self-employed-persons#how-to-claim-reimbursement-for-occupational-healthcare-costs) 60% of these costs to your company.
+
+**Steps**:
+* Request a quote from SPOH providers.
+  * From your local health station.
+  * [Terveystalo](https://www.terveystalo.com/en/occupational-healthcare/become-a-customer/for-entrepreneurs)
+  * [Mehiläinen](https://www.mehilainen.fi/en/occupational-health)
+  * [Heltti](https://heltti.fi/en/occupational-health/small-companies/)
+  * [Pihlajalinna](https://www.pihlajalinna.fi/en/occupational-health-care/occupational-health-services-for-companies/statutory-preventive-occupational-health-care)
+  * [Aava](https://www.aava.fi/tyoterveys/tyoterveyspalvelumme/yrittajalle/)
+* Evaluate each quote.
+  * What are the start-up costs (workplace survey, action plan, etc)?
+  * What are the annual costs (action plan review, etc)?
+  * Do they apply for Kela reimbursements on your behalf, or should you do it yourself?
+* Purchase SPOH from the best provider.
+
+
+
 
 ### Consider buying health insurance
 
-**Source of truth**: [Ministry of Social Affairs and Health](https://stm.fi/en/frontpage)
+**Source of truth**: Vero's guidelines on [health insurance](https://www.vero.fi/syventavat-vero-ohjeet/ohje-hakusivu/48347/tyonantajan-ottaman-sairauskuluvakuutuksen-verotus2/)
+and [voluntary insurances](https://www.vero.fi/syventavat-vero-ohjeet/ohje-hakusivu/48521/ty%C3%B6nantajan-ottamien-vapaaehtoisten-riskihenkil%C3%B6vakuutusten-verotus3/)
 
-**What is it?** As a `self-employed` person, you are not legally obligated to buy `occupational healthcare` for yourself.
-Therefore, when you fall ill and the issue is not urgent, you can go to public health stations or private.
-To partially or fully cover the medical costs, you may want to buy an appropriate health insurance.
+**What is it?** Your company can buy a health insurance that covers your medical expenses.
+This allows you to get private medical care, instead of public, so you can get back to work as soon as possible.
 
-**Is it a tax-free benefit?** For you, as the target audience of this guide and the assumptions that come with it, and given that the absolute source of truth is Vero itself,
-the answer is yes, if it's a health insurance all your freelancer friends take as well — meaning it's <u>*reasonable*</u> and <u>*usual*</u> — and if and only if you buy `occupational healthcare` as well.
-This new rule of having to buy an `occupational healthcare` for the health insurance to remain tax-free was added in 2024 and is explained on Vero's in-depth instruction on the subject, in particular in [section 3.1](https://www.vero.fi/syventavat-vero-ohjeet/ohje-hakusivu/48347/tyonantajan-ottaman-sairauskuluvakuutuksen-verotus2#3.1-osakkeenomistaja-ja-henkil%C3%B6yhti%C3%B6n-yhti%C3%B6mies).
-Like all-things-tax-related, it's the Tax Administration officer who decides what's <u>*reasonable*</u> and what's <u>*usual*</u>.
-Therefore, practice caution with this subject and take advice from Vero or an accountant/lawyer if you want to be certain.
+**What kind of an expense is a health insurance?**
+* If your company follows Vero's conditions for tax-exemption, it's a [personnel benefit](#offer-yourself-benefits-that-you-like).
+* If your company fails to follow Vero's conditions for tax-exemption, it's taxable income for you.
+
+**What are Vero's conditions for tax-exemption?**
+* Health insurance must meet the general requirements that apply to all [personnel benefits](#offer-yourself-benefits-that-you-like).
+* Health insurance must be part of the **action plan** of your [statutory preventive occupational healthcare](#consider-arranging-statutory-preventive-occupational-healthcare-spoh).
+* Health insurance premium should **not** be more than 1000€ under any circumstances.
+* Health insurance maximum compensation per individual illness/accident should **not** be more than 10,000€.
 
 **How do public and private compare?**
 
 * In **public**:
-    * You cannot go to any public health station, you should go to the health station assigned to you.
-    * You cannot book a doctor's appointment online.
+    * You can only go to your local health station.
+    * You can only book an appointment online after a healthcare professional has assessed your situation.
     * You cannot jump the [Nurse -> Doctor -> Specialist] rule.
-    * You will not pay more than ~765€ per year for medical costs or ~630€ per year for medicine [as there are laws protecting you from that](https://stm.fi/terveydenhuollon-maksukatto).
+    * [Finnish law protects you](https://stm.fi/terveydenhuollon-maksukatto) from paying more than ~765€/year for medical expenses or ~635€/year for medicine.
 * In **private**:
-    * You can go to any private health station you wish.
-    * You can book your appointments online and usually get a doctor's appointment either the same day or day-after.
-    * There's no rule preventing you from seeing an specialist straight away.
+    * You can go to any health station you like.
+    * You can book an appointment online, usually for the same day or the day after.
+    * You can book directly with a specialist if you like.
     * It's expensive.
 
-**When is it necessary?** If you wish to go to private for non-urgent issues and you'd like the health insurance to cover it.
-
-Comparison of health insurance providers:
-
-|                                                              | No need to fill health declaration form | No need to have `occupational healthcare` agreement from a service provider | No need to apply for reimbursements yourself | Price per year + Deductible | Anything else?                           |
-| ------------------------------------------------------------ | --------------------------------------- | ------------------------------------------------------------ | -------------------------------------------- | --------------------------- | ---------------------------------------- |
-| [OP - Basic](https://www.op.fi/en/corporate-customers/insurance/personal-insurance/health-insurance) | ✅                                       | ❌                                                            | ✅                                            | ?                           | Need accident insurance (~200€ per year) |
-| [OP - Comprehensive](https://www.op.fi/en/corporate-customers/insurance/personal-insurance/health-insurance) | ✅                                       | ❌                                                            | ✅                                            | ?                           | Need accident insurance (~200€ per year) |
-| [OP - Extra](https://www.op.fi/en/corporate-customers/insurance/personal-insurance/health-insurance) | ✅                                       | ✅                                                            | ✅                                            | ~350€ + 100€                | Need accident insurance (~200€ per year) |
-| [OP - Super](https://www.op.fi/en/corporate-customers/insurance/personal-insurance/health-insurance) | ✅                                       | ✅                                                            | ✅                                            | ~1,800€                      | Need accident insurance (~200€ per year) |
-| If                                                           | ❌                                       | ✅                                                            | ✅                                            | ~ 153€ + 30€ per visit                           |                                          |
-
 **Steps**:
-
-* Contact the insurance provider you chose and get a quote for your specific health insurance package.
-* Be ready to answer basic questions about your business like your estimated annual revenue, your `YEL income`, main line of business and many more.
+* Prepare the information that providers will most likely ask for.
+  * Your company's main line of business.
+  * Your company's estimated annual revenue.
+  * Your `YEL income`.
+* Request a quote from health insurance providers.
+  * [OP](https://www.op.fi/en/corporate-customers/insurance/personal-insurance/health-insurance)
+  * [If](https://www.if.fi/en/commercial/insurances/person-insurance/health-insurance)
+  * [Turva](https://www.turva.fi/yritys/yritysvakuutukset/henkilovakuutukset/sairauskuluvakuutus/)
+  * [Fennia](https://www.fennia.fi/yrittajan-vakuutukset/yrittajan-sairausvakuutus)
+  * [LähiTapiola](https://www.lahitapiola.fi/yritys/vakuutukset/henkilovakuutukset/sairauskuluvakuutus-yrityksille-ja-yhteisoille/)
+* Evaluate each quote.
+  * Do you need to fill a health declaration form?
+  * Do they support direct billing so you don't have to apply for reimbursements yourself?
+  * Who's responsible for paying the deductible (if any)? Your company, or yourself?
+  * Does it comply with Vero's conditions for tax-exemption?
+* Purchase health insurance from the best provider.
 
 ### Consider buying voluntary pension insurance
 
@@ -897,6 +944,10 @@ TE-services:
 
 * **Apply for startup grant payment**, *recurring* obligation: you must apply for startup grant payment retroactively within 2 months after the month you're applying for.
 For example, if you're applying for the month of March, you have until end of May to apply.
+
+Kela:
+* **Apply for statutory preventive occupational healthcare compensation**, *recurring* obligation:
+you must apply for SPOH compensation, with one application, within 6 months of the end of your company's fiscal year.
 
 ### References
 
