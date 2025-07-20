@@ -1030,7 +1030,7 @@ Now that you've reached the end, I can tell you that I wrote this guide **with b
   * **I wanted to make money**, and I managed to do it with a few sponsorship deals.
   I'm happy I've reached this goal 😊
 
-  * **I wanted to get more LinkedIn followers**, and 100+ people did [follow me](https://www.linkedin.com/in/thesamhosseini/) because of this guide 😊
+  * **I wanted to get more LinkedIn connections**, and 100+ people did [connect with me](https://www.linkedin.com/in/thesamhosseini/) because of this guide 😊
 That's more than I could have asked for. Many thanks to each and every one of you 🙌🏼
 
 * Selfless reasons:
