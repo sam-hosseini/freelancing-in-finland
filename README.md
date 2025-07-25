@@ -7,6 +7,7 @@ The ultimate resource for transitioning to freelancing for software developers ð
 * [Introduction](#introduction)
   * [What problem will you face without this guide?](#what-problem-will-you-face-without-this-guide)
   * [How can this guide solve the problem?](#how-can-this-guide-solve-the-problem)
+  * [**I have questions specific to my case**. Do you offer personal consultation?](#i-have-questions-specific-to-my-case-do-you-offer-personal-consultation)
 * [Preparation - what to do **before** you establish your company](#preparation---what-to-do-before-you-establish-your-company)
   * [Know how to handle your upcoming new immigration status](#know-how-to-handle-your-upcoming-new-immigration-status)
   * [Network with freelance brokers and organizations](#network-with-freelance-brokers-and-organizations)
@@ -94,6 +95,38 @@ You are the target audience of this guide if:
 
 This guide is under [MIT license](https://github.com/sam-hosseini/freelancing-in-finland/blob/main/LICENSE.md) which means **use it at your own risk**,
 I'm not a lawyer and no statement here should be thought of as legal advice.
+
+### **I have questions specific to my case**. Do you offer personal consultation?
+
+Yes, I do.
+
+**What's your background?**
+* I started working as a software developer in 2015 and established my company in 2019.
+* I published this guide in 2020 and have kept it up to date ever since.
+* Since 2019, I've spent over 1000 hours researching everything. [40 hours on this commit](https://github.com/sam-hosseini/freelancing-in-finland/commit/4a00d57d5ed6773c4a266d29b6f151973fb476b2), for example.
+
+**What can you help me with?**
+I can help with every stage of your freelancing journey because I've been through it all.
+
+* If you haven't started yet and are thinking about whether to make the jump:
+  * I can tell you what it's like, what you should expect, etc.
+* If you've just established your company and don't have the time or energy to read the guide:
+  * I can give you specific help quickly so you can set a good foundation and move on.
+* If you've been running your company for some years and need feedback on your setup or costs:
+  * I can look at your situation and offer suggestions for optimizing your fixed costs, YEL, taxes, etc.
+
+**How much?**
+â‚¬100 per hour, plus VAT.
+
+**OK. How can I book?**
+You can [book a time here](https://cal.com/sam-hosseini/freelancing-in-finland-consultation). Afterwards:
+
+* I'll review your booking and email you an invoice.
+* Once the payment is received, I'll confirm the meeting.
+* We'll meet at your selected time via video call.
+
+**Can't find a time that works?**
+No problem. Email me at sam@hosseini.io and we'll figure something out.
 
 ## Preparation - what to do **before** you establish your company
 
