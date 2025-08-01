@@ -10,6 +10,8 @@ cover-image: ./images/ebook_cover_image.png
 
 The ultimate resource for transitioning to freelancing for software developers 👩‍💻🇫🇮
 
+<div style="page-break-after:always"></div>
+
 <!-- toc -->
 
 * [Introduction](#introduction)
@@ -48,6 +50,8 @@ The ultimate resource for transitioning to freelancing for software developers �
 
 <!-- tocstop -->
 
+<div style="page-break-after:always"></div>
+
 ---
 
 [![eAccounting Finland Oy sponsorship banner][eAccounting Finland Oy sponsorship banner image]][eAccounting Finland Oy sponsorship banner link]
@@ -73,6 +77,8 @@ If you decided to use them for your company because of this introduction:
 
 ---
 
+<div style="page-break-after:always"></div>
+
 ## Introduction
 
 ### What problem will you face without this guide?
@@ -90,6 +96,8 @@ For myself, I had questions like:
 
 Figuring those questions out was tiring and very time consuming.
 
+<div style="page-break-after:always"></div>
+
 ### How can this guide solve the problem?
 
 By **narrowing down the target audience** to the person reading this guide on GitHub, you wouldn't lose the time I lost.
@@ -103,6 +111,8 @@ You are the target audience of this guide if:
 
 This guide is under [MIT license](https://github.com/sam-hosseini/freelancing-in-finland/blob/main/LICENSE.md) which means **use it at your own risk**,
 I'm not a lawyer and no statement here should be thought of as legal advice.
+
+<div style="page-break-after:always"></div>
 
 ### **I have questions specific to my case**. Do you offer personal consultation?
 
@@ -136,6 +146,8 @@ You can [book a time here](https://cal.com/sam-hosseini/freelancing-in-finland-c
 **Can't find a time that works?**
 No problem. Email me at sam@hosseini.io and we'll figure something out.
 
+<div style="page-break-after:always"></div>
+
 ## Preparation - what to do **before** you establish your company
 
 ### Know how to handle your upcoming new immigration status
@@ -154,6 +166,8 @@ you don't need to apply for another permit.
 
 * If you have a permanent residence permit, you don't need to apply for another permit.
 * If you have any other type of permit, please contact Migri to get specific advise for your case.
+
+<div style="page-break-after:always"></div>
 
 ### Network with freelance brokers and organizations
 
@@ -209,6 +223,8 @@ by 5-20%, which would be their cut of the hourly rate. This means that, with one
 * Join the [Koodiklinikka](https://koodiklinikka.fi/) Slack and keep an eye on the #rekry channel for interesting opportunities.
 * Join the [Ohjelmistofriikit](https://ohjelmistofriikit.fi/) Slack and keep an eye on the #gigs channel for interesting opportunities.
 
+<div style="page-break-after:always"></div>
+
 ### Wait until you find a project you like
 **What is it?** Finding a freelance project is like finding a job. A lot has to be in order for you to find the right project.
 
@@ -224,6 +240,8 @@ Even though the official estimation is 2 weeks, decision comes much faster in re
 * The contract will be between a `natural person` (you) and a `legal entity` (the client's company or the freelance broker's company).
 * You will sign a new contract once you establish your company. It will be between a `legal entity` (your company) and another `legal entity` (the client's company or the freelance broker's company).
 * Your company would be selling freelance services by sending its representative (you).
+
+<div style="page-break-after:always"></div>
 
 ### Apply for startup grant
 
@@ -290,6 +308,8 @@ and you will get an electronic decision within 2 weeks (official estimation). Of
 * Apply for the grant extension [electronically](https://tyomarkkinatori.fi/en/personal-customers/official-matters)
 and you will get an electronic decision within 2-4 weeks. Official decision letter should arrive by post soon after the decision is served (~1 week).
 
+<div style="page-break-after:always"></div>
+
 ### Quit your job
 
 **What is it?** The positive decision to your startup grant is on the condition that you will quit your job and become a full-time entrepreneur.
@@ -299,6 +319,8 @@ and you will get an electronic decision within 2-4 weeks. Official decision lett
 * **Terminology**: `employee` and `self-employed` are two different terms and they cannot be used interchangeably.
 * As an `employee`, deliver your binding resignation in written form to your employer.
 * After that, and from the first day of your startup grant decision, you are `self-employed`.
+
+<div style="page-break-after:always"></div>
 
 ### Establish your company
 
@@ -392,6 +414,8 @@ obstacles to remove yourself from the so called "service" they offered you. They
     > **The purpose of a company is to generate profits for the shareholders**, unless otherwise provided in the Articles of Association.
   * That is why, for example, you cannot give a loan with 0% interest from your company to other `natural persons` or `legal entities`, as that wouldn't generate profits for your company.
 
+<div style="page-break-after:always"></div>
+
 ## Foundation - what to do **after** you establish your company
 
 ### Apply for general housing allowance
@@ -433,6 +457,8 @@ general housing allowance is ~395€ per month, tax free, for a studio in Helsin
 * If you don't have the attachments ready, you can still attach them to the application for ~10 days after sending the application.
 * You will receive a decision in ~3 weeks (official estimation).
 
+<div style="page-break-after:always"></div>
+
 ### Open a business bank account
 
 **What is it?** A business account for your company's business activities.
@@ -459,6 +485,8 @@ a few transactions a month.
 * Open a business account in your desired bank.
 * Once your business account is set up, you can give a 1,000€ *loan* from your *personal* account to your company so that you can immediately start paying business costs from your business account.
 * Later when your client pays your first sales invoice, you can return the 1,000€ *loan* to your personal bank account.
+
+<div style="page-break-after:always"></div>
 
 ### Find an accountant
 
@@ -493,6 +521,8 @@ and if we take a 75€/hour rate, you should expect to pay at least 75-150€ pe
     * If you don't know, for the target audience of this guide, ~15 receipts per month is a rough estimation.
   * Mention your bank account provider
 * Accountant will take it from there.
+
+<div style="page-break-after:always"></div>
 
 ### Buy social security insurance YEL
 
@@ -544,6 +574,8 @@ Minimum YEL                |  Maximum YEL
   * [ilmarinen](https://www.ilmarinen.fi/en/)
   * [veritas](https://www.veritas.fi/en/)
 
+<div style="page-break-after:always"></div>
+
 ### Understand your new personal taxation situation
 
 **Source of truth**: [Tax Administration](https://www.vero.fi/en/individuals/)
@@ -586,6 +618,8 @@ From the company's perspective:
 **What's the practical conclusion?** Because `Employers’ health insurance contribution` is such a small percentage, in the rest of this guide, I will intentionally assume
 that the `self-employed` people only pay `income tax` and nothing else.
 
+<div style="page-break-after:always"></div>
+
 ### Consider buying corporate liability insurance
 
 **What is it?** An insurance to cover the potential damages you may cause to your client while freelancing.
@@ -609,6 +643,8 @@ I have received offers from ~200€ up to ~500€ per year from different insura
   * Insurance offer available in ?
   * Online service available in ?
 
+<div style="page-break-after:always"></div>
+
 ### Consider joining a union
 
 **What is it?** A union is an organization which can offer its members certain services at a much lower price and lobby the interests of its members with relevant authorities.
@@ -628,6 +664,8 @@ capital into the company when establishing a limited liability company. This was
 * [Suomen Yrittäjät - Finnish Entrepreneurs](https://www.yrittajat.fi/en/)
 * [Kauppakamari - Finland chamber of commerce](https://kauppakamari.fi/en/)
   * [Helsinki chamber of commerce](https://helsinki.chamber.fi/en/)
+
+<div style="page-break-after:always"></div>
 
 ### Consider joining an unemployment fund
 
@@ -661,6 +699,8 @@ a job-seeker to be a full-time `employee` again, among other things.
 **Steps**:
 * According to [Federation of Unemployment Funds in Finland (TYJ)](https://www.tyj.fi/en/join-a-fund/membership-fees/), there's only one unemployment fund for the `self-employed`.
 * Join [Unemployment Fund for the self-employed](https://yrittajakassa.fi/en/home-2/).
+
+<div style="page-break-after:always"></div>
 
 ### Consider arranging statutory preventive occupational healthcare (SPOH)
 
@@ -712,8 +752,7 @@ if those healthcare services are included in the <ins>action plan</ins> of your 
   * Do they apply for Kela reimbursements on your behalf, or should you do it yourself?
 * Purchase SPOH from the best provider.
 
-
-
+<div style="page-break-after:always"></div>
 
 ### Consider buying health insurance
 
@@ -764,6 +803,8 @@ This allows you to get private medical care, instead of public, so you can get b
   * Does it comply with Vero's conditions for tax-exemption?
 * Purchase health insurance from the best provider.
 
+<div style="page-break-after:always"></div>
+
 ### Consider buying voluntary pension insurance
 
 **Source of truth**: [Tax Administration](https://www.vero.fi/sv/Detaljerade_skatteanvisningar/anvisningar/48268/frivilliga-pensionsf%C3%B6rs%C3%A4kringar-som-arbetsgivaren-tecknat2/)
@@ -779,6 +820,8 @@ Payouts can start at the age of ~70 and have to be paid out during at least <ins
 * [LähiTapiola](https://www.lahitapiola.fi/yritys/vakuutukset/elakevakuutukset/yrittajan-vapaaehtoinen-elakevakuutus/) ([LokalTapiola](https://www.lahitapiola.fi/sv/foretag/forsakringar/pensionsforsakringar/frivillig-pensionsforsakring-for-foretagare/))
 * [Mandatum](https://www.mandatum.fi/en/pension/entrepreneurs-supplementary-pension/), formerly part of the Sampo Group
 * [OP](https://www.op.fi/en/corporate-customers/insurance/personal-insurance/corporate-pension-insurance) (Osuuspankki/Andelsbanken)
+
+<div style="page-break-after:always"></div>
 
 ### Consider selling your personal work-related tools to your company
 
@@ -812,6 +855,8 @@ you see that the market price is ~500€ nowadays, that's a *fair market value*.
     * Signature, place, and date
 * Send an invoice to your company with all the attachments above.
 * Your company won't get any VAT refunds from the items it buys from you. This is because you, as the *natural person*, are not registered in VAT-register. It doesn't matter if you mention the price of the laptop for example includes 25.5% VAT; in your company's accounting, it'll be VAT 0% anyway.
+
+<div style="page-break-after:always"></div>
 
 ## Operation - what to do to **run** your company
 
@@ -878,6 +923,8 @@ But the moment you make that 10,000€ benefit <ins>available</ins> to yourself,
   * You can use other providers too. For example, in Helsinki, you can offer yourself commuting benefit with [HSL](https://www.hsl.fi/en/for-companies/products-and-services/commuter-benefit).
 * Register with the provider and offer yourself the benefits that you'd like.
 
+<div style="page-break-after:always"></div>
+
 ### Offer yourself daily allowance when you travel for business
 
 **Source of truth**: [Tax Administration](https://www.vero.fi/en/detailed-guidance/decisions/47405/tax-exempt-allowances-in-2025-for-business-travel/)
@@ -907,6 +954,8 @@ Once you come back to Finland, you are eligible for 5 days of daily allowance (3
   * Write down the number of days in your daily journal in the travel invoice.
   * Attach the daily journal.
 
+<div style="page-break-after:always"></div>
+
 ### Send your invoices carefully
 
 **Source of truth**: [Tax Administration](https://www.vero.fi/en/individuals/)
@@ -931,6 +980,8 @@ Once you come back to Finland, you are eligible for 5 days of daily allowance (3
     * *`reverse-charge mechanism`* works in the other way around too. In some checkout pages, the seller asks for your VAT ID to remove the VAT amount from your purchase invoice.
  Without this mechanism, the seller could not do that.
 
+<div style="page-break-after:always"></div>
+
 ### Take out money from your company in the most tax optimal way
 
 **What is it?** Taking money from the company in the most tax optimal way is **a million-dollar question**.
@@ -946,6 +997,8 @@ However, an overview of fundamentals can be illustrated.
 [limited liability company taxation fundamentals link]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/main/images/limited_liability_taxation.png
 
 \* Taken from page 77 of [Finnish Enterprise Agencies guide to becoming an Entrepreneur in Finland - 2025](https://uusyrityskeskus.fi/wp-content/uploads/2025/02/Uusyrityskeskus_EN_Perustamisopas_2025_valmis-digi.pdf)
+
+<div style="page-break-after:always"></div>
 
 ### Ensure that your obligations are fulfilled continuously
 
@@ -990,6 +1043,8 @@ Kela:
 * **Apply for statutory preventive occupational healthcare compensation**, *recurring* obligation:
 you must apply for SPOH compensation, with one application, within 6 months of the end of your company's fiscal year.
 
+<div style="page-break-after:always"></div>
+
 ### References
 
 Calculators:
@@ -1001,6 +1056,8 @@ Guides:
 
 Governmental organizations to provide support for you:
 * [International House Helsinki](https://www.ihhelsinki.fi/)
+
+<div style="page-break-after:always"></div>
 
 ## Contributors
 
@@ -1062,6 +1119,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+<div style="page-break-after:always"></div>
 
 ## Final words
 
