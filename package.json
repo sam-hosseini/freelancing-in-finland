@@ -4,7 +4,8 @@
     "markdown-toc": "1.2.0"
   },
   "scripts": {
-    "export": "cp README.md \"Freelancing in Finland ($(date +'%Y-%m-%d')).md\"",
+    "export:epub": "cat ebook/meta_data.md README.md > \"Freelancing in Finland ($(date +'%Y-%m-%d')).md\"",
+    "export:pdf": "cat ebook/meta_data.md ebook/cover_image.md README.md > \"Freelancing in Finland ($(date +'%Y-%m-%d')).md\"",
     "build": "npm run table-of-contents && npm run contributors-list",
     "table-of-contents": "markdown-toc README.md --bullets '*' -i",
     "contributors-list": "all-contributors generate"
