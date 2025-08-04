@@ -37,6 +37,7 @@ The ultimate resource for transitioning to freelancing for software developers ð
   * [Take out money from your company in the most tax optimal way](#take-out-money-from-your-company-in-the-most-tax-optimal-way)
   * [Ensure that your obligations are fulfilled continuously](#ensure-that-your-obligations-are-fulfilled-continuously)
   * [References](#references)
+* [This guide really helped me. Can I support your work?](#this-guide-really-helped-me-can-i-support-your-work)
 * [Contributors](#contributors)
 * [Final words](#final-words)
 
@@ -1078,6 +1079,28 @@ Guides:
 
 Governmental organizations to provide support for you:
 * [International House Helsinki](https://www.ihhelsinki.fi/)
+
+<div style="page-break-after:always"></div>
+
+## This guide really helped me. Can I support your work?
+
+Yes, you can!
+
+**Do you have a donation page, like _Buy Me a Coffee_?**
+No, [because it would be illegal](https://poliisi.fi/en/under-what-circumstances-can-i-run-a-money-collection-campaign-).
+
+In Finland, private individuals and businesses cannot request or accept donations.
+
+**How can I support your work then?**
+You can [buy the e-book version of the guide on Gumroad](https://samhosseini.gumroad.com/l/freelancing-in-finland).
+
+The e-book contains the <ins>exact same content</ins> as the guide on GitHub.
+However, by purchasing the book:
+
+* You get the PDF and ePub versions of the guide, so you can read it on your Kindle, Kobo, etc.
+* You support me in keeping the guide up to date.
+
+Thank you!
 
 <div style="page-break-after:always"></div>
 
