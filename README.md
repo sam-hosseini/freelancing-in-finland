@@ -2,6 +2,10 @@
 
 The ultimate resource for transitioning to freelancing for software developers 👩‍💻🇫🇮
 
+<a href="https://samhosseini.gumroad.com/l/freelancing-in-finland">
+  <img src="./images/ebook_cover_image_3d.png" width="200px" align="right" />
+</a>
+
 <div style="page-break-after:always"></div>
 
 <!-- toc -->
