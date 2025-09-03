@@ -237,7 +237,7 @@ Even though the official estimation is 2 weeks, decision comes much faster in re
 
 ### Apply for startup grant
 
-**Source of truth**: [Job Market Finland startup grant page](https://tyomarkkinatori.fi/en/services/af2667af-e1b5-43dd-9b46-5e49ad1b1c9c/start-up-grant---support-for-a-new-entrepreneur)
+**Source of truth**: [Job Market Finland startup grant page](https://tyomarkkinatori.fi/en/more-information-about-services/start-up-grant)
 
 **What is it?** Startup grant is a program to support you to become an entrepreneur.
 You will receive the monthly payment for a total of 6 months (if you apply once) or a total of 12 months (if you apply for extension as well).
