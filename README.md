@@ -138,6 +138,37 @@ You can [book a time here](https://cal.com/sam-hosseini/freelancing-in-finland-c
 **Can't find a time that works?**
 No problem. Email me at sam@hosseini.io and we'll figure something out.
 
+**Testimonials**
+
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/artur-glukhovskyy-perrella/">
+        <img
+          src="https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/main/images/testimonials/artur-perrella-glukhovskyy.jpeg"
+          width="1000"
+          height="auto"
+        />
+      </a>
+    </td>
+    <td>
+      <i>
+        Have you ever asked a specific question, only for people to give you
+        everything but the answer you need? That's what happened between me, the
+        Italian accountant and the Finnish accountant. I asked for A, but they
+        told me something that didn't solve my issue. After six hours of calls,
+        I still hadn't found a solution. Then I had a 60-minute call with Sam. I
+        had clear doubts. He provided clear answers. I understood what I needed
+        point by point, and now I know what to expect if I move my business from
+        Italy to Finland. Thanks, Sam! —
+      </i>
+      <a href="https://www.linkedin.com/in/artur-glukhovskyy-perrella/">
+        <span>Artur Perrella Glukhovskyy</span>
+      </a>
+    </td>
+  </tr>
+</table>
+
 <div style="page-break-after:always"></div>
 
 ## Preparation - what to do **before** you establish your company
