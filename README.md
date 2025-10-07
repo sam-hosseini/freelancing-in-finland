@@ -526,6 +526,11 @@ Your accountant has the best understanding of your company and is in the best po
 A freelancing company for the target audience of this guide with no other activities will take at least an hour or two of their time,
 and if we take a 75€/hour rate, you should expect to pay at least 75-150€ per month.
 
+**What if I don't want an accountant?** Finnish law allows you to do the accounting by yourself.
+You can also use accounting automation tools, like [ExampleHere](https://google.com), which can do a lot of the work for you (payslip, VAT reports, etc).
+ExampleHere guys reached out to me, and said if you sign up with `ExampleCode`, you'll get the first X months for free, and obviously, I make money too.
+That'd be a great way of supporting me to keep the guide up-to-date.
+
 **List of accountants who offer English services as well**:
 * [eAccounting Finland](https://www.eaccounting.fi/en/) -> They all speak English
 * [Firmally](https://firmally.fi/en/home-en/)
