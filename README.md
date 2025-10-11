@@ -392,7 +392,7 @@ you'll update your company's information in Business Information System if there
 that you feel is most relevant.
   * `62010 Computer programming activities` is common as several freelancing agencies like Futurice and Reaktor have chosen that, so you can go with that as well.
  
-* In addition to your main line of business, you should also declare in yhtiöjärjestys (corporate by-laws) that your corporation's business includes investing activities ("Lisäksi yhtiön toimialaan kuuluu sijoitustoiminta."). This does not obligate you to do any investing activities, but putting it in from the start will spare you an unnecessary 280 euro fee later if you decide to set up investments within your corporation later.
+* In addition to your main line of business, you should also declare in yhtiöjärjestys (corporate by-laws) that your corporation's business includes investing activities ("Yhtiö voi harjoittaa sijoitustoimintaa. Yhtiö voi omistaa ja hallita arvopapereita ja kiinteistöjä ja virtuaalivaluuttoja ja käydä niillä kauppaa."). This does not obligate you to do any investing activities, but putting it in from the start will spare you an unnecessary 280 euro fee later if you decide to set up investments within your corporation later.
 
 * Choose your company's fiscal year ending.
   * Fiscal year is the 12-month period in which your company operates.
