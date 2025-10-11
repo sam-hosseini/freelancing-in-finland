@@ -391,10 +391,12 @@ you'll update your company's information in Business Information System if there
   * For freelancing, you can choose any from [Information and communication > Computer programming, consultancy and related activities](https://stat.fi/en/luokitukset/toimiala/toimiala_1_20080101?code=62&name=Computer%20programming%2C%20consultancy%20and%20related%20activities)
 that you feel is most relevant.
   * `62010 Computer programming activities` is common as several freelancing agencies like Futurice and Reaktor have chosen that, so you can go with that as well.
+ 
+* In addition to your main line of business, you should also declare in yhtiöjärjestys (corporate by-laws) that your corporation's business includes investing activities ("Yhtiö voi harjoittaa sijoitustoimintaa. Yhtiö voi omistaa ja hallita arvopapereita ja kiinteistöjä ja virtuaalivaluuttoja ja käydä niillä kauppaa."). This does not obligate you to do any investing activities, but putting it in from the start will spare you an unnecessary 280 euro fee later if you decide to set up investments within your corporation later.
 
 * Choose your company's fiscal year ending.
   * Fiscal year is the 12-month period in which your company operates.
-  * *First* fiscal year is always an exception and it can be less than 12 months or up to a maximum of 18 months.
+  * *First* fiscal year is always an exception and it can be less than 12 months or up to a maximum of 18 months. Due to practical and tax reasons, you probably want to avoid short fiscal years (e.g. instead of choosing 2-month fiscal year, choose 14 months).
   * Fiscal year can be the same as `calendar` year and finish at the end of December.
   * Fiscal year can also end at other times, like end of September, March, etc.
   * A lot of companies have their fiscal year the same as `calendar` year and this makes accounting offices really busy during the turn of the year.
