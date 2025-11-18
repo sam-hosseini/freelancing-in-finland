@@ -392,9 +392,18 @@ you'll update your company's information in Business Information System if there
 that you feel is most relevant.
   * `62010 Computer programming activities` is common as several freelancing agencies like Futurice and Reaktor have chosen that, so you can go with that as well.
 
+* Choose your company's potential lines of business.
+  * You should declare all the business areas you think your company will engage in within your Articles of Association (yhtiöjärjestys).
+  * This is important, because any changes to Articles of Association requires an [amendment](https://www.prh.fi/en/companiesandorganisations/muutokset_rekisteritietoihin/limitedcompanyamendments/articles.html), which you have to file and pay €280 for.
+  * You probably want to add *investing activities* to your Articles of Association.
+    * This does not obligate you to do any investments.
+    * However, by adding it, if you decide to set up investments within your company later on, you don't have to file an amendment.
+    * Also, some stockbrokers, like Nordnet, may refuse to open an investment account for your company if they don't see *investing activities* in your Articles of Association.
+    * Here's the text: *Yhtiö voi harjoittaa sijoitustoimintaa. Yhtiö voi omistaa ja hallita arvopapereita ja kiinteistöjä ja virtuaalivaluuttoja ja käydä niillä kauppaa.*
+
 * Choose your company's fiscal year ending.
   * Fiscal year is the 12-month period in which your company operates.
-  * *First* fiscal year is always an exception and it can be less than 12 months or up to a maximum of 18 months.
+  * *First* fiscal year is always an exception and it can be less than 12 months or up to a maximum of 18 months. Due to practical and tax reasons, you probably want to avoid short fiscal years (e.g. instead of choosing 2-month fiscal year, choose 14 months).
   * Fiscal year can be the same as `calendar` year and finish at the end of December.
   * Fiscal year can also end at other times, like end of September, March, etc.
   * A lot of companies have their fiscal year the same as `calendar` year and this makes accounting offices really busy during the turn of the year.
