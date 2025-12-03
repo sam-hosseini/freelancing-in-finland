@@ -2,6 +2,56 @@
 
 The ultimate resource for transitioning to freelancing for software developers 👩‍💻🇫🇮
 
+---
+
+#### Sincere thank you to these freelance networks for sponsoring the guide 🧡
+
+<br>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://wittedpartners.com/for-talents">
+        <img src="./images/networks/witted.jpeg" width="100" />
+      </a>
+      <br>
+      <a href="https://wittedpartners.com/for-talents">Witted</a>
+    </td>
+    <td align="center">
+      <a href="https://www.thriv.dev/talent">
+        <img src="./images/networks/thriv.jpeg" width="100" />
+      </a>
+      <br>
+      <a href="https://www.thriv.dev/talent">Thriv</a>
+    </td>
+    <td align="center">
+      <a href="https://www.finitec.fi/en/freelancer">
+        <img src="./images/networks/finitec.jpeg" width="100" />
+      </a>
+      <br>
+      <a href="https://www.finitec.fi/en/freelancer">Finitec</a>
+    </td>
+    <td align="center">
+      <a href="https://siilione.com/partners">
+        <img src="./images/networks/siili_one.jpeg" width="100" />
+      </a>
+      <br>
+      <a href="https://siilione.com/partners">Siili One</a>
+    </td>
+    <td align="center">
+      <a href="https://hiq.fi/en/subcontracting/">
+        <img src="./images/networks/hiq.jpeg" width="100" />
+      </a>
+      <br>
+      <a href="https://hiq.fi/en/subcontracting/">HiQ</a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
+
 <div style="page-break-after:always"></div>
 
 <!-- toc -->
