@@ -167,6 +167,32 @@ No problem. Email me at sam@hosseini.io and we'll figure something out.
       </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/ebihimself/">
+        <img
+          src="https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/main/images/testimonials/ebi-ahmadivarzaneh.jpeg"
+          width="1000"
+          height="auto"
+        />
+      </a>
+    </td>
+    <td>
+      <i>
+        Sam has an excellent grasp of the details and nuances of running a
+        business in Finland. What truly sets him apart is that he has
+        experienced many of these challenges himself, so you're not just paying
+        for theory, you're paying for real-world experience that helps you avoid
+        costly mistakes. He has a strong understanding of company taxation and
+        business structures and is able to highlight risks that are easy to
+        overlook. I will definitely continue to draw on his knowledge in the
+        future. —
+      </i>
+      <a href="https://www.linkedin.com/in/ebihimself/">
+        <span>Ebi Ahmadivarzaneh</span>
+      </a>
+    </td>
+  </tr>
 </table>
 
 <div style="page-break-after:always"></div>
