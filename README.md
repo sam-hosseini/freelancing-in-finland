@@ -315,8 +315,8 @@ You can use [Job Market Finland](https://tyomarkkinatori.fi/en/employers-and-ent
 draw up your business plan which includes all the necessary financial calculations as well.
 
 * Once you have your business plan ready, as an **optional** step, you can send an email with your business plan attached to the
-[Enterprise Agency in your city](https://uusyrityskeskus.fi/en/help-for-entrepreneurs/the-enterprise-agencies/) and ask them for an appointment with a _Business Advisor_.
-In Helsinki, [Business Helsinki (Helsingin Uusyrityskeskus ry)](https://www.hel.fi/en/business-and-work/businesses-and-entrepreneurs/starting-a-business) is the Enterprise Agency to go to. Although it is not mandatory to go to this appointment for getting startup grant,
+[Enterprise Agency in your city](https://uusyrityskeskus.fi/en/regional-enterprise-agencies/) and ask them for an appointment with a _Business Advisor_.
+In Helsinki, [Business Helsinki (Helsingin Uusyrityskeskus ry)](https://www.hel.fi/en/business-and-work/start-a-business) is the Enterprise Agency to go to. Although it is not mandatory to go to this appointment for getting startup grant,
 the _Business Advisor_ has seen hundreds of business plans and can guide you to correct your mistakes in the business plan and therefore increase your chances for a successful application.
 
 * You need an updated Resumé as an attachment to your application.
@@ -1053,7 +1053,7 @@ However, an overview of fundamentals can be illustrated.
 [limited liability company taxation fundamentals image]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/main/images/limited_liability_taxation.png
 [limited liability company taxation fundamentals link]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/main/images/limited_liability_taxation.png
 
-\* Taken from page 77 of [Finnish Enterprise Agencies guide to becoming an Entrepreneur in Finland - 2025](https://uusyrityskeskus.fi/wp-content/uploads/2025/02/Uusyrityskeskus_EN_Perustamisopas_2025_valmis-digi.pdf)
+\* Taken from [Finnish Enterprise Agencies guide to becoming an Entrepreneur in Finland](https://uusyrityskeskus.fi/en/download-guide-to-starting-a-business/)
 
 <div style="page-break-after:always"></div>
 
@@ -1109,7 +1109,7 @@ Calculators:
 
 Guides:
 * [Suomi.fi](https://www.suomi.fi/company/)
-* [Finnish Enterprise Agencies guide to becoming an Entrepreneur in Finland - 2025](https://uusyrityskeskus.fi/wp-content/uploads/2025/02/Uusyrityskeskus_EN_Perustamisopas_2025_valmis-digi.pdf)
+* [Finnish Enterprise Agencies guide to becoming an Entrepreneur in Finland](https://uusyrityskeskus.fi/en/download-guide-to-starting-a-business/)
 
 Governmental organizations to provide support for you:
 * [International House Helsinki](https://www.ihhelsinki.fi/)
