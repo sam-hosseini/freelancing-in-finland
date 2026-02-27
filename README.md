@@ -243,6 +243,7 @@ In extraordinary situations, I've heard of 150-200€ per hour.
 
 However, the ranges above are for direct company-to-client sales. If you get connected to a client using an intermediary broker company, the ranges will be cut
 by 5-20%, which would be their cut of the hourly rate. This means that, with one intermediary company, you're looking at 65-105€ per hour in non-extraordinary situations.
+To calculate your own minimum sustainable hourly rate based on your target income, Finnish taxes, and business expenses, use this [hourly rate calculator](https://arvento.fi/tuntihinta-laskuri) (Finnish).
 
 **List of brokers**:
 * Fika ☕️ with [Witted](https://wittedpartners.com/for-talents) and get into their network.
@@ -301,6 +302,7 @@ You will receive the monthly payment for a total of 6 months (if you apply once)
 **How much?** ~740€ per month, as personal income. If your income tax is 10%, for example, you will get ~665€.
 You must deliver a [revised tax card for benefits](https://www.vero.fi/henkiloasiakkaat/verokortti-ja-veroilmoitus/verokortti/tilaa-uusi-verokortti/etuudet2/) to TE-services for them to use
 your real income tax percentage, otherwise they withhold 25% income tax by default and you'll get ~555€.
+To calculate how much you'd receive after taxes based on your own tax rate, use this [startup grant calculator](https://arvento.fi/starttiraha-laskuri) (Finnish).
 
 **Steps** for first application:
 
@@ -616,6 +618,8 @@ Minimum YEL                |  Maximum YEL
 [maximum YEL link]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/main/images/maximum_YEL.png
 
 \* Taken from [Varma's YEL calculator](https://www.varma.fi/en/self-employed/yel-insurance/yel-calculator/)
+
+To calculate your exact monthly YEL contribution and see what social security coverage you get in return, use this [YEL calculator](https://arvento.fi/yel-laskuri) (Finnish).
 
 **Steps**:
 
