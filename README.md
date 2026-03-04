@@ -244,6 +244,8 @@ In extraordinary situations, I've heard of 150-200€ per hour.
 However, the ranges above are for direct company-to-client sales. If you get connected to a client using an intermediary broker company, the ranges will be cut
 by 5-20%, which would be their cut of the hourly rate. This means that, with one intermediary company, you're looking at 65-105€ per hour in non-extraordinary situations.
 
+You can use the [freelancer hourly rate calculator](https://arvento.fi/tuntihinta-laskuri) to figure out a sustainable rate that covers your Finnish taxes, YEL contributions, and business costs.
+
 **List of brokers**:
 * Fika ☕️ with [Witted](https://wittedpartners.com/for-talents) and get into their network.
 * Fika ☕️ with [Thriv](https://www.thriv.dev/talent) and get into their network.
@@ -298,7 +300,7 @@ Even though the official estimation is 2 weeks, decision comes much faster in re
 **What is it?** Startup grant is a program to support you to become an entrepreneur.
 You will receive the monthly payment for a total of 6 months (if you apply once) or a total of 12 months (if you apply for extension as well).
 
-**How much?** ~740€ per month, as personal income. If your income tax is 10%, for example, you will get ~665€.
+**How much?** ~740€ per month, as personal income. If your income tax is 10%, for example, you will get ~665€. See the [startup grant calculator](https://arvento.fi/starttiraha-laskuri) to estimate your after-tax startup grant based on your personal tax rate.
 You must deliver a [revised tax card for benefits](https://www.vero.fi/henkiloasiakkaat/verokortti-ja-veroilmoitus/verokortti/tilaa-uusi-verokortti/etuudet2/) to TE-services for them to use
 your real income tax percentage, otherwise they withhold 25% income tax by default and you'll get ~555€.
 
@@ -586,7 +588,7 @@ and if we take a 75€/hour rate, you should expect to pay at least 75-150€ pe
 **Source of truth**: [ETK Finnish Center for Pensions](https://www.etk.fi/en/finnish-pension-system/pensions/pension-coverage-and-insurance/self-employed/)
 
 **What is it?** YEL _(sv: FöPL)_ is a mandatory social security insurance for `self-employed` persons.
-**YEL official name is very misleading** (*Self-Employed Person’s Pensions Act*), because **YEL determines your entire social security benefits**, <ins>not</ins> just your pension.
+**YEL official name is very misleading** (*Self-Employed Person’s Pensions Act*), because **YEL determines your entire social security benefits**, <ins>not</ins> just your pension. You can use the [YEL calculator](https://arvento.fi/yel-laskuri) to see how different YEL income levels affect your social security coverage.
 
 For example, if you get sick, your *daily sickness allowance* is calculated based on your YEL. The more you pay for YEL, the more *daily sickness allowance* you get.
 
