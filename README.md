@@ -1106,6 +1106,7 @@ you must apply for SPOH compensation, with one application, within 6 months of t
 
 Calculators:
 * [Salary vs Dividend ratio optimizer](https://osinkoavaipalkkaa.fi/)
+* [Freelancer hourly rate calculator](https://arvento.fi/tuntihinta-laskuri) - calculates minimum hourly rate from target net income, accounting for Finnish progressive tax brackets, YEL pension contributions, and billable hours
 
 Guides:
 * [Suomi.fi](https://www.suomi.fi/company/)
