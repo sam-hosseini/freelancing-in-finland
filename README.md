@@ -1046,6 +1046,12 @@ Only a team of competent accountants and competent lawyers specializing in corpo
 This guide could not be reasonably expected to be of much help to answer that question, as the circumstances for every company are specific.
 However, an overview of fundamentals can be illustrated.
 
+**Can I take out a salary while I'm without a project?** If you're without a project, and therefore with little to no revenue,
+for an *extended amount of time* (e.g. 2 years), and you're not doing marketing/sales/other things in your company
+that would justify the salary you'd like to take out, then it's wise to consult with a tax lawyer to see
+if you can do it. Without consultation with a lawyer and being certain, you have the risk of Vero categorizing the salaries
+as disguised dividends. So it's not as simple as "I can take out whatever salary I want, whenever I want".
+
 **What are the fundamentals in taxation of income in a limited liability company?**
 
 [![limited liability company taxation fundamentals][limited liability company taxation fundamentals image]][limited liability company taxation fundamentals link]
