@@ -1,5 +1,5 @@
 {
   "$schema": "https://opencode.ai/config.json",
   "instructions": [".opencode/AGENTS.md"],
-  "model": "github-copilot/gpt-5"
+  "model": "github-copilot/gpt-5.4"
 }
