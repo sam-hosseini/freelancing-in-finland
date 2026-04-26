@@ -432,8 +432,9 @@ that you feel is most relevant.
   * *First* fiscal year is always an exception and it can be less than 12 months or up to a maximum of 18 months. Due to practical and tax reasons, you probably want to avoid short fiscal years (e.g. instead of choosing 2-month fiscal year, choose 14 months).
   * Fiscal year can be the same as `calendar` year and finish at the end of December.
   * Fiscal year can also end at other times, like end of September, March, etc.
-  * A lot of companies have their fiscal year the same as `calendar` year and this makes accounting offices really busy during the turn of the year.
-To avoid this busy season, you can choose a fiscal year that ends well before or after the turn of the year, like September or April.
+    * A lot of companies have their fiscal year the same as `calendar` year and this makes accounting offices really busy during the turn of the year. To avoid this busy season, you can choose a fiscal year that ends well before or after the turn of the year, like September or April.
+    * Please note that this affects when you can [withdraw dividends](#take-out-money-from-your-company-in-the-most-tax-optimal-way). Dividends can be withdrawn based on the balance sheet of the [fiscal year that ended during the previous calendar year](https://www.talousverkko.fi/post/osingonjako-murretulla-tilikaudella-oletko-nostanut-osinkosi-aina-vaarin). For example, if the fiscal year ends on 30.09.2026, you can only withdraw dividends based on its result starting from 01.01.2027.
+    * Based on these, I recommend October or November. This gives your accountant 1-2 months to close the fiscal year. Then you can withdraw dividends in the beginning of January.
 
 * Choose your company's number of shares.
   * I recommend 10,000 shares for the target audience of this guide based on my own accountant's advice.
