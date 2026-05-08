@@ -450,7 +450,7 @@ that you feel is most relevant.
 * Decide the registries you'd like your company to be part of:
   * Trade register ✅, as the company cannot come into life without it.
   * Prepayment register ✅, as without it, other companies have to withhold taxes on the amounts they pay you.
-  * VAT register ✅, as you can start deducting VAT from things or services you  purchase for your *main line of business*. For example, if you buy a laptop for 2,000€, you'll get ~500€ back (VAT 25.5%).
+  * VAT register ✅, as you can start deducting VAT from things or services you  purchase for your *main line of business*. For example, if you buy a laptop for 2,000€, you'll get ~400€ back (VAT 25.5%).
   * Employer register ❌, because you don't need it if you're not employing anyone else. The fact that you're employing yourself is irrelevant as you're considered `self-employed`, not an `employee`.
 You can join later, once and if you start employing others.
 
