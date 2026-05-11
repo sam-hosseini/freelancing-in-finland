@@ -450,7 +450,7 @@ that you feel is most relevant.
 * Decide the registries you'd like your company to be part of:
   * Trade register ✅, as the company cannot come into life without it.
   * Prepayment register ✅, as without it, other companies have to withhold taxes on the amounts they pay you.
-  * VAT register ✅, as you can start deducting VAT from things or services you  purchase for your *main line of business*. For example, if you buy a laptop for 2,000€, you'll get ~500€ back (VAT 25.5%).
+  * VAT register ✅, as you can start deducting VAT from things or services you  purchase for your *main line of business*. For example, if you buy a laptop for 2,000€, you'll get ~400€ back (VAT 25.5%).
   * Employer register ❌, because you don't need it if you're not employing anyone else. The fact that you're employing yourself is irrelevant as you're considered `self-employed`, not an `employee`.
 You can join later, once and if you start employing others.
 
@@ -646,19 +646,19 @@ an `employee` and practically speaking, you only pay `income tax` and nothing el
 From the `employee`'s perspective:
 
 1. The employer withholds 35% of 1,000€ as `income tax` => 350€
-2. The employer withholds 7.15% of 1,000€ as `TyEL pension insurance contribution` => 71.5€
-3. The employer withholds 0.59% of 1,000€ as `unemployment insurance contribution` => 5.9€
-4. The employer pays withheld amount of 427.40€ to Tax Administration and other insurance providers.
-5. The *employee* receives the rest which is 572.6€.
+2. The employer withholds 7.30% of 1,000€ as `TyEL pension insurance contribution` => 73€
+3. The employer withholds 0.89% of 1,000€ as `unemployment insurance contribution` => 8.9€
+4. The employer pays withheld amount of 431.90€ to Tax Administration and other insurance providers.
+5. The *employee* receives the rest which is 568.1€.
 
 From the `employer`'s perspective:
 
-1. The employer has to pay 17.38% of 1,000€ as `Employee's pension insurance contribution` => 173.8€
-2. The employer has to pay 0.80% of 1,000€ as `Employer’s unemployment insurance contribution` => 8€
+1. The employer has to pay 17.10% of 1,000€ as `Employee's pension insurance contribution` => 171€
+2. The employer has to pay 1.23% of 1,000€ as `Employer’s unemployment insurance contribution` => 12.3€
 3. The employer has to pay 0.54% of 1,000€ as `Occupational accident and disease insurance contribution` => 5.4€
 4. The employer has to pay 0.06% of 1,000€ as `Group life insurance contribution` => 0.6€
-5. The employer has to pay 1.87% of 1,000€ as `Employers’ health insurance contribution` => 18.70€
-6. The employer pays 206.5€ to Tax Administration and other insurance providers.
+5. The employer has to pay 1.91% of 1,000€ as `Employers’ health insurance contribution` => 19.10€
+6. The employer pays 208.4€ to Tax Administration and other insurance providers.
 
 **How is the payslip for a `self-employed`?** Imagine a basic example, in which a `self-employed` person receives 1,000€ salary from their own company, and his/her tax card says their tax is 35%.
 
@@ -670,8 +670,8 @@ From the `self-employed`'s perspective:
 
 From the company's perspective:
 
-1. The company has to pay 1.87% of 1,000€ as `Employers’ health insurance contribution` => 18.70€
-2. The company pays 18.70€ to Tax Administration.
+1. The company has to pay 1.91% of 1,000€ as `Employers’ health insurance contribution` => 19.10€
+2. The company pays 19.10€ to Tax Administration.
 
 **What's the practical conclusion?** Because `Employers’ health insurance contribution` is such a small percentage, in the rest of this guide, I will intentionally assume
 that the `self-employed` people only pay `income tax` and nothing else.
