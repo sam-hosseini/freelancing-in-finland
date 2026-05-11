@@ -1177,6 +1177,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="http://akirataguchi115.github.io/"><img src="https://avatars.githubusercontent.com/u/31825085?v=4?s=100" width="100px;" alt="Akira Taguchi"/><br /><sub><b>Akira Taguchi</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=akirataguchi115" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/pnupu"><img src="https://avatars.githubusercontent.com/u/38039015?v=4?s=100" width="100px;" alt="Ilkka Lappeteläinen"/><br /><sub><b>Ilkka Lappeteläinen</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=pnupu" title="Documentation">📖</a></td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/pankaj-pant"><img src="https://avatars.githubusercontent.com/u/44195004?v=4?s=100" width="100px;" alt="pankaj-pant"/><br /><sub><b>pankaj-pant</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=pankaj-pant" title="Documentation">📖</a></td>
+    </tr>
   </tbody>
 </table>
 
