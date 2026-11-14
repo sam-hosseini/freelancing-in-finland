@@ -804,6 +804,8 @@ if those healthcare services are included in the <ins>action plan</ins> of your 
   * [Heltti](https://heltti.fi/en/occupational-health/small-companies/)
   * [Pihlajalinna](https://www.pihlajalinna.fi/en/occupational-health-care/occupational-health-services-for-companies/statutory-preventive-occupational-health-care)
   * [Aava](https://www.aava.fi/tyoterveys/tyoterveyspalvelumme/yrittajalle/)
+  * [Finla](https://finla.fi/en/occupational-health-packages/)
+  * [Dokport](https://tyonantaja.dokport.com/)
 * Evaluate each quote.
   * What are the start-up costs (workplace survey, action plan, etc)?
   * What are the annual costs (action plan review, etc)?
