@@ -568,6 +568,8 @@ and if we take a 75€/hour rate, you should expect to pay at least 75-150€ pe
 * [KT Kirjanpito](https://www.ktkirjanpito.fi) Outi & Viivu speak English and specialize in micro businesses
 * [Valjas](https://www.valjas.fi/en/)
 * [Lemontree](https://lemontree.fi/) offers English services even though their website is only in Finnish
+* [UKKO Entrepreneur for Limited Companies](https://ukko.fi/en/entrepreneur/limited-company-bookkeeping-and-invoicing/)
+  * If you've joined the [Ohjelmistofriikit](#network-with-freelance-brokers-and-organizations) (Finnish software freelancers co-op), you get a [15% discount](https://ukko.fi/kumppani/ohjelmistofriikit/) on the service fees.
 
 **Steps**:
 
